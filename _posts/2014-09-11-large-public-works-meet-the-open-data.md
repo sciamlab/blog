@@ -76,4 +76,4 @@ a relational database schema to validate, consolidate and then expose the Expo 2
 The data indeed originally come from a shared spreadsheet feeded collaborativelly
 by Expo's personnel, periodically dumped into a MS Access and finally consolidated by us
 into a relational PostgreSQL schema. It was a continuos iterative process that went far beyond the most extreme programming practices. For the layout customization we created a CKAN plugin that has been released as open source and [made available on GitHub](https://github.com/sciamlab/ckanext-expo2015)
-It was challengin bu fun, like a mission impossibile, a sleepless experience where no failures can be tolerated!
+It was challenging but fun, like a mission impossibile, a sleepless experience where no failures can be tolerated!
