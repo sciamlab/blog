@@ -1,6 +1,0 @@
-safe: true
-lsi: false
-pygments: true
-permalinks: pretty
-future: false
-markdown: kramdown
