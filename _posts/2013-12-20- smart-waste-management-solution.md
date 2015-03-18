@@ -5,7 +5,7 @@ categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
 postimage: /img/openexpo-screens.jpg
 layout: post
-date: 2013-12-15 19:40
+date: 2013-12-20 19:40
 author: Yolanda
 comments: true
 tags:
