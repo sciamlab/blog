@@ -6,7 +6,7 @@ thumbimg: /img/blog-widget02.jpg
 postimage: /img/blog00.jpg
 layout: post
 date: 2014-11-15 15:50
-author: SciamLab Team
+author: Yolanda
 comments: true
 tags:
 - open data
