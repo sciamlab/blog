@@ -27,6 +27,8 @@ This innovative workshop was addressed to RUFA students of the second and third 
 The future will be for minds that are smart creative, business expertise and technical skill. So let's start working together!
 
 
+
+
 To learn more about the project visit the following links:
 
 [Immigrants and emigrants population flow for nations](http://www.peoplemov.in)  
