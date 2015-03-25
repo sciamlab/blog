@@ -1,5 +1,5 @@
 ---
-title: my data, my life
+title: My data, my life
 tags: [privacy,personal data]
 categories: [Open Data]
 thumbimg: /img/blog-widget02.jpg
