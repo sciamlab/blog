@@ -1,5 +1,5 @@
 ---
-title: large public works meet the open data 
+title: Large public works meet the Open Data 
 tags: [transparency,opendata,opencontracting,procurement,expo2015]
 categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
