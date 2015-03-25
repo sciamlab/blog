@@ -2,7 +2,7 @@
 title: Workshop Open and Big data visualization
 tags: [open data, big data, workshop, design]
 categories: [Open Data]
-thumbimg: /images/workshop.JPG
+thumbimg: /
 postimage: /images/workshop.JPG
 layout: post
 date: 2014-11-15 15:50
