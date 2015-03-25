@@ -41,4 +41,4 @@ To learn more about the project visit the following links:
 
 [Interactive application based on the crossing of ISTAT data “Il dato è tratto”](http://istatcontest.sciamlab.com/regioni.html)
 
-[A 3-D view of a chart that predicts the economic future: the yield curve] (http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?rref=upshot&smid=tw-upshotnyt&abt=0002&abg=1&_r=0)
+[A 3-D view of a chart that predicts the economic future: the yield curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?rref=upshot&smid=tw-upshotnyt&abt=0002&abg=1&_r=0)
