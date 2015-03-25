@@ -1,9 +1,9 @@
 ---
-title: workshop open and big data visualization
+title: Workshop Open and Big data visualization
 tags: [open data, big data, workshop, design]
 categories: [Open Data]
-thumbimg: /img/blog-widget02.jpg
-postimage: /img/blog00.jpg
+thumbimg: /images/workshop.JPG
+postimage: /images/workshop.JPG
 layout: post
 date: 2014-11-15 15:50
 author: Yolanda
@@ -40,3 +40,5 @@ To learn more about the project visit the following links:
 [Screening on the places where meteorites have fallen (by type) from 1800 to today](http://maulik-kamdar.com/code/meteorViz/)
 
 [Interactive application based on the crossing of ISTAT data “Il dato è tratto”](http://istatcontest.sciamlab.com/regioni.html)
+
+[A 3-D view of a chart that predicts the economic future: the yield curve] (http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?rref=upshot&smid=tw-upshotnyt&abt=0002&abg=1&_r=0)
