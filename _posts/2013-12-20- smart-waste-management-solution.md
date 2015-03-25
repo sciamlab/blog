@@ -2,8 +2,8 @@
 title: Smart Waste Management Solution
 tags: [Smart,Waste,Management,Solution,costs,savings,SciamLab]
 categories: [Open Data]
-thumbimg: /img/blog-widget-openexpo.jpg
-postimage: /img/openexpo-screens.jpg
+thumbimg: /images/waste system.JPG
+postimage: /images/benefits.JPG
 layout: post
 date: 2013-12-20 19:40
 author: Yolanda
