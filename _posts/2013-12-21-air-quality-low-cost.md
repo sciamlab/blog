@@ -5,7 +5,7 @@ categories: [Open Data]
 thumbimg: /img/blog06.png
 postimage: /images/airqualitylowcost.jpg
 layout: post
-date: 2013-12-15 15:50
+date: 2013-12-21 15:50
 author: Luca
 comments: true
 tags:
