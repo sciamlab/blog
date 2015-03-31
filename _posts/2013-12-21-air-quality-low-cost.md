@@ -13,9 +13,12 @@ tags:
 - low cost 
 - arduino
 ---
+
 We finally implemented our first **air quality low cost station**! 
 Few days ago we found on internet [the airqualityegg](http://airqualityegg.com) and inspired from that project we told ourselves: why don’t we try approaching the problem checking out if we can do something similar with a **lower cost**? Well we took our **Arduino**, an air quality sensor, **a Bluetooth modem**, some spare time and….voilà! 
 Here our small station sends via Bluetooth the values of **the concentration of air particles** in mg/m3 to **an android device** every second.
+
+
 
 
 **Tech specs:**
@@ -35,6 +38,8 @@ Here our small station sends via Bluetooth the values of **the concentration of 
 7)	wires
 
 8)	time and patience
+
+
 
 
 
