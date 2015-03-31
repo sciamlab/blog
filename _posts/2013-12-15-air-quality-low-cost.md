@@ -21,13 +21,21 @@ Here our small station sends via Bluetooth the values of **the concentration of 
 **Tech specs:**
 
 1)	Arduino UNO V3 (microcontroller)
+
 2)	GP2Y1010AU0F (Sharp optical air quality sensor)
+
 3)	BlueSMIRF (Sparkfun Bluetooth modem)
+
 4)	220uF polarized capacitor
+
 5)	150 OHM resistor
+
 6)	9V battery
+
 7)	wires
+
 8)	time and patience
+
 
 
 **Implementation time:** 2hours (crimping connectors for the sensor without a proper crimper has been the longest activity)
