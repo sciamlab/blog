@@ -4,6 +4,7 @@ tags: [Triduino, prototype, sensor]
 categories: [Open Data]
 thumbimg: /img/blog-widget05.jpg
 postimage: /images/triduino.jpg
+postimage: /images/startrek.jpg
 layout: post
 date: 2014-04-15 15:50
 author: Yolanda
