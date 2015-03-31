@@ -2,7 +2,7 @@
 title: Sciamlab first air quality low cost station
 tags: [air quality, low cost, arduino]
 categories: [Open Data]
-thumbimg: /img/blog06.png
+thumbimg: /img/blog03.jpg
 postimage: /images/airqualitylowcost.jpg
 layout: post
 date: 2013-12-21 15:50
