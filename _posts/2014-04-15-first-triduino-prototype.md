@@ -32,9 +32,9 @@ all in few minutes.
 
 Not only: what I wanted to achieve was also the possibility of **defining a formula** to be applied to the raw signal coming from sensors and being elaborated on the mobile in real-time.
  
-After few iterations I wrote a simple Android application using the Triduino library (below a collage of the screenshots of the app) where sensors configuration can be done on the application (formula included) and real-time values coming via Bluetooth are displayed in real-time graphs (applying in real-time the formula!)…cool isn’t it?   
+After few iterations I wrote a simple Android application using the Triduino library (below a collage of the screenshots of the app) where sensors configuration can be done on the application (formula included) and real-time values coming via Bluetooth are displayed in real-time graphs (applying in real-time the formula!)…cool isn’t it?
 
-<here the image below>
+postimage: /images/triduino.jpg
 
 The concept has been proved! We still have to decide what we’ll do next because the potential seems very high and we want to take the right direction.
 
