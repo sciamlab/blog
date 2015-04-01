@@ -7,7 +7,7 @@ postimage: /images/triduino.jpg
 postimage: /images/startrek.jpg
 layout: post
 date: 2014-04-15 15:50
-author: Yolanda
+author: Luca
 comments: true
 tags:
 - Triduino
