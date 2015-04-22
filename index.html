@@ -21,6 +21,23 @@ layout: default
                         <div class="row show-grid clear-both">
  
                             <div class="span9 main-column two-columns-right">
+                            	
+                            	<!-- Top Pagination links -->
+				<div class="pagination">
+				  {% if paginator.previous_page %}
+				    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+				  {% else %}
+				    <span class="previous">Previous</span>
+				  {% endif %}
+				  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+				  {% if paginator.next_page %}
+				    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+				  {% else %}
+				    <span class="next ">Next</span>
+				  {% endif %}
+				</div>
+				<!-- Top Pagination links end -->
+				
 							<!-- post main loop -->
 							{% for post in paginator.posts %}
                                 <div class="post-item">
@@ -40,7 +57,7 @@ layout: default
                                 </div>
 							{% endfor %}
 				
-				<!-- Pagination links -->
+				<!-- Bottom Pagination links -->
 				<div class="pagination">
 				  {% if paginator.previous_page %}
 				    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -54,7 +71,7 @@ layout: default
 				    <span class="next ">Next</span>
 				  {% endif %}
 				</div>
-				<!-- Pagination links end -->
+				<!-- Bottom Pagination links end -->
 				
                             </div>
 							{% include sidebar.html %}
