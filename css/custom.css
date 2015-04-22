@@ -1291,7 +1291,7 @@ blockquote .autor {
     color: #666666;
 }
 .toolbar {
-    #padding: 10px 0 0; 
+    padding: 10px 0 0; 
     margin: 0;
 }
 .large-quote {
@@ -2830,8 +2830,10 @@ html, body {
 }
 }
 
-
-
-
-
-
+/* BLOG */
+.pagination {
+    height: 40px;
+    #margin: 20px 0;
+    float: right;
+}
+/* BLOG END */
