@@ -2832,8 +2832,21 @@ html, body {
 
 /* BLOG */
 .pagination {
-    height: 40px;
+    height: 22px;
     margin: 0 0 !important;
     float: right;
 }
+
+@media (min-width: 980px) {
+    .two-columns-right-blog {
+        padding: 0px 19px 0 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .two-columns-right-blog {
+        padding: 0px 19px 0 0;
+    }
+}
+
 /* BLOG END */
