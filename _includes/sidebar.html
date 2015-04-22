@@ -1,21 +1,24 @@
 <!-- start sidebar -->
-                        <div class="sidebar-news-widget sidebar-block">
-                                <h2>Recent Posts</h2>
-                                <ul>
-                {% for post in site.posts limit:3 %}
-                                    <li>
-                                        <a class="photo" href="#">
-                                            <img alt="" src="{{ post.thumbimg }}" />
-                                        </a>
-                                        <p>
-                                        <a href="{{ post.url}}">{{ post.title}}</a>
-                                        </p>
-                                        <p class="date"><i class="icon-calendar"></i>{{ post.date | date_to_long_string}}</p>
-                                    </li>
-                {% endfor %}	
-                                </ul>
-                            </div>
+                            
                             <div id="right-sidebar" class="span3 sidebar">
+                            
+                                <div class="sidebar-news-widget sidebar-block">
+                                    <h2>Recent Posts</h2>
+                                    <ul>
+					{% for post in site.posts limit:3 %}
+                                        <li>
+                                            <a class="photo" href="#">
+                                                <img alt="" src="{{ post.thumbimg }}" />
+                                            </a>
+                                            <p>
+                                            <a href="{{ post.url}}">{{ post.title}}</a>
+                                            </p>
+                                            <p class="date"><i class="icon-calendar"></i>{{ post.date | date_to_long_string}}</p>
+                                        </li>
+					{% endfor %}	
+                                    </ul>
+                                </div>
+                                
                                 <div class="comments-widget sidebar-block">
                                     <h2>Recent Tweets</h2>
 				    <a class="twitter-timeline" 
@@ -24,6 +27,6 @@
 					data-tweet-limit="3"
 					data-chrome="noborders">Tweets by @sciamlab</a>
 				    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	                        </div>
+                                </div>
                             </div>
 <!-- end sidebar -->
