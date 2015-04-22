@@ -3,4 +3,4 @@ lsi: false
 pygments: true
 future: false
 markdown: kramdown
-paginate: 2
+paginate: 3
