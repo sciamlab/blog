@@ -2833,7 +2833,7 @@ html, body {
 /* BLOG */
 .pagination {
     height: 40px;
-    margin: 0 0 important!;
+    margin: 0 0 !important;
     float: right;
 }
 /* BLOG END */
