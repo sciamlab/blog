@@ -3,13 +3,6 @@ title: SciamLab Blog
 layout: default
 tagname: design
 ---
-{% for tag in site.tags  %}
-
-    {% if tag.name == page.tagname %}
-        {% assign tagvar = tag %}
-    {% endif %}
-    
-{% endfor %}
 
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
 <!-- BEGIN MAIN CONTENT -->
@@ -39,7 +32,7 @@ tagname: design
                             <!-- Top Pagination links end -->	
 				
 							<!-- post main loop -->
-							{% for post in site.tags.design %}
+							{% for post in site.tags.{{page.tagname}} %}
                                 <div class="post-item">
                                     <h1>Tag: {{page.tagname}} ({{ tag | last | size }})</h1>
                                     <h2 style="font-weigth:bold;"><a href="{{ post.url }}">{{ post.title}}</a></h2>
