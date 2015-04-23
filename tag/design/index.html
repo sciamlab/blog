@@ -3,15 +3,14 @@ title: SciamLab Blog
 layout: default
 tagname: design
 ---
-{% 
-for tag in site.tags 
+{% for tag in site.tags  %}
 
-    if tag.name == tagname
-        assign tagvar = tag
-    endif
+    {% if tag.name == page.tagname %}
+        {% assign tagvar = tag %}
+    {% endif %}
     
-endfor
-%}
+{% endfor %}
+
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
 <!-- BEGIN MAIN CONTENT -->
         <div class="main-content">
