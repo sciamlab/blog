@@ -4,6 +4,6 @@ layout: default
 ---
 {% for post in site.posts limit:1 %}
 <script language="javascript">
-    window.location.href = {{ post.url }}
+    window.location.href = "{{ post.url }}";
 </script>
 {% endfor %}
