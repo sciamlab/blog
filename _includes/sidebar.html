@@ -28,5 +28,18 @@
 					data-chrome="noborders">Tweets by @sciamlab</a>
 				    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                                 </div>
+                                
+                                <div class="sidebar-block">
+                                <h1>Tag Cloud</h1>
+                                {% assign tags = site.tags | sort %}
+                                {% for tag in tags %}
+                                 <span class="site-tag">
+                                    <a href="/tag/{{ tag | first | slugify }}/"
+                                        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                                            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+                                    </a>
+                                </span>
+                                {% endfor %}
+                                </div>
                             </div>
 <!-- end sidebar -->

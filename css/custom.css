@@ -2849,4 +2849,9 @@ html, body {
     }
 }
 
+.site-tag a {
+    display: inline-block;
+    margin-right: 12px;
+}
+
 /* BLOG END */
