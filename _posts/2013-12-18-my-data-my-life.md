@@ -32,8 +32,6 @@ wave after smartphones and smartwatches of personal tools that make
 our experience mediated by the software more and more "integrated
 with every moment of our lives".
 
-![gras](http://ictevangelist.com/wp-content/uploads/2014/11/love.jpg)
-
 Far from being a criticism, this is to be a realization that our habits,
 our interests, and much more of the personal sphere is 'destined to become
 heritage of many other entities' wholly alien to us. It 's not
