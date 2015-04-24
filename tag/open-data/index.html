@@ -8,7 +8,7 @@ tagname:  open data
 {% assign tagposts = site.tags."open data" %}
 
 {% for tagtemp in site.tags  %}
-    ...{{tagtemp}}...
+    ...{{tagtemp[0]}}...
 
     {% if (tagtemp[0] | replace:'-', ' '  == page.tagname) %}
         {% assign tag = tagtemp %}
