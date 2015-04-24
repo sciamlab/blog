@@ -5,7 +5,7 @@
                                 <div class="sidebar-news-widget sidebar-block">
                                     <h2>Recent Posts</h2>
                                     <ul>
-					{% for post in site.posts limit:3 %}
+					{% for post in site.posts limit:2 %}
                                         <li>
                                             <a class="photo" href="#">
                                                 <img alt="" src="{{ post.thumbimg }}" />
@@ -24,13 +24,13 @@
 				    <a class="twitter-timeline" 
 					href="https://twitter.com/sciamlab" 
 					data-widget-id="413721303720288256" 
-					data-tweet-limit="3"
+					data-tweet-limit="2"
 					data-chrome="noborders">Tweets by @sciamlab</a>
 				    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                                 </div>
                                 
                                 <div class="sidebar-block">
-                                <h1>Tag Cloud</h1>
+                                <h2>Tag Cloud</h2>
                                 {% assign tags = site.tags | sort %}
                                 {% for tag in tags %}
                                  <span class="site-tag">
