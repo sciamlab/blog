@@ -5,8 +5,6 @@ layout: default
 tagname:  open data
 ---
 <!-- CHANGE BELOW site.tags.<TAG_NAME>-->
-{% assign tagposts = site.tags."open data" %}
-
 {% for tagtemp in site.tags  %}
     ...{{tagtemp[0]}}...
 
@@ -15,6 +13,8 @@ tagname:  open data
     {% endif %}
     
 {% endfor %}
+
+{% assign tagposts = {{ tag | last }} %}
 
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
 <!-- BEGIN MAIN CONTENT -->
