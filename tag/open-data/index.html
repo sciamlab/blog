@@ -6,6 +6,7 @@ tagname:  open data
 ---
 <!-- CHANGE BELOW site.tags.<TAG_NAME>-->
 {% for tagtemp in site.tags  %}
+    {{tagtemp | first}} {{tagtemp | last | size}}
     {% if (tagtemp[0] == page.tagname) %}
         {% assign tag = tagtemp %}
     {% endif %}
