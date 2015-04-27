@@ -1,17 +1,13 @@
 ---
 title: SciamLab Blog
 layout: default
-<!-- CHANGE BELOW tagname: <TAG_NAME>-->
 tagname:  ISTAT
 ---
-<!-- CHANGE BELOW site.tags.<TAG_NAME>-->
 {% for tagtemp in site.tags  %}
     {% if (tagtemp[0] == page.tagname) %}
         {% assign tag = tagtemp %}
         {% assign tagposts = tag | last %}
-        {{tag | first}} {{ tag | last | size}}
     {% endif %}
-    
 {% endfor %}
 
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
