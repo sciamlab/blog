@@ -6,10 +6,10 @@ tagname:  ISTAT
 ---
 <!-- CHANGE BELOW site.tags.<TAG_NAME>-->
 {% for tagtemp in site.tags  %}
-    {{tagtemp | first}} {{tagtemp | last | size}}
     {% if (tagtemp[0] == page.tagname) %}
         {% assign tag = tagtemp %}
         {% assign tagposts = {{ tag | last }} %}
+        {{tag | first}} {{tagposts | size}}
     {% endif %}
     
 {% endfor %}
