@@ -11,8 +11,8 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'tag.html')
       self.data['tag'] = tag
 
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tag: '
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
+      tag_title_prefix = 'Tag: '
+      self.data['title'] = "#{tag_title_prefix} #{tag}"
     end
   end
 
@@ -20,8 +20,8 @@ module Jekyll
     safe true
 
     def generate(site)
-      if site.layouts.key? 'tag_index'
-        dir = site.config['tags_dir'] || 'tags'
+      if site.layouts.key? 'tag'
+        dir = '/tags'
         site.tags.each_key do |tag|
           site.pages << TagPage.new(site, site.source, File.join(dir, tag), tag)
         end
