@@ -8,7 +8,7 @@ tagname:  ISTAT
 {% for tagtemp in site.tags  %}
     {% if (tagtemp[0] == page.tagname) %}
         {% assign tag = tagtemp %}
-        {% assign tagposts = {{ tag | last }} %}
+        {% assign tagposts = tag[{{ tag | last | size}}] %}
         {{tag | first}} {{ tagposts | size}}
     {% endif %}
     
