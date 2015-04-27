@@ -9,13 +9,10 @@ tagname:  open data
     {{tagtemp | first}} {{tagtemp | last | size}}
     {% if (tagtemp[0] == page.tagname) %}
         {% assign tag = tagtemp %}
+        {% assign tagposts = {{ tag | last }} %}
     {% endif %}
     
 {% endfor %}
-
-{% assign tagposts = {{ tag | last }} %}
-
-{{tag | first}} {{tagposts | size}}
 
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
 <!-- BEGIN MAIN CONTENT -->
