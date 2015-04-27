@@ -9,7 +9,7 @@ tagname:  ISTAT
     {% if (tagtemp[0] == page.tagname) %}
         {% assign tag = tagtemp %}
         {% assign tagposts = {{ tag | last }} %}
-        {{tag | first}} {{tagposts | size}}
+        {{tag | first}} {{ tag | last | size}} %}
     {% endif %}
     
 {% endfor %}
