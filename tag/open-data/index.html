@@ -14,7 +14,7 @@ tagname:  open data
 
 {% assign tagposts = {{ tag | last }} %}
 
-{{tagposts | size}}
+{{tag | first}} {{tagposts | size}}
 
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
 <!-- BEGIN MAIN CONTENT -->
