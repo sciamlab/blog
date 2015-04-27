@@ -7,13 +7,14 @@ tagname:  open data
 <!-- CHANGE BELOW site.tags.<TAG_NAME>-->
 {% for tagtemp in site.tags  %}
     {% if (tagtemp[0] == page.tagname) %}
-    trovato
         {% assign tag = tagtemp %}
     {% endif %}
     
 {% endfor %}
 
 {% assign tagposts = {{ tag | last }} %}
+
+{{tagposts | size}}
 
 <script>document.getElementById("menu_blog").setAttribute("class",document.getElementById("menu_blog").getAttribute("class")+ " active")</script>
 <!-- BEGIN MAIN CONTENT -->
