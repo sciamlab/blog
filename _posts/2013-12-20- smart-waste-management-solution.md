@@ -3,7 +3,7 @@ title: Smart Waste Management Solution
 tags: [Smart,Waste,Management,Solution,costs,savings,SciamLab]
 categories: [Open Data]
 thumbimg: /img/blog-widget03.jpg
-postimage: /images/benefits.JPG
+postimage: /images/waste system.JPG
 layout: post
 date: 2013-12-20 19:40
 author: Yolanda
@@ -25,6 +25,8 @@ This Smart Waste Management System is used to control the filling level of the c
 The Smart Waste Management Solution provides to waste management companies and organizations a service that enables **cost savings** between 20% and 40% by monitoring and analyzing the levels of filling of containers in real-time and by optimizing intervals and paths for the waste collection. 
 
 In a system, for an example, where there are 5 containers in 37.5 km you will make 60% fewer collections and 52% less km driven. 
+
+![benefits](https://github.com/sciamlab/blog/blob/gh-pages/images/benefits.JPG)
 
 How is it possible? The Smart System could be installed in the roof of all types of containers. The device owner fills level measurement. It is based on an ultrasonic sensor and **the events are sent by wireless RF or GPRS**. It also has a temperature detection integrated and a battery life +10 years. It is weatherproof housing IP67* and the electronic equipment is suitable to withstand extreme conditions (temperature, shock, pressure).
 How do we work? We do a real-time monitoring. The signals with filling level and temperature are sent to SciamLab.
