@@ -27,6 +27,7 @@ That was when **Triduino** was born.
 I took my [small air quality station](http://blog.sciamlab.com/open%20data/2013/12/21/air-quality-low-cost.html) I attached it one temperature sensor and one **temperature/humidity sensor**, I updated the Arduino sketch in order to implement a trivial communication protocol XML-based (yeah I know I know why not JSON?) and I started coding a java library that could be used in both, desktop and Android in order to allow the creation of desktop and mobile applications for:
 
 1)	communicating with Arduino using my trivial protocol 
+
 2)	configuring sensors (through one XML file) 
 
 all in few minutes. 
@@ -35,7 +36,7 @@ Not only: what I wanted to achieve was also the possibility of **defining a form
  
 After few iterations I wrote a simple Android application using the Triduino library (below a collage of the screenshots of the app) where sensors configuration can be done on the application (formula included) and real-time values coming via Bluetooth are displayed in real-time graphs (applying in real-time the formula!)…cool isn’t it?
 
-postimage: /images/triduino.jpg
+![triduino](https://github.com/sciamlab/blog/blob/gh-pages/images/triduino.jpg)
 
 The concept has been proved! We still have to decide what we’ll do next because the potential seems very high and we want to take the right direction.
 
