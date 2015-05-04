@@ -1,6 +1,6 @@
 ---
 title: Il dato è tratto receives the 3rd place in the ISTAT Censimenti Data Challenge
-tags: [dato,tratto,app,ISTAT,Censimenti]
+tags: [dato,tratto,app,ISTAT,censimenti]
 categories: [Open Data]
 thumbimg: /img/blog-widget11.jpg
 postimage: /images/il datto e tratto.JPG
@@ -13,7 +13,7 @@ tags:
 - tratto
 - app
 - ISTAT
-- Censimenti
+- censimenti
 ---
 
 
