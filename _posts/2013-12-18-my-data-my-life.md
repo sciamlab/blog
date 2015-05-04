@@ -10,7 +10,7 @@ author: SciamLab Team
 comments: true
 tags:
 - privacy
-- personal_data
+- personal data
 ---
 
 In everyone's life, experiences mediated by software occupy
