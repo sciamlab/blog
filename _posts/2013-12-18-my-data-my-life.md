@@ -1,6 +1,6 @@
 ---
 title: My data, my life
-tags: [privacy,personal data]
+tags: [personal data]
 categories: [Open Data]
 thumbimg: /img/blog-widget02.jpg
 postimage: /img/blog00.jpg
@@ -9,7 +9,6 @@ date: 2013-12-18 15:50
 author: SciamLab Team
 comments: true
 tags:
-- privacy
 - personal data
 ---
 
