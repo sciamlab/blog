@@ -1,6 +1,6 @@
 ---
 title: Large public works meet the Open Data 
-tags: [transparency,opendata,opencontracting,procurement,expo2015]
+tags: [transparency,open data,opencontracting,expo2015]
 categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
 postimage: /img/openexpo-screens.jpg
@@ -10,9 +10,8 @@ author: Alessio
 comments: true
 tags:
 - transparency
-- opendata
+- open data
 - opencontracting
-- procurement
 - expo2015
 ---
 In the last few weeks the The Superintendence for Archaeological
@@ -37,7 +36,7 @@ Meanwhile these two great italian initiaves are shedding a new lights
 into the domain of large and complex public works is happening that a
 multinational team is working to a new and dedicated standard to
 facilitate similar initiative globally. 
-I'm talinkg about [Open Contracting](http://www.open-contracting.org/)
+I'm talking about [Open Contracting](http://www.open-contracting.org/)
 who have release just today a new beta versions of it's
 [Open Contracting Data Standard (OCDS)](http://ocds.open-contracting.org/standard/r/0__3__3/)
 
