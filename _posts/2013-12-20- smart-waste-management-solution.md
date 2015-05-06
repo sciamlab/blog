@@ -1,6 +1,6 @@
 ---
 title: Smart Waste Management Solution
-tags: [smart,waste,management,costs,savings,SciamLab]
+tags: [smart device,waste,management]
 categories: [Open Data]
 thumbimg: /img/blog-widget03.jpg
 postimage: /images/waste system.JPG
@@ -9,12 +9,10 @@ date: 2013-12-20 19:40
 author: Yolanda
 comments: true
 tags:
-- smart
+- smart device
 - waste
 - management
-- costs
-- savings
-- SciamLab
+
 ---
 We live in the smart era. Technology has changed our everyday lives up to the level which facilitates the management of our waste.
 
