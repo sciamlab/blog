@@ -1,0 +1,29 @@
+---
+title: dati.gov.it
+tags: [open data, Amaca]
+categories: [Open Data]
+thumbimg: /img/blog-widget03.jpg
+postimage: /images/waste system.JPG
+layout: post
+date: 2013-03-20 19:40
+author: Yolanda
+comments: true
+tags:
+- open data
+- Amaca
+
+---
+
+**SciamLab** has been engaged for the implementation of the Italian National Open Data Catalog, dati.gov.it.
+
+Using the SciamLab **Amaca Platform**, the current catalog of 600 datasets will immediately grow up to 7000 datasets. Amaca automatically collects data from 80% of all the available datasets opened by Public Administrations, as it is currently doing for the SciamLab OpenDataHub.it, today the largest italian open data catalog.
+
+Amaca uses **Apache Hadoop** to distribute data sources processing and to maintain the catalog update cycle within the limits of a few hours. Amaca uses MapReduce algorithms for text analysis, and learning techniques to produce and enrich automatically the metadata describing the dataset, making it easier and more effective their research and access by users.
+
+Amaca also provides **the extraction of metadata** from Web Public Administration sources and from public and private companies when API have been made available or, where possible, scraping information directly from web sites.
+
+The internal data model used by Amaca conforms to and supports the format DCAT and DCAT-AP Application Profile for interoperability between European portals.  DCAT and DCAT-AP define precisely sets of minimum information that must be present in the descriptive metadata of in the open dataset.
+
+The internal model and the dataset are indeed easily interoperable with any platform, allowing to publish the information through Amaca in the most importants catalogs like CKAN, Socrata, DataPublic, etc.
+
+Stay tuned for **the next 10000 datasets milestone!!**
