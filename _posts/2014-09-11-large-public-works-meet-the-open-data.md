@@ -1,6 +1,6 @@
 ---
 title: Large public works meet the Open Data 
-tags: [transparency,open data,opencontracting,expo2015]
+tags: [transparency,open data,open contracting,expo2015]
 categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
 postimage: /img/openexpo-screens.jpg
@@ -11,7 +11,7 @@ comments: true
 tags:
 - transparency
 - open data
-- opencontracting
+- open contracting
 - expo2015
 ---
 In the last few weeks the The Superintendence for Archaeological
