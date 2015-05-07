@@ -1,11 +1,11 @@
 ---
-title: Large public works meet the Open Data 
-tags: [transparency,open data,open contracting,expo2015]
+title: SciamLab presents the OpenDataHub Italia at the International Open Data Day 2013 
+tags: [open data,OpenDataHub]
 categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
-postimage: /img/openexpo-screens.jpg
+postimage: /images/datahub.JPG
 layout: post
-date: 2014-09-19 19:40
+date: 2013-02-19 19:40
 author: Yolanda
 comments: true
 tags:
