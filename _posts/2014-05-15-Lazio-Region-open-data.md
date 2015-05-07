@@ -3,7 +3,7 @@ title: Towards liberation and enhancement of regional public data
 tags: [open data,open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
-postimage: /images/datahub.JPG
+postimage: /images/opendatalazio_newsletter-header.jpg
 layout: post
 date: 2014-05-15 19:40
 author: Yolanda
