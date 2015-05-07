@@ -3,7 +3,7 @@ title: Hadoop Certified Professional (HCP)
 tags: [Hadoop]
 categories: [Open Data]
 thumbimg: /img/blog-widget03.jpg
-postimage: /images/waste system.JPG
+postimage: /images/hadoop.JPG
 layout: post
 date: 2013-06-15 19:40
 author: Yolanda
