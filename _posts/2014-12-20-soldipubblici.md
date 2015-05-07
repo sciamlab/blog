@@ -14,7 +14,7 @@ tags:
 
 ---
 
-“By understanding how governments spend money in our name can we have a say in how that money will affect our own lives.”[source](https://openspending.org/)
+“By understanding how governments spend money in our name can we have a say in how that money will affect our own lives.” [source](https://openspending.org/)
 
 To be more transparent on how public administrations spend in Italy, **SciamLab** was the main contributor in the realization of [the Italian Government Site SoldiPubblici](http://soldipubblici.gov.it), the communication of government spending to citizens.
 
