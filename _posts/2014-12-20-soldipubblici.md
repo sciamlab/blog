@@ -2,7 +2,7 @@
 title: soldipubblici.gov.it
 tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
-thumbimg: /img/blog-widget03.jpg
+thumbimg: /img/blog-widget13.jpg
 postimage: /images/soldipubblici.JPG
 layout: post
 date: 2014-12-20 19:40
