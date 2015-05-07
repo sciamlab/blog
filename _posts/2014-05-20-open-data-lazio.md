@@ -14,7 +14,7 @@ tags:
 ---
 **SciamLab** is responsible of the entire CKAN-based Open Data catalog and interoperability platform of **the Open Data Portal of the Lazio Region** (Italy).
 
-**dati.lazio.it** is the website of the Lazio Region dedicated to Open Data and the regional administration of all government departments of the territory. The site has **four objectives**: to increase the value of public information; raise awareness of all citizens on issues related to Open Data and Open Government; stimulate the involvement and **active participation of citizens** and stakeholders in the project for region opening data; and create opportunities for growth and territorial development by directing the information public to commercial purposes.
+[dati.lazio.it](https://dati.lazio.it/) is the website of the Lazio Region dedicated to Open Data and the regional administration of all government departments of the territory. The site has **four objectives**: to increase the value of public information; raise awareness of all citizens on issues related to Open Data and Open Government; stimulate the involvement and **active participation of citizens** and stakeholders in the project for region opening data; and create opportunities for growth and territorial development by directing the information public to commercial purposes.
 
 For this, the portal is addressed to citizens, public operators, businesses, researchers and journalists on the regional and national level.
 
