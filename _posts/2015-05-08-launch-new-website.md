@@ -2,7 +2,7 @@
 title: We are launching our new website! 
 tags: 
 categories: [Open Data]
-thumbimg: /img/blog-widget03.jpg
+thumbimg: /img/blog-widget01.jpg
 postimage: /images/websciamlab.JPG
 layout: post
 date: 2015-05-08 10:40
