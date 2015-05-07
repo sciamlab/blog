@@ -3,7 +3,7 @@ title: Amaca Platform presented at Hadoop Summit Europe
 tags: [Amaca, Hadoop]
 categories: [Open Data]
 thumbimg: /img/blog-widget05.jpg
-postimage: /images/triduino.jpg
+postimage: /images/hadoopsummit2014.JPG
 layout: post
 date: 2014-04-16 15:50
 author: Yolanda
