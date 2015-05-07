@@ -18,7 +18,7 @@ tags:
 
 For this, the portal is addressed to citizens, public operators, businesses, researchers and journalists on the regional and national level.
 
-It is based on CKAN open data portal, heavily customized to meet customer requirements: social login has been added, together with dataset community rating and category based search. The social login part includes a SSO custom integration with Liferay CMS. 
+It is based on **CKAN open data portal**, heavily customized to meet customer requirements: social login has been added, together with dataset community rating and category based search. The social login part includes a SSO custom integration with Liferay CMS. 
 
 Other than the basic portal implementation and the developed customizations, CKAN has been added with the spatial extension, that enables users to search for dataset using spatial queries, and the datastore to automatically expose tabular resources as JSON data API.
 
