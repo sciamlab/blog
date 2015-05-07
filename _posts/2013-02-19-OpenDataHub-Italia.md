@@ -2,7 +2,7 @@
 title: SciamLab presents the OpenDataHub Italia at the International Open Data Day 2013 
 tags: [open data,OpenDataHub]
 categories: [Open Data]
-thumbimg: /img/blog-widget-openexpo.jpg
+thumbimg: /img/blog-widget11.jpg.jpg
 postimage: /images/datahub.JPG
 layout: post
 date: 2013-02-19 19:40
