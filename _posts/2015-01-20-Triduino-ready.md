@@ -46,10 +46,6 @@ But one of the most challenging things was the reset button: I checked many diff
 
 …then I found a trick, implementing a simple circuit for creating a “programming mode” on Triduino…. Ahhhhhhhhh what a satisfaction!!!!
 
-Below you can see **Triduino in action** (please forgive me for the low quality of the video..) 
-
-[Triduino video](https://www.youtube.com/watch?v=PHbLpTbBN-s&feature=youtu.be)
-
 Now we have something that can really **make the difference allowing everyone** (not necessarily a geek!!) that wants to have some sensors to be monitored with the mobile to create their own device.
 
 The next step is taking the output of the sensors (that are already post-processed using the configured formula) and submitting them into open data networks.
