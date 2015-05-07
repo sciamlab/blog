@@ -33,7 +33,9 @@ Then I enriched the database associating to each sensor some snippets of code to
 ..but then the wireless upload of the sketch via Bluetooth turn came and there I really was almost giving up because there were **3 main problems** I had to solve that seemed unresolvable:
 
 1.	The avrdude porting to Android was working but a very old version not supporting the latest models (like the Yun) and not maintained anymore
+
 2.	it seemed impossible flashing the sketch from a non rooted device given some limitations of the Android Bluetooth stack  implementation.
+
 3.	How to avoid the pressing of the reset button on the board exactly in time with the upload of the sketch
 
 I started with **solving the first problem** and I was able to cross-compile avrdude for having it working on Android (thanks also to forums and posts from Anton Smirnov, the author of ArduinoCommander)
@@ -55,6 +57,9 @@ The next step is taking the output of the sensors (that are already post-process
 Stay tuned!!
 
 **“Long life and prosperity”**
+ 
+ 
+ 
  
 
 **Tech specs:**
