@@ -2,7 +2,7 @@
 title: First stable version of Triduino Ready!!
 tags: [Triduino,prototype,sensor]
 categories: [Open Data]
-thumbimg: /img/blog-widget03.jpg
+thumbimg: /img/blog-widget05.jpg
 postimage: /images/truduinoready.png
 layout: post
 date: 2015-01-20 19:40
