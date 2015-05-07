@@ -1,6 +1,6 @@
 ---
 title: soldipubblici.gov.it
-tags: [soldi pubblici, open data]
+tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget03.jpg
 postimage: /images/soldipubblici.JPG
@@ -11,6 +11,7 @@ comments: true
 tags:
 - soldi pubblici
 - open data
+- open government
 
 ---
 
