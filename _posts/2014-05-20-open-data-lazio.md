@@ -1,7 +1,7 @@
 ---
 title: Lazio Region and SciamLab: Towards liberation and enhancement of regional public data 
 tags: [open data,open goverment]
-categories: [Open Data]
+categories:[Open Data]
 thumbimg: /img/blog-widget03.jpg
 postimage: /images/opendatalazio_newsletter-header.jpg
 layout: post
