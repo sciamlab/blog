@@ -46,7 +46,7 @@ But one of the most challenging things was the reset button: I checked many diff
 
 Below you can see **Triduino in action** (please forgive me for the low quality of the video..) 
 
-[Video](https://www.youtube.com/watch?v=PHbLpTbBN-s&feature=youtu.be)
+[Triduino video](https://www.youtube.com/watch?v=PHbLpTbBN-s&feature=youtu.be)
 
 Now we have something that can really **make the difference allowing everyone** (not necessarily a geek!!) that wants to have some sensors to be monitored with the mobile to create their own device.
 
