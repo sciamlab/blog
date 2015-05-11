@@ -37,7 +37,9 @@ tagname:  open government
                             </div>
                             <!-- Top Pagination links end -->	
 				
-                            <h1>Tag: {{page.tagname}} ({{ tag | last | size }})</h1>
+                            <div class="post-item">
+                                <h1>Tag: {{page.tagname}} ({{ tag | last | size }})</h1>
+                            </div>
 							<!-- post main loop -->
 							{% for post in tagposts %}
                                 <div class="post-item">
