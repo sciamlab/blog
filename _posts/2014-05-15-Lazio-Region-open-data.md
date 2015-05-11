@@ -10,7 +10,7 @@ author: Yolanda
 comments: true
 tags:
 - open data
-- open gorvernment
+- open government
 ---
 
 **SciamLab** is responsible of the entire CKAN-based Open Data catalog and interoperability platform of **the Open Data Portal of the Lazio Region** (Italy).
