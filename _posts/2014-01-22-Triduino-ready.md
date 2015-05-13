@@ -60,35 +60,21 @@ Stay tuned!!
 
 **Tech specs:**
 
-1)	Arduino UNO V3 (microcontroller)
-
-2)	Arduino Termistor (Temperature Sensor)
-
-3)	Arduino Hall effect Sensor (Magnetic field Sensor)
-
-4)	BlueSMIRF (Sparkfun Bluetooth modem)
-
-5)	1uF polarized capacitor
-
-6)	1NPN BjT
-
-7)	1 button
-
-8)	1 RGB LED
-
-9)	2 220 Ohm resistors
-
-10)	 wires
-
-11)	 Triduino Lib V9
-
-12)	 Triduino Android App V9
-
-13)	 Triduino Api V9
-
-14)	 Triduino Code Generator V9
-
-15)	 time and patience
+1. Arduino UNO V3 (microcontroller)
++ Arduino Termistor (Temperature Sensor)
++ Arduino Hall effect Sensor (Magnetic field Sensor)
++ BlueSMIRF (Sparkfun Bluetooth modem)
++ 1uF polarized capacitor
++ 1NPN BjT
++ 1 button
++ 1 RGB LED
++ 2 220 Ohm resistors
++ wires
++ Triduino Lib V9
++ Triduino Android App V9
++ Triduino Api V9
++ Triduino Code Generator V9
++ time and patience
 
 
 **Costs:** 63€
