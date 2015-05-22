@@ -8,14 +8,16 @@ layout: post
 date: 2014-05-21 19:40
 author: Davide
 comments: true
+excerpt_separator: <!--more-->
 tags:
 - open data
 - open government
 
 ---
+Another great achievement for SciamLab! #italiasicura is live!!
 
-Another great achievement for SciamLab! #italiasicura is live!! Look for the place you live: [#italiasicura](http://mappa.italiasicura.gov.it)
-
+Look for the place you live: [#italiasicura](http://mappa.italiasicura.gov.it)
+<!--more-->
 This can be considered one of the most important, and in some way unique, use case in Europe for **open data** reuse in an application that brings **transparency**, **social awareness** and **open government**!
 
 The first European platform for live monitoring on a map of public moneys spent in yards opened by the government to fight hydro-geological instability and emergencies. Zooming in and out it is possible to check fine grained details, until the census area!!
@@ -45,7 +47,7 @@ The site is georeferenced and it is the result of a meticulous analysis of the b
 The Government works against landslides and floods and SciamLab works to make the information about it more accessible to everyone.
 
 ####Some application screenshots
-![#italiasicura2](/images/italiasicura2.PNG)
+![#italiasicura2](/images/italiasicura1.PNG)
 
 ####Pictures from the presentation at Presidenza del Consiglio (Palazzo Chigi)
-![#italiasicura1](/images/italiasicura2.PNG)
+![#italiasicura1](/images/italiasicura1.PNG)
