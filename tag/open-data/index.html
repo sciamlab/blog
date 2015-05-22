@@ -1,7 +1,7 @@
 ---
 title: SciamLab Blog
 layout: default
-tagname:  open data
+tagname: open data
 ---
 {% for tagtemp in site.tags  %}
     {% if (tagtemp[0] == page.tagname) %}
@@ -37,10 +37,12 @@ tagname:  open data
                             </div>
                             <!-- Top Pagination links end -->	
 				
+                            <div class="post-item">
+                                <h1>Tag: {{page.tagname}} ({{ tag | last | size }})</h1>
+                            </div>
 							<!-- post main loop -->
 							{% for post in tagposts %}
                                 <div class="post-item">
-                                    <h1>Tag: {{page.tagname}} ({{ tag | last | size }})</h1>
                                     <h2 style="font-weigth:bold;"><a href="{{ post.url }}">{{ post.title}}</a></h2>
                                     <img alt="" src="" />
                                     {{ post.excerpt }}
