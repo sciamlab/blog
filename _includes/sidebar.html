@@ -5,7 +5,7 @@
                                 <div class="sidebar-news-widget sidebar-block">
                                     <h2>Recent Posts</h2>
                                     <ul>
-					{% for post in site.posts limit:2 offset:2 %}
+					{% for post in site.posts limit:2 offset:1 %}
                                         <li>
                                             <a class="photo" href="#">
                                                 <img alt="" src="{{ post.thumbimg }}" />
