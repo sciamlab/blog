@@ -14,8 +14,7 @@ tags:
 
 ---
 
-Another great achievement for SciamLab! #italiasicura is live!!
-Look for the place you live: [#italiasicura](http://mappa.italiasicura.gov.it)
+Another great achievement for SciamLab! #italiasicura is live!! Look for the place you live: [#italiasicura](http://mappa.italiasicura.gov.it)
 
 This can be considered one of the most important, and in some way unique, use case in Europe for **open data** reuse in an application that brings **transparency**, **social awareness** and **open government**!
 
