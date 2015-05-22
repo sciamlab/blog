@@ -52,7 +52,7 @@ tagname:  workshop
                                             <li class="date">
                                               <p><i class="icon-calendar"></i>{{ post.date | date_to_long_string}}</p></li>
                                             <li><p><i class="icon-user"></i>{{ post.author }}</p></li>
-                                            <li><p><i class="icon-tags"></i>{% for posttag in post.tags %}<a href="/tag/{{ posttag | first | slugify }}"> {{ posttag }} </a>|{% endfor %}</p></li>
+                                            <li><p><i class="icon-tags"></i>{% for posttag in post.tags %}<a href="/tag/{{ posttag }}"> {{ posttag }} </a>|{% endfor %}</p></li>
                                             <li class="comments"><p><i class="icon-comments-alt"></i><span><a class="post-more" href="{{ post.url }}#disqus_thread">Continue Reading</a></span></p></li>
                                         </ul>
                                     </div>
