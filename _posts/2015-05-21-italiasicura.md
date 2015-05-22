@@ -3,7 +3,7 @@ title: italiasicura goes live!
 tags: [open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget13.jpg
-postimage: /images/italiasicura1.PNG
+postimage: /images/italiasicura1.jpg
 layout: post
 date: 2014-05-21 19:40
 author: Davide
@@ -47,10 +47,10 @@ The site is georeferenced and it is the result of a meticulous analysis of the b
 The Government works against landslides and floods and SciamLab works to make the information about it more accessible to everyone.
 
 ####Some application screenshots
-![#italiasicura2](/images/italiasicura2.PNG)
-![#italiasicura3](/images/italiasicura3.PNG)
-![#italiasicura4](/images/italiasicura4.PNG)
-![#italiasicura5](/images/italiasicura5.PNG)
+![#italiasicura2](/images/italiasicura2.jpg)
+![#italiasicura3](/images/italiasicura3.jpg)
+![#italiasicura4](/images/italiasicura4.jpg)
+![#italiasicura5](/images/italiasicura5.jpg)
 
 ####Pictures from the presentation at Presidenza del Consiglio (Palazzo Chigi)
 ![#italiasicura_presentazione1](/images/italiasicura_presentazione1.jpg)
