@@ -3,7 +3,7 @@ title: #italiasicura goes live!
 tags: [open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget13.jpg
-postimage: /img/italiasicura1.PNG
+postimage: /images/italiasicura1.PNG
 layout: post
 date: 2014-05-21 19:40
 author: Davide
