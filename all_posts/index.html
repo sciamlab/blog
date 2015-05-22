@@ -50,7 +50,7 @@ layout: default
                                             <li class="date">
                                               <p><i class="icon-calendar"></i>{{ post.date | date_to_long_string}}</p></li>
                                             <li><p><i class="icon-user"></i>{{ post.author }}</p></li>
-                                            <li><p><i class="icon-tags"></i>{% for tag in post.tags %}<a href="/tags.html"> {{ tag }} </a>|{% endfor %}</p></li>
+                                            <li><p><i class="icon-tags"></i>{% for tag in post.tags %}<a href="/tag/{{ tag | slugify }}"> {{ tag }} </a>|{% endfor %}</p></li>
                                             <li class="comments"><p><i class="icon-comments-alt"></i><span><a class="post-more" href="{{ post.url }}#disqus_thread">Continue Reading</a></span></p></li>
                                         </ul>
                                     </div>
