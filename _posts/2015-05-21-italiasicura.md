@@ -28,8 +28,6 @@ We are firmly convinced that this kind of initiatives go in the right direction 
 
 Data (open) provided by these organizations were cleansed, organized, homogenized and georeferenced, to be represented in a graphical, user friendly portal so that anyone is able to understand his risk exposure.
 
-<br>
-
 ### Some background
 
 More than six million of Italians live in areas at risk of landslides or flooding. Italy has always been forced to live huge disasters. So, reduce and manage risk is not a cost and investments are the key to restart the country.
@@ -45,3 +43,9 @@ It is an interactive map where passing over with the mouse you can see land, pop
 For example, you can see the total resources committed against insolvency, the resources committed on ongoing interventions or the number of operations in progress.
 The site is georeferenced and it is the result of a meticulous analysis of the budgets of the state and all the resources allocated, year after year, to regions and local authorities for works and interventions.
 The Government works against landslides and floods and SciamLab works to make the information about it more accessible to everyone.
+
+####Some application screenshots
+![#italiasicura2](/images/italiasicura2.PNG)
+
+####Pictures from the presentation at Presidenza del Consiglio (Palazzo Chigi)
+![#italiasicura1](/images/italiasicura2.PNG)
