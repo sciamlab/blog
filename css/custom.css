@@ -1,8 +1,24 @@
-/*Custom CSS*/
+    /*Custom CSS*/
 
 /*Custom Landscapes Start*/
 
 .tweets-slide .slides li p{ color: #fff; padding: 0; margin: 0;}
+
+.header_lang {
+    margin-top: 15px;
+    color: #666666;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#header_socials {
+    text-align: center;
+    margin-bottom: 0;
+    margin-left: 0px;
+    margin-top: 23px;
+    padding-right: 0;
+}
 
 /* Default */
 @media (min-width: 980px) {
@@ -49,17 +65,19 @@
     .two-col-team .span4 {
         width: 340px;
     }
-    .head_phone {
-        #text-align: right;
-    }
-    ul.socials {
+    
+    .header_lang  {
         float: right;
-        text-align: center;
-        margin-bottom: 0;
-        margin-left: 0px;
-        margin-top: 58px;
-        padding-right: 0;
     }
+    
+    #header_socials  {
+        float: right;
+    }
+    
+    ul.socials {
+        margin: 0 !important;
+    }
+        
     .carousel-caption {
         position: absolute;
         right: 30px;
@@ -291,13 +309,15 @@
     .two-col-team .span4 {
         width: 259px;
     }
-    .head_phone {
-        #text-align: right;
+
+    .header_lang  {
+        float: right;
     }
-    ul.socials {
+    
+    #header_socials  {
         float: right;
         #margin-top: 20px;
-        margin-top: 59px !important;
+        margin-top: 23px !important;
         text-align: center;
     }
     .contact-info ul.socials {
@@ -514,7 +534,7 @@
         padding: 51px 35px 35px;
     }
     .logo {
-        margin: 27px 0 27px 20px;
+        margin: 27px 0 0 20px;
     }
     .logo .logo {
         margin-left: 0;
@@ -580,15 +600,18 @@
         text-align: center;
         margin: 14px 0;
     }
-    .head_phone {
-        #text-align: center;
-    }
-    ul.socials {
-        margin: 0 auto 35px;
+
+    #header_socials  {
+        margin: 0 auto 0;
         overflow: hidden;
         margin-top: 20px;
         text-align: center;
     }
+    
+    ul.socials {
+        margin: 0 !important;
+    }
+    
     .contact-info ul.socials {
         width: auto;
         margin: 0 0 35px 0;
@@ -808,9 +831,7 @@
     .logo {
         text-align: center;
     }
-    .head_phone {
-        #text-align: center;
-    }
+
     .sidebar {
         width: auto;
     }
@@ -863,8 +884,8 @@
     .two-col-team .span4 {
         width: auto;
     }
-    ul.socials {
-        margin: 0 auto 35px;
+    #header_socials  {
+        margin: 0 auto 0;
         overflow: hidden;
         margin-top: 20px;
     }
@@ -1323,6 +1344,11 @@ blockquote .autor {
     text-align: center;
     margin-top: 26px;
 }
+
+ul.socials {
+    margin: 0 !important;
+}
+    
 ul.socials li {
     margin-left: 5px;
     display: inline-block;
@@ -1335,6 +1361,11 @@ ul.socials li {
     width: 32px;
     height: 32px;
 }
+
+.socials a span {
+    display: none;
+}
+
 .socials .flickr {
     background: transparent url('../img/socials_icons_32x32.gif') top left no-repeat;
 }
@@ -1390,7 +1421,7 @@ ul.icons {
     list-style: none;
     margin-left: 0;
 }
-.head_phone {
+.header_text {
     color: #666666;
     font-family: 'Open Sans',Arial,sans-serif;
     font-size: 18px;
@@ -2389,7 +2420,11 @@ div.alert {
     color: #333333;
 }
 .flexslider .slide4 .carousel-caption {
-    background: transparent url("../img/slide4_info_bg.png") top left repeat;
+    #background: transparent url("../img/slide4_info_bg.png") top left repeat;
+}
+.flexslider .slide4 .slider-image {
+    max-width: 100%;
+    max-height: 100%;
 }
 .flexslider .portfolio-grid-1 .thumbnails {
     margin-bottom: 0;
@@ -2798,21 +2833,21 @@ html, body {
 */
 
 @media only screen and (min-width: 768px){
-.header_text {
-    #margin-left: 15px;
-}
-
 .home_icontext {
     margin-left: 30px; 
 }
 
-.head_phone {
+.header_text {
     margin-top: 69px !important;
 }
 }
 
 @media only screen and (max-width: 767px){
 .header_text {
+    text-align: center;
+}
+
+.header_lang {
     text-align: center;
 }
 
@@ -2829,6 +2864,149 @@ html, body {
     #padding-left: 50px; 
 }
 }
+
+/* HOME PAGE */
+
+.odh_module {
+    background-color: #ffffff;
+    border-radius: 3px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+
+.odh_module-dark {
+    background: none repeat scroll 0 0 #ffffff;
+    color: #ffffff;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.odh_module h3{
+    color: #ffffff !important;
+    line-height:27px;
+    font-weight: normal !important;
+}
+
+.odh_module-dark .odh_module-content {
+    background-color: #005d7a;
+    border-radius: 3px;
+}
+
+.odh_module-shallow .odh_module-content:last-child {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.odh_module-narrow .odh_module-heading, .odh_module-narrow .odh_module-content, .odh_module-narrow .odh_module-footer {
+    #padding-left: 15px;
+    #padding-right: 15px;
+}
+
+.odh_module-shallow .odh_module-content {
+    margin: 0;
+    #padding: 10px;
+}
+
+.odh_dataset-search {
+    position: relative;
+}
+
+.odh_search-giant input {
+    box-sizing: border-box;
+    font-size: 16px;
+    height: auto;
+    padding: 14px 10px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 767px){
+    .odh_search-giant button {
+        background: url("/opendatahub/base/images/icon-search-27x26.png") no-repeat scroll center center transparent;
+        border: medium none;
+        cursor: pointer;
+        height: 30px;
+        padding: 0;
+        position: absolute;
+        right: 40px;
+        text-indent: -900em;
+        width: 30px;
+        top:80px;
+        right:25px;
+    }
+    
+    .img_responsive {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+    
+     .textfield_responsive {
+        padding-right:15px; 
+        padding-left:10px;
+    }
+}
+
+@media only screen and (min-width: 768px){
+    .odh_search-giant button {
+        background: url("/opendatahub/base/images/icon-search-27x26.png") no-repeat scroll center center transparent;
+        border: medium none;
+        cursor: pointer;
+        height: 30px;
+        padding: 0;
+        position: absolute;
+        right: 40px;
+        text-indent: -900em;
+        width: 30px;
+        top:30px;
+        right:20px;
+    }
+    
+    .img_responsive {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        #margin-bottom: 10px;
+        padding-left: 20px;
+    }
+    
+    .textfield_responsive {
+        padding-right:15px; 
+        #padding-left:10px;
+    }
+}
+
+.odh_module-dark .odh_module-content .odh_heading {
+    margin-bottom: 7px;
+}
+
+.odh_search {
+    margin-bottom: 0px !important;
+}
+
+/* HOME PAGE END*/
+
+/* GOOGLE CALENDAR */
+
+.responsive-iframe-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+
+.responsive-iframe-container iframe,
+.vresponsive-iframe-container object,
+.vresponsive-iframe-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+/* GOOGLE CALENDAR END */
 
 /* BLOG */
 .pagination {
@@ -2848,10 +3026,10 @@ html, body {
         padding: 0px 19px 0 0;
     }
 }
-
-.site-tag a {
-    display: inline-block;
-    margin-right: 12px;
-}
-
 /* BLOG END */
+
+/* USED FOR SEO */
+a span {
+ /*display: none;*/
+}
+/* USED FOR SEO END */
