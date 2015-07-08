@@ -36,7 +36,7 @@ Not only: what I wanted to achieve was also the possibility of **defining a form
  
 After few iterations I wrote a simple Android application using the Triduino library (below a collage of the screenshots of the app) where sensors configuration can be done on the application (formula included) and real-time values coming via Bluetooth are displayed in real-time graphs (applying in real-time the formula!)…cool isn’t it?
 
-![triduino](https://github.com/sciamlab/blog/blob/gh-pages/images/triduino.jpg)
+![triduino](https://github.com/sciamlab/blog/blob/gh-pages/images/triduino.jpg?raw=true)
 
 The concept has been proved! We still have to decide what we’ll do next because the potential seems very high and we want to take the right direction.
 
