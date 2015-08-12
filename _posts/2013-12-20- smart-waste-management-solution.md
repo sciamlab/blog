@@ -31,4 +31,4 @@ How do we work? We do a real-time monitoring. The signals with filling level and
 
 **The SciamLab sites** provides the % current and planned,  24h/7d Web interface, real-time status, alerts and tools for planning and management of the fleet of vehicles, dynamic calculation of optimal paths subdivided according to the resources and daily drivers available, supported API for customization and integration with other SmartLab systems. 
 
-The service subscription could be monthly, annual or multi-annual. If you want to know more about it please do not hesitate [to contact us!](http://beta.sciamlab.com/company/contact_us)
+The service subscription could be monthly, annual or multi-annual. If you want to know more about it please do not hesitate [to contact us!](http://www.sciamlab.com/company/contact_us)
