@@ -74,7 +74,7 @@ E’ online la nuova versione del sito web!
 
 
 
-SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fuori dei confini italiani!
+SciamLab cresce e espande la propria attività in Italia e soprattutto al di fuori dei confini italiani!
 
 Per aumentare la nostra visibilità e per rendere più facile l’accesso al [portale SciamLab](http://www.sciamlab.com/index.shtml.it) e [OpenDataHub](http://www.sciamlab.com/opendatahub/it) abbiamo deciso di introdurre una importante novità!
 
