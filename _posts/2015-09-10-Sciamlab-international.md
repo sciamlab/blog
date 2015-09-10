@@ -13,9 +13,9 @@ tags:
 - español
 - english
 ---
-English version -> [^nota1] 
-Versión en español -> [^nota2] 
-Versione italiana -> [^nota3] 
+English version ->[^nota1] 
+Versión en español ->[^nota2] 
+Versione italiana ->[^nota3] 
 
 
 
@@ -24,7 +24,7 @@ Versione italiana -> [^nota3]
 To increase our visibility and to make easier for more people to access [SciamLab](http://www.sciamlab.com/) and [OpenDataHub](http://www.sciamlab.com/opendatahub/) site we decided to make a big step ahead for the SciamLab portal!
 
 Our website was born in English, the language we work daily and the most international one.
-SciamLab announce today the new internationalized version of the site with two new languages available: **Italian and Spanish**!! 
+SciamLab announce today the new internationalized version of the site with two new languages available: **Italian and Spanish!!** 
 
 This not only means that we have a website in three different languages, it also means that you can communicate with us **in any of these languages**.
 
