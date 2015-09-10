@@ -15,11 +15,14 @@ tags:
 ---
 
 
-English version [link](##Sciamlab speaks Spanish and Italian!)  
+English version [link](#aabb)  
 Versión en español [link](#abcd)  
-Versione italiana [link](##E’ online la nuova versione del sito web!)  
+Versione italiana [link](#abcc)  
 
 
+
+
+<a name="aabb"></a>
 ##Sciamlab speaks Spanish and Italian!
 
 
@@ -60,7 +63,7 @@ Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugare
 Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!  
   
                                                                                                                                                                                                                                                                                                                                                                                                                       
- 
+<a name="abcc"></a> 
 ##E’ online la nuova versione del sito web!
 
 
