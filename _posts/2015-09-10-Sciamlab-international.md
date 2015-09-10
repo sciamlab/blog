@@ -3,7 +3,7 @@ title: We are launching our new website in Spanish and Italian!
 tags: [italiano, español, english]
 categories: [Open Data]
 thumbimg: /img/blog-widget11.jpg.jpg
-postimage: /images/datahub.JPG
+postimage: /images/italiano-inglese-spagnolo.png
 layout: post
 date: 2015-09-09 10:40
 author: Yolanda
@@ -13,6 +13,11 @@ tags:
 - español
 - english
 ---
+english version -> 
+versión en español ->
+versione italiana ->
+
+
 
 SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
@@ -30,7 +35,7 @@ This does not mean we do not want to work in other languages, we are open to wor
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!
 
 
-**¡Te presentamos Sciamlab en español!**
+#¡Te presentamos Sciamlab en español!
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
 
@@ -52,7 +57,7 @@ Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](ht
 
 
 
-**E’ online la nuova versione del sito web!** 
+#E’ online la nuova versione del sito web!
 
 
 SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fuori dei confini italiani!
