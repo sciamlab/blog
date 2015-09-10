@@ -13,13 +13,15 @@ tags:
 - español
 - english
 ---
-English version [^nota1] 
-Versión en español [^nota2] 
-Versione italiana [^nota3] 
+
+
+English version  
+Versión en español [link](#¡Te presentamos Sciamlab en español!)
+Versione italiana 
 
 
 
-[^nota1]: SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
+SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
 To increase our visibility and to make easier for more people to access [SciamLab](http://www.sciamlab.com/) and [OpenDataHub](http://www.sciamlab.com/opendatahub/) site we decided to make a big step ahead for the SciamLab portal!
 
@@ -35,7 +37,7 @@ This does not mean we do not want to work in other languages, we are open to wor
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!
 
 
-[^nota2]:
+
 #¡Te presentamos Sciamlab en español!
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
@@ -57,7 +59,7 @@ Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugare
 Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!
 
 
-[^nota3]: 
+ 
 #E’ online la nuova versione del sito web!
 
 
