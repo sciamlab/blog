@@ -43,7 +43,8 @@ This does not mean we do not want to work in other languages, we are open to wor
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!  
 
 
-==== ¡Te presentamos Sciamlab en español!
+¡Te presentamos Sciamlab en español!
+====
 
 <a name="abcd"></a> 
 
@@ -68,9 +69,12 @@ Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugare
 Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!  
 
 
-====E’ online la nuova versione del sito web!
-
 <a name="abcc"></a>
+
+E’ online la nuova versione del sito web!
+====
+
+
 
 SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fuori dei confini italiani!
 
