@@ -41,8 +41,7 @@ This does not mean we do not want to work in other languages, we are open to wor
 
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!  
  
-<a name="abcd"></a>
-##¡Te presentamos Sciamlab en español!
+<a name="abcd"></a>##¡Te presentamos Sciamlab en español!
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
 
