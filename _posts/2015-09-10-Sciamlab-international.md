@@ -23,7 +23,7 @@ Versione italiana [link](#abcc)
 
 
 <a name="aabb"></a>
-##Sciamlab speaks Spanish and Italian!
+#Sciamlab speaks Spanish and Italian!
 
 
 SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
@@ -41,7 +41,8 @@ This does not mean we do not want to work in other languages, we are open to wor
 
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!  
  
-<a name="abcd"></a>##¡Te presentamos Sciamlab en español!
+<a name="abcd"></a>
+#¡Te presentamos Sciamlab en español!
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
 
@@ -63,7 +64,7 @@ Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](ht
   
                                                                                                                                                                                                                                                                                                                                                                                                                       
 <a name="abcc"></a> 
-##E’ online la nuova versione del sito web!
+#E’ online la nuova versione del sito web!
 
 
 SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fuori dei confini italiani!
