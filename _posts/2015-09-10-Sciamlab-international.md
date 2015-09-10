@@ -34,7 +34,7 @@ If you have any questions, comments or suggestions please [contact us](http://ww
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
 
-Para incrementar nuestra visibilidad en las páginas [web de SciamLab](http://www.sciamlab.com/index.shtml.es) y [OpenDataHub] (http://www.sciamlab.com/opendatahub/es/) y poder llegar a más personas hemos decidido dar un paso hacia adelante.
+Para incrementar nuestra visibilidad en las páginas [web de SciamLab](http://www.sciamlab.com/index.shtml.es) y [OpenDataHub](http://www.sciamlab.com/opendatahub/es/) y poder llegar a más personas hemos decidido dar un paso hacia adelante.
 
 Nuestra página web fue creada en inglés porque es el idioma internacional y con el que trabajamos diariamente.
 
@@ -52,4 +52,18 @@ Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](ht
 
 
 
+**E’ online la nuova versione del sito web!** 
 
+
+SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fuori dei confini italiani!
+
+Per aumentare la nostra visibilità e per rendere più facile l’accesso al [portale SciamLab](http://www.sciamlab.com/index.shtml.it) e [OpenDataHub](http://www.sciamlab.com/opendatahub/it) abbiamo deciso di introdurre una importante novità!
+
+Il nostro sito è nato in lingua inglese, la lingua con cui lavoriamo quotidianamente e la più internazionale.
+SciamLab lancia oggi la nuova versione internazionale del sito con due nuove lingue disponibili: **italiano e spagnolo**!!
+
+Questo significa non solo che abbiamo un sito web in tre lingue diverse, ma significa anche che è possibile comunicare con noi in una qualsiasi di queste lingue!
+
+Abbiamo deciso di incorporare l'italiano perché è la lingua del paese in cui si trova il nostro quartier generale e dove abbiamo sviluppato inizialmente il nostro business, e lo spagnolo perché è la lingua principale del mercato estero con il quale attualmente lavoriamo e che abbiamo pianificato di ampliare nel prossimo futuro. **Stay tuned**, perchè nelle prossime settimane publicheremo importanti novità a riguardo!
+
+Se avete domande, commenti o suggerimenti non esitate a [contattarci.](http://www.sciamlab.com/company/contact_us.shtml.it) Saremo lieti di rispondere! 
