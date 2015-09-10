@@ -13,13 +13,13 @@ tags:
 - español
 - english
 ---
-english version -> 
-versión en español ->
-versione italiana ->
+English version -> [^nota1] 
+Versión en español -> [^nota2] 
+Versione italiana -> [^nota3] 
 
 
 
-SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
+[^nota1]SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
 To increase our visibility and to make easier for more people to access [SciamLab](http://www.sciamlab.com/) and [OpenDataHub](http://www.sciamlab.com/opendatahub/) site we decided to make a big step ahead for the SciamLab portal!
 
@@ -35,6 +35,7 @@ This does not mean we do not want to work in other languages, we are open to wor
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!
 
 
+[^nota2]
 #¡Te presentamos Sciamlab en español!
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
@@ -56,7 +57,7 @@ Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugare
 Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!
 
 
-
+[^nota3] 
 #E’ online la nuova versione del sito web!
 
 
@@ -65,7 +66,7 @@ SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fu
 Per aumentare la nostra visibilità e per rendere più facile l’accesso al [portale SciamLab](http://www.sciamlab.com/index.shtml.it) e [OpenDataHub](http://www.sciamlab.com/opendatahub/it) abbiamo deciso di introdurre una importante novità!
 
 Il nostro sito è nato in lingua inglese, la lingua con cui lavoriamo quotidianamente e la più internazionale.
-SciamLab lancia oggi la nuova versione internazionale del sito con due nuove lingue disponibili: **italiano e spagnolo**!!
+SciamLab lancia oggi la nuova versione internazionale del sito con due nuove lingue disponibili: **italiano e spagnolo!!**
 
 Questo significa non solo che abbiamo un sito web in tre lingue diverse, ma significa anche che è possibile comunicare con noi in una qualsiasi di queste lingue!
 
