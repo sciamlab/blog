@@ -30,4 +30,22 @@ This does not mean we do not want to work in other languages, we are open to wor
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!
 
 
+**¡Te presentamos Sciamlab en español!**
 
+SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
+
+Para incrementar nuestra visibilidad en las páginas [web de SciamLab](http://www.sciamlab.com/index.shtml.es) y [OpenDataHub] (http://www.sciamlab.com/opendatahub/es/) y poder llegar a más personas hemos decidido dar un paso hacia adelante.
+
+Nuestra página web fue creada en inglés porque es el idioma internacional y con el que trabajamos diariamente.
+
+Hoy SciamLab presenta su versión **más internacional** con una página web disponible en dos nuevos idiomas: italiano y español.
+
+Y eso no solo significa que tenemos una nueva web en español, sino que entre otras cosas, también puedes comunicarte con nosotros en este idioma.
+
+Respecto a los dos nuevos idiomas hemos decidido incorporar el italiano porque es el idioma del país en el que tenemos nuestra principal sede (Roma) y el español porque es uno de los mercados con los que actualmente trabajamos. 
+
+Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugares del mundo y sus idiomas.
+
+¡Estad atentos a nuestra web porque en las próximas semanas anunciaremos **nuevas noticias**! 
+
+Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!
