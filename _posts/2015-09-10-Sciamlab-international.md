@@ -36,14 +36,8 @@ We have decided to incorporate the Italian because it is the language of the cou
 
 This does not mean we do not want to work in other languages, we are open to work with all places in the world and their respective languages. Soon you will know more!
 
-If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!
-  
-    
-   
-     
-       
-       
-
+If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!  
+ 
 
 ##¡Te presentamos Sciamlab en español!
 
@@ -63,7 +57,7 @@ Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugare
 
 ¡Estad atentos a nuestra web porque en las próximas semanas anunciaremos **nuevas noticias**! 
 
-Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!
+Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!  
   
                                                                                                                                                                                                                                                                                                                                                                                                                       
  
@@ -81,4 +75,4 @@ Questo significa non solo che abbiamo un sito web in tre lingue diverse, ma sign
 
 Abbiamo deciso di incorporare l'italiano perché è la lingua del paese in cui si trova il nostro quartier generale e dove abbiamo sviluppato inizialmente il nostro business, e lo spagnolo perché è la lingua principale del mercato estero con il quale attualmente lavoriamo e che abbiamo pianificato di ampliare nel prossimo futuro. **Stay tuned**, perchè nelle prossime settimane publicheremo importanti novità a riguardo!
 
-Se avete domande, commenti o suggerimenti non esitate a [contattarci.](http://www.sciamlab.com/company/contact_us.shtml.it) Saremo lieti di rispondere! 
+Se avete domande, commenti o suggerimenti non esitate a [contattarci.](http://www.sciamlab.com/company/contact_us.shtml.it) Saremo lieti di rispondere!   
