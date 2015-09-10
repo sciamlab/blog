@@ -43,14 +43,12 @@ This does not mean we do not want to work in other languages, we are open to wor
 If you have any questions, comments or suggestions please [contact us](http://www.sciamlab.com/company/contact_us.shtml.en). We will be happy to answer!  
 
 
+<a name="abcd"></a>
+
 ¡Te presentamos Sciamlab en español!
 ====
 
-<a name="abcd"></a> 
-
-
-
-SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
+ SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
 
 Para incrementar nuestra visibilidad en las páginas [web de SciamLab](http://www.sciamlab.com/index.shtml.es) y [OpenDataHub](http://www.sciamlab.com/opendatahub/es/) y poder llegar a más personas hemos decidido dar un paso hacia adelante.
 
