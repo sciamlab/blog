@@ -15,11 +15,12 @@ tags:
 ---
 
 
-English version  
+English version [link](#We are launching our new website in Spanish and Italian!)
 Versión en español [link](#¡Te presentamos Sciamlab en español!)
-Versione italiana 
+Versione italiana [link](#E’ online la nuova versione del sito web!)
 
 
+#We are launching our new website in Spanish and Italian!
 
 SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
