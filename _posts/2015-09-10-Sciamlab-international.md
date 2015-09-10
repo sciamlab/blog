@@ -65,13 +65,8 @@ Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugare
 
 Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!
   
-    
-      
-        
-        
-          
-          
-
+<p>
+<p>
  
 ##E’ online la nuova versione del sito web!
 
