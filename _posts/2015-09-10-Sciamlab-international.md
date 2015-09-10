@@ -15,12 +15,13 @@ tags:
 ---
 
 
-English version [link](#We are launching our new website in Spanish and Italian!)  
-Versión en español [link](#¡Te presentamos Sciamlab en español!)  
-Versione italiana [link](#E’ online la nuova versione del sito web!)  
+English version [link](##Sciamlab speaks Spanish and Italian!)  
+Versión en español [link](##¡Te presentamos Sciamlab en español!)  
+Versione italiana [link](##E’ online la nuova versione del sito web!)  
 
 
-#We are launching our new website in Spanish and Italian!
+##Sciamlab speaks Spanish and Italian!
+
 
 SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
@@ -39,7 +40,7 @@ If you have any questions, comments or suggestions please [contact us](http://ww
 
 
 
-#¡Te presentamos Sciamlab en español!
+##¡Te presentamos Sciamlab en español!
 
 SciamLab esta creciendo y aumentando su mercado no solo en Italia sino que más allá de sus fronteras.
 
@@ -61,7 +62,7 @@ Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](ht
 
 
  
-#E’ online la nuova versione del sito web!
+##E’ online la nuova versione del sito web!
 
 
 SciamLab cresce e espande la propria attività in Italia e soprattutto, al di fuori dei confini italiani!
