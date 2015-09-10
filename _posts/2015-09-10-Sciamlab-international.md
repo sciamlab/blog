@@ -15,9 +15,9 @@ tags:
 ---
 
 
-English version [link](#We are launching our new website in Spanish and Italian!)
-Versión en español [link](#¡Te presentamos Sciamlab en español!)
-Versione italiana [link](#E’ online la nuova versione del sito web!)
+English version [link](#We are launching our new website in Spanish and Italian!)  
+Versión en español [link](#¡Te presentamos Sciamlab en español!)  
+Versione italiana [link](#E’ online la nuova versione del sito web!)  
 
 
 #We are launching our new website in Spanish and Italian!
