@@ -1,6 +1,6 @@
 ---
 title: We are launching our new website in Spanish and Italian!  
-tags: [italiano, español, english]
+tags: [italiano, spanish, english]
 categories: [Open Data]
 thumbimg: /imgages/bandiere.png
 postimage: /images/italiano-inglese-spagnolo.png
@@ -10,7 +10,7 @@ author: Yolanda
 comments: true
 tags:
 - italiano
-- español
+- spanish
 - english
 ---
 <a name="aabb"></a>
