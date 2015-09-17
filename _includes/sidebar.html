@@ -7,7 +7,7 @@
                                     <ul>
 					{% for post in site.posts limit:2 offset:1 %}
                                         <li>
-                                            <a class="photo" href="#">
+                                            <a class="photo" href="{{ post.url}}">
                                                 <img alt="" src="{{ post.thumbimg }}" />
                                             </a>
                                             <p>
