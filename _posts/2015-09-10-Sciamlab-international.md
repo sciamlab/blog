@@ -13,6 +13,8 @@ tags:
 - spanish
 - english
 ---
+SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
+
 <a name="aabb"></a>
 
 English version [link](#aabb)  
@@ -23,11 +25,6 @@ Versione italiana [link](#abcc)
 
 Sciamlab speaks Spanish and Italian!
 ====
-
-
-
-
-SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
 To increase our visibility and to make easier for more people to access [SciamLab](http://www.sciamlab.com/) and [OpenDataHub](http://www.sciamlab.com/opendatahub/) site we decided to make a big step ahead for the SciamLab portal!
 
