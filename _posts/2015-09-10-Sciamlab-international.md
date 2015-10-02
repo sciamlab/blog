@@ -2,7 +2,7 @@
 title: We are launching our new website in Spanish and Italian!  
 tags: [italiano, spanish, english]
 categories: [Open Data]
-thumbimg: /imgages/bandiere.png
+thumbimg: /imgages/blog-widget-languages.jpg
 postimage: /images/italiano-inglese-spagnolo.png
 layout: post
 date: 2015-09-09 10:40
