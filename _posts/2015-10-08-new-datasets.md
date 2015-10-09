@@ -1,5 +1,5 @@
 ---
-title: Amaca, the new open data discovery bot
+title: Amaca, the new open data discovery bot!
 tags: [amaca, datasets]
 categories: [Open Data]
 thumbimg: /images/blog-widget11.JPG
