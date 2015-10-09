@@ -2,7 +2,7 @@
 title: italiasicura goes live!
 tags: [open data, open government]
 categories: [Open Data]
-thumbimg: /img/blog-widget13.jpg
+thumbimg: /img/blog-widget-is.jpg
 postimage: /images/italiasicura1.jpg
 layout: post
 date: 2015-05-21 19:40
