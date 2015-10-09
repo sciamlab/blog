@@ -1,23 +1,24 @@
 ---
 title: Amaca, the new open data discovery bot!
-tags: [amaca, open data, datasets]
+tags: [Amaca, open data, datasets]
 categories: [Open Data]
-thumbimg: /images/blog06.JPG
-postimage: /images/datasets.png
+thumbimg: /img/blog06.JPG
 postimage: /images/cuadro.png
+postimage: /images/datasets.png
 layout: post
 date: 2015-10-08 19:40
 author: Yolanda
 comments: true
 tags:
-- amaca
+- Amaca
 - open data
 - datasets
 ---
 
+**Indexed more than 18k italian dataset in the OpenDataHUB!**
 
----
-*Indexed more than 18k italian dataset in the OpenDataHUB.*
+
+
 SciamLab is pleased to announce that we have set another record indexing and keeping regularly updated **more than 18000 open data sets** from **over 200 organizations** in our Italian Open Data HUB!
 
 This is a further confirmation that the Amaca content discovery platform is scaling well providing a fast and fully automated mechanism that cope with the exponential growth in number and complexity of the datasets published by the Italian public administrations and private organizations. The discovery feature has been recently extended to the geographic information available in the many geoportals across Italy. Thanks to this new feature you can now perform searches in a unique place against most of the available open data like it's happening already in other countries like UK, Germany and many others.
@@ -34,3 +35,4 @@ You now can search over **18.000 Italian datasets**! Do not lose the chance to d
 If you are a developers you can also access the entire metadata catalog and reuse for free it under a CC-BY license using the  
 
 SciamLab will continue working to grow and improve Amaca and the bottom API that make this possible.
+
