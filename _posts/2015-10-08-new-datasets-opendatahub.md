@@ -15,7 +15,7 @@ tags:
 - datasets
 ---
 
-**Indexed more than 18k italian dataset in the OpenDataHUB**
+**Indexed more than 18k italian dataset in the OpenDataHUB!**
 
 
 
