@@ -15,10 +15,9 @@ tags:
 - datasets
 ---
 
-Indexed more than 18k italian dataset in the OpenDataHUB
-====
 
-
+---
+*Indexed more than 18k italian dataset in the OpenDataHUB.*
 SciamLab is pleased to announce that we have set another record indexing and keeping regularly updated **more than 18000 open data sets** from **over 200 organizations** in our Italian Open Data HUB!
 
 This is a further confirmation that the Amaca content discovery platform is scaling well providing a fast and fully automated mechanism that cope with the exponential growth in number and complexity of the datasets published by the Italian public administrations and private organizations. The discovery feature has been recently extended to the geographic information available in the many geoportals across Italy. Thanks to this new feature you can now perform searches in a unique place against most of the available open data like it's happening already in other countries like UK, Germany and many others.
