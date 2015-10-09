@@ -4,6 +4,7 @@ tags: [amaca, open data, datasets]
 categories: [Open Data]
 thumbimg: /images/blog06.JPG
 postimage: /images/datasets.png
+postimage: /images/cuadro.png
 layout: post
 date: 2015-10-08 19:40
 author: Yolanda
@@ -28,6 +29,7 @@ This is a great news also for Italy since from a more accurate analysis of the a
 
 Based on [DCAT-AP](https://joinup.ec.europa.eu/asset/dcat_application_profile/asset_release/dcat-application-profile-data-portals-europe-final#download-links) standard and the more recent [GeoDCAT-AP](https://joinup.ec.europa.eu/node/139283), Amaca during the harvesting process is providing harmonization of the collected metadata, unsupervised classification using the new 13 categories, metadata inter-linking with DBPedia and other Italian repositories and finally further metadata enrichment to estimate the dataset popularity and value from different indicators.
 
+![datasets](https://github.com/sciamlab/blog/blob/gh-pages/images/cuadro.png?raw=true)
 
 You now can search over **18.000 Italian datasets**! Do not lose the chance to discover them [here!](http://www.sciamlab.com/opendatahub/)
 If you are a developers you can also access the entire metadata catalog and reuse for free it under a CC-BY license using the  
