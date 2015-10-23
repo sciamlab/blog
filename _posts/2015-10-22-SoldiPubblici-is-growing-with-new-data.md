@@ -32,9 +32,11 @@ You can now:
 ![datasets](https://github.com/sciamlab/blog/blob/gh-pages/images/cuadro.png?raw=true)
 
 **Look to the infographic** that displays the summary of payments for an institution and the summary of total payments for institutions of the same type.
+
 ![datasets](https://github.com/sciamlab/blog/blob/gh-pages/images/cuadro.png?raw=true)
 
 Discover more about SoldiPubblici here:
+
 [Blog](http://blog.sciamlab.com/open%20data/2014/12/20/soldipubblici.html#.Vio_l9LhDIU)
 
 [Project description](http://soldipubblici.gov.it/it/progetto)
