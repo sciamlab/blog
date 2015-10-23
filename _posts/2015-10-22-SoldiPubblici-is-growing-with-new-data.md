@@ -4,7 +4,7 @@ tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog06.JPG
 postimage: /images/ministerodifesa.JPG
-postimage: /images/datasets.png
+postimage: /images/infograficoaerei.JPG
 postimage: /images/mezziaerei.JPG
 postimage: /images/soldi.JPG
 layout: post
@@ -24,16 +24,18 @@ SoldiPubblici is doing now one step further, adding payments made with electroni
 You can now:
 
 **Search** how much money the Italian Ministry of Defense spends on aircrafts. Or how much the Italian Ministry of Health spends on technical specialist materials!
-![datasets](https://github.com/sciamlab/blog/blob/gh-pages/images/ministerodifesa.JPG?raw=true)
+
+![soldipubblici](https://github.com/sciamlab/blog/blob/gh-pages/images/ministerodifesa.JPG?raw=true)
 
 **Download** the SoldiPubblici **Open Data** to make further analysis or build your application at the following [url](http://soldipubblici.gov.it/it/developers). The Data are produced by [SIOPE (Sistema informativo delle operazioni degli enti pubblici)](https://www.siope.it/), a Banca d’Italia system to query income and payments by the Italian Public Administrations.
 
 **Look to the graph** that displays when and how much spending has occurred in recent years in a particular subject.
-![datasets](https://github.com/sciamlab/blog/blob/gh-pages/images/mezziaerei.JPG?raw=true)
+
+![soldipubblici](https://github.com/sciamlab/blog/blob/gh-pages/images/mezziaerei.JPG?raw=true)
 
 **Look to the infographic** that displays the summary of payments for an institution and the summary of total payments for institutions of the same type.
 
-![datasets](https://github.com/sciamlab/blog/blob/gh-pages/images/cuadro.png?raw=true)
+![soldipubblici](https://github.com/sciamlab/blog/blob/gh-pages/images/infograficoaerei.JPG?raw=true)
 
 Discover more about SoldiPubblici here:
 
