@@ -47,12 +47,17 @@ Discover more about SoldiPubblici here:
 <a name="aabb"></a>
 Below the full list of the Institutions which payment have been added and are now available for search in the portal: 
 
-Ministries
-Metropolitan Cities
-Mountain Communities
+
+- Ministries
+- Metropolitan Cities
+- Mountain Communities
+
 Unions of Municipalities
+
 University
+
 Research Institutions
+
 National park authorities
 Other government fleet managers
 Regional health agencies
@@ -71,5 +76,5 @@ Authorities of Optimal Areas managed through Associations of local authorities
 Other consortia of local authorities
 Chambers of commerce
 
-We are very proud of the new milestone reached by SoldiPubblici, we worked hard to realize all this (thanks Luca)!! This a step ahead on the road of transparency and open government!
+We are very proud of the new milestone reached by SoldiPubblici, we worked hard to realize all this (thanks Luca)!!! This a step ahead on the road of transparency and open government!
 
