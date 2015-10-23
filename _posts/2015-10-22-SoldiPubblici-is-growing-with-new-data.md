@@ -4,7 +4,7 @@ tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog06.JPG
 postimage: /images/ministerodifesa.JPG
-postimage: /images/infograficoaerei.JPG
+postimage: /images/soldi.JPG
 postimage: /images/mezziaerei.JPG
 postimage: /images/soldi.JPG
 layout: post
