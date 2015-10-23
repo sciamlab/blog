@@ -36,8 +36,11 @@ You can now:
 
 Discover more about SoldiPubblici here:
 [Blog](http://blog.sciamlab.com/open%20data/2014/12/20/soldipubblici.html#.Vio_l9LhDIU)
+
 [Project description](http://soldipubblici.gov.it/it/progetto)
+
 [FAQ](http://soldipubblici.gov.it/it/help)
+
 
 <a name="aabb"></a>
 Below the full list of the Institutions which payment have been added and are now available for search in the portal: 
