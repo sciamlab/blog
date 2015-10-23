@@ -19,7 +19,7 @@ tags:
 
 Almost a year ago, we were the main contributor to the realization of the Italian Government Site [SoldiPubblici](http://soldipubblici.gov.it/it/home), the portal exposing government spendings to citizens. 
 
-SoldiPubblici is doing now one step further, adding payments made with electronic mandates by the Central Government institutions such as **Ministries, Metropolitan Cities or University**! (below the full list ← [link](#aabb))
+SoldiPubblici is doing now one step further, adding payments made with electronic mandates by the Central Government institutions such as **Ministries, Metropolitan Cities or University**! ([bellow the list](#aabb))
 
 You can now:
 
