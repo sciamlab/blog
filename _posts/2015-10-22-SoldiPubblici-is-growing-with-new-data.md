@@ -2,7 +2,7 @@
 title: SoldiPubblici is growing with new data from the Central Government
 tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
-thumbimg: /img/blog06.JPG
+thumbimg: /img/blog-widget08.jpg
 postimage: /images/ministerodifesa.JPG
 postimage: /images/infograficoaerei.JPG
 postimage: /images/mezziaerei.JPG
