@@ -51,30 +51,26 @@ Below the full list of the Institutions which payment have been added and are no
 - Ministries
 - Metropolitan Cities
 - Mountain Communities
-
-Unions of Municipalities
-
-University
-
-Research Institutions
-
-National park authorities
-Other government fleet managers
-Regional health agencies
-Local health agencies
-Hospitals
-Experimental Zooprophylactic Institutes 
-Institutions for hospitalization and care of a scientific
-University hospitals
-Associations of Bacino Imbrifero Montano
-Associations of local authorities - municipal police
-Associations of local authorities - Supervision wooded
-Local authorities managers of parks and protected areas
-Associations of local social assistance
-University consortia between local authorities
-Authorities of Optimal Areas managed through Associations of local authorities
-Other consortia of local authorities
-Chambers of commerce
+- Unions of Municipalities
+- University
+- Research Institutions
+- National park authorities
+- Other government fleet managers
+- Regional health agencies
+- Local health agencies
+- Hospitals
+- Experimental Zooprophylactic Institutes 
+- Institutions for hospitalization and care of a scientific
+- University hospitals
+- Associations of Bacino Imbrifero Montano
+- Associations of local authorities - municipal police
+- Associations of local authorities - Supervision wooded
+- Local authorities managers of parks and protected areas
+- Associations of local social assistance
+- University consortia between local authorities
+- Authorities of Optimal Areas managed through Associations of local authorities
+- Other consortia of local authorities
+- Chambers of commerce
 
 We are very proud of the new milestone reached by SoldiPubblici, we worked hard to realize all this (thanks Luca)!!! This a step ahead on the road of transparency and open government!
 
