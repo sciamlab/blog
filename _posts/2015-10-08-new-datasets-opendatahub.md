@@ -2,7 +2,7 @@
 title: Amaca, the new open data discovery bot!
 tags: [Amaca, open data, datasets]
 categories: [Open Data]
-thumbimg: /img/blog06.JPG
+thumbimg: /img/blog-widget01.jpg
 postimage: /images/cuadro.png
 postimage: /images/datasets.png
 layout: post
