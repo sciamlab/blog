@@ -3,7 +3,7 @@ title: Il Futuro non si aspetta +. La formazione del cambiamento
 tags: [workshop, open data, big data]
 categories: [Open Data]
 thumbimg: /img/futuro.jpg
-postimage: /resources/Programmailfuturononsiaspetta.jpg
+postimage: /resources/Programmailfuturononsiaspetta.pdf
 postimage: /images/eventofuturo.jpg
 layout: post
 date: 2015-11-26 19:40
