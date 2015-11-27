@@ -40,4 +40,4 @@ La partecipazione di SciamLab all’evento ha l’obiettivo di stimolare la crea
 
 [Per acquistare i biglietti gratis](http://www.eventbrite.it/e/biglietti-il-futuro-non-si-aspetta-la-formazione-del-cambiamento-19600725297?aff=efbevent)
 
-[programma](/resources/Programmailfuturononsiaspetta.jpg?raw=true)
+[programma](/resources/Programmailfuturononsiaspetta.pdf)
