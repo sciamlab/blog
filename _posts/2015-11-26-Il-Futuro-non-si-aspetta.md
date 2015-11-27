@@ -3,7 +3,6 @@ title: Il Futuro non si aspetta +. La formazione del cambiamento
 tags: [workshop, open data, big data]
 categories: [Open Data]
 thumbimg: /img/futuro.jpg
-postimage: /resources/Programmailfuturononsiaspetta.pdf
 postimage: /images/eventofuturo.jpg
 layout: post
 date: 2015-11-26 19:40
@@ -41,4 +40,4 @@ La partecipazione di SciamLab all’evento ha l’obiettivo di stimolare la crea
 
 [Per acquistare i biglietti gratis](http://www.eventbrite.it/e/biglietti-il-futuro-non-si-aspetta-la-formazione-del-cambiamento-19600725297?aff=efbevent)
 
-![programma](https://github.com/sciamlab/blog/blob/gh-pages/resources/Programmailfuturononsiaspetta.jpg?raw=true)
+[programma](/resources/Programmailfuturononsiaspetta.jpg?raw=true)
