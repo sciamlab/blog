@@ -24,7 +24,7 @@ Parteciperanno all’evento esponenti del [Parlamento Europeo](http://www.europa
 
 I dati sono da sempre delle importanti risorse per le grandi aziende e adesso anche per le piccole e medie imprese, che possono usarli per avere un maggiore vantaggio nelle loro attività. 
 
-Per questo, dalle 15:30 **Alessio Dragoni** di SciamLab interverrà su argomenti inerenti gli **open data** e i dati in genere:
+Per questo, dalle 17:30 **Alessio Dragoni** di SciamLab interverrà su argomenti inerenti gli **open data** e i dati in genere:
 
 - cosa sono e come usare gli open data e i linked data
 - cosa sono i big data
