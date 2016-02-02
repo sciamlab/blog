@@ -1,5 +1,6 @@
 ---
-title: Towards liberation and enhancement of regional public data  
+title: Towards liberation and enhancement of regional public data
+description: SciamLab is responsible of the entire CKAN-based Open Data catalog and interoperability platform of the Open Data Portal of the Lazio Region (Italy).
 tags: [open data,open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget13.jpg
