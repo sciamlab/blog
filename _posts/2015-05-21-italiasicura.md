@@ -1,5 +1,6 @@
 ---
 title: italiasicura goes live!
+description: SciamLab releases #italiasicura, the first European platform for live monitoring on a map of public moneys spent in yards opened to fight hydro-geological instability and emergencies.
 tags: [open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget-is.jpg
