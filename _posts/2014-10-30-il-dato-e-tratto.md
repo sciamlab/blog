@@ -1,5 +1,6 @@
 ---
 title: Il dato è tratto receives the 3rd place in the ISTAT Censimenti Data Challenge
+description: SciamLab wins third prize with the “Il dato è tratto” application.
 tags: [app,ISTAT]
 categories: [Open Data]
 thumbimg: /img/blog-widget11.jpg
