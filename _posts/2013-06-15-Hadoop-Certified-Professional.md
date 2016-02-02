@@ -1,6 +1,6 @@
 ---
 title: Hadoop Certified Professional (HCP)
-description: SciamLab presents Amaca Content Discovery and Enrichment Platform in Amsterdam during the Apache Hadoop Summit Europe.
+description: SciamLab Engineers obtained the Hadoop Certified Professional (HCP) certification from Hortonworks.
 tags: [Hadoop]
 categories: [Open Data]
 thumbimg: /img/blog-widget08.jpg
