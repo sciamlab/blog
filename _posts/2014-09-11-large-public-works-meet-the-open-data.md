@@ -1,5 +1,6 @@
 ---
-title: Large public works meet the Open Data 
+title: Large public works meet the Open Data
+description: SciamLab realizes the Open Data Portal for Open Expo 2015
 tags: [transparency,open data,open contracting,expo2015]
 categories: [Open Data]
 thumbimg: /img/blog-widget-openexpo.jpg
