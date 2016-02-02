@@ -1,5 +1,6 @@
 ---
 title: Workshop Open and Big data visualization
+description: SciamLab organizes and held an innovative data analysis and visualization workshop with the Rome University of Fine Arts (RUFA) and Millepiani.
 tags: [open data, big data, workshop, design]
 categories: [Open Data]
 thumbimg: /img/blog-widget14.jpg
