@@ -1,5 +1,6 @@
 ---
 title: Amaca Platform presented at Hadoop Summit Europe
+description: SciamLab presents Amaca Content Discovery and Enrichment Platform in Amsterdam during the Apache Hadoop Summit Europe.
 tags: [Amaca, Hadoop]
 categories: [Open Data]
 thumbimg: /img/blog-widget08.jpg
