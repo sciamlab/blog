@@ -1,5 +1,6 @@
 ---
 title: Sciamlab first Triduino prototype ready!
+description: SmartLab first prototype of an Android application that enables the mobile phone to receive and visualize data coming from sensors.
 tags: [Triduino, prototype, sensor]
 categories: [Open Data]
 thumbimg: /img/blog-widget05.jpg
