@@ -1,5 +1,6 @@
 ---
 title: SoldiPubblici is growing with new data from the Central Government
+description: SoldiPubblici is doing now one step further, adding payments made with electronic mandates by the Central Government institutions such as Ministries, Metropolitan Cities or University.
 tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget08.jpg
