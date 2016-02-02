@@ -1,5 +1,6 @@
 ---
 title: Smart Waste Management Solution
+description: SciamLab creates the Smart Waste Management Solution using a GPRS enables low cost volume sensors coupled with a Routing Optimization Web Application.
 tags: [smart device,waste,management]
 categories: [Open Data]
 thumbimg: /img/blog-widget03.jpg
