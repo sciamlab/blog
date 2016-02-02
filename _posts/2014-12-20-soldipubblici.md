@@ -1,5 +1,6 @@
 ---
 title: soldipubblici.gov.it
+description: SciamLab releases the Italian Government Portal SoldiPubblici, the communication of government spending to citizens http://soldipubblici.gov.it
 tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
 thumbimg: /img/blog-widget13.jpg
