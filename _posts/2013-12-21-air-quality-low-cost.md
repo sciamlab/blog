@@ -1,5 +1,6 @@
 ---
 title: Sciamlab first air quality low cost station
+description: SmartLab air quality station based on Arduino, an air quality sensor and a Bluetooth modem is ready.
 tags: [air quality, Arduino]
 categories: [Open Data]
 thumbimg: /img/blog-widget05.jpg
