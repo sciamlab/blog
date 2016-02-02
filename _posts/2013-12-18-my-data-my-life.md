@@ -1,5 +1,6 @@
 ---
 title: My data, my life
+description: Despite it happen constantly before our eyes we do not realize that willy-nilly we leave a trace of ourselves in any system that records.
 tags: [personal data]
 categories: [Open Data]
 thumbimg: /img/blog-widget02.jpg
