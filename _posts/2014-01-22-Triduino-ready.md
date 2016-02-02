@@ -1,6 +1,6 @@
 ---
 title: First stable version of Triduino Ready!!
-description: SmartLab first prototype of an Android application that enables the mobile phone to receive and visualize data coming from sensors connected to an Arduino controller with loaded the Triduino Sketch is ready.
+description:A big step was done for Triduino: generating automatically the code to be flashed in Arduino and finding a way up flash it via Bluetooth from Android ready.
 tags: [Triduino,prototype,sensor]
 categories: [Open Data]
 thumbimg: /img/blog-widget05.jpg
