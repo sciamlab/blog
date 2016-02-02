@@ -1,5 +1,6 @@
 ---
-title: We are launching our new website in Spanish and Italian!  
+title: We are launching our new website in Spanish and Italian!
+description: SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers.
 tags: [italiano, spanish, english]
 categories: [Open Data]
 thumbimg: /images/blog-widget-languages.jpg
