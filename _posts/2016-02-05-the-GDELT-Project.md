@@ -1,5 +1,5 @@
 ---
-title: The real time database of global society, [the GDELT Project](http://analysis.gdeltproject.org/)
+title: The real time database of global society, the GDELT Project
 description: The GDELT Project is the largest real time database of human society ever created. GDELT allows you to create interactive maps or timelines exploring and contrasting events, topics and languages. 
 tags: [database, open data, interactive maps]
 categories: [Open Data]
