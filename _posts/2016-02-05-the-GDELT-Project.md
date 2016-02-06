@@ -4,9 +4,9 @@ description: The GDELT Project is the largest real time database of human societ
 tags: [database, open data, interactive maps]
 categories: [Open Data]
 thumbimg: /img/futuro.jpg
-postimage: /images/gdel2.PNG
-postimage: /images/gdelt1.PNG
+postimage: /images/gdelt 1.PNG
 postimage: /images/candidateselections.bmp
+postimage: /images/gdel2.PNG
 layout: post
 date: 2016-02-05 19:40
 author: Yolanda
@@ -17,7 +17,7 @@ tags:
 - interactive maps
 ---
 
-It is not always easy to find public **open data**. For this we want to talk about one of the most interesting and important projects that currently exists, the GDELT Project.
+It is not always easy to find public **open data**. For this we want to talk about one of the most interesting and important projects that currently exists, [the GDELT Project.](http://analysis.gdeltproject.org/)
 
 It is the largest real time **database of human society** ever created. The aim is to better understand global human society and especially the connection between communicative discourse and physical societal-scale behaviour. 
 
@@ -25,7 +25,7 @@ To do it the platform monitors **the world's news media** from nearly every coun
 
 The vision of the GDELT Project is to codify the entire planet into a computable format using all available open information sources that provides a new platform for understanding the global world.
 
-![GDELT](https://github.com/sciamlab/blog/blob/gh-pages/images/gdelt1.PNG?raw=true)
+![GDELT](https://github.com/sciamlab/blog/blob/gh-pages/images/gdelt 1.PNG?raw=true)
 
 GDELT allows you to create interactive maps or timelines exploring and contrasting events, topics and languages.  
 
