@@ -6,7 +6,7 @@ categories: [Open Data]
 thumbimg: /img/futuro.jpg
 postimage: /images/gdelt 1.PNG
 postimage: /images/candidateselections.bmp
-postimage: /images/gdel2.PNG
+postimage: http://gdeltproject.org/imgs/gdelt-events-nasa-night-lights.jpg
 layout: post
 date: 2016-02-05 19:40
 author: Yolanda
