@@ -3,7 +3,7 @@ title: Il Futuro non si aspetta +. La formazione del cambiamento
 description:  SciamLab parteciperà all’evento “Il Futuro non si aspetta +. La formazione del cambiamento”. con l'obbiettivo di potenziare le imprese e l’innovazione.
 tags: [workshop, open data, big data]
 categories: [Open Data]
-thumbimg: /img/futuro.jpg
+thumbimg: /img/futuro_thumb.png
 postimage: /images/eventofuturo.jpg
 layout: post
 date: 2015-11-26 19:40
