@@ -25,7 +25,7 @@ Dopo 6 mesi spesi per integrare diverse fonti dati eterogenee e produrre #openda
 E’ così stata inaugurata la  prima piattaforma di trasparenza italiana, basata su open data (disponibili sul portale [dati.mit.gov.it](http://dati.mit.gov.it/catalog/dataset)), in cui i cittadini possono monitorare in maniera semplice, mediante cruscotti e informazioni localizzate su mappa, lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane, accedendo a diversi indicatori e parametri economici
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/interventi3.jpg?raw=true)
-*Intervento del contratto di programma*
+*[Intervento](http://opencantieri.mit.gov.it/contratti) del contratto di programma*
 
 L’iniziativa che abbiamo realizzato grazie ad una stretta collaborazione all’interno di un [team multidisciplinare](http://opencantieri.mit.gov.it/crediti) è stata notata da osservatori internazionali ed è stato mostrato interesse per replicarne l’esperienza al di fuori dai nostri confini. Solo pochi giorni fa OCSE‬ e ‪‎OECD‬ hanno portato Opencantieri come caso d’uso e best practice durante un meeting a Mexico City.
 
