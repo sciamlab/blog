@@ -22,9 +22,6 @@ tags:
 
 Dopo 6 mesi spesi per integrare diverse fonti dati eterogenee e produrre #opendata chiave relativi alle infrastrutture dei trasporti italiani, lunedì 15 Febbraio è andata live la versione 2.0 del portale [Opencantieri](http://opencantieri.mit.gov.it/) (annunciato in conferenza stampa dal Ministro delle Infrastrutture e dei Trasporti Graziano Delrio).
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
-*Alessio Dragoni, SciamLab CEO, all'inagurazione di Opencantieri nella Sala del Parlamentino del Ministero delle Infrastrutture e dei Trasporti.*
-
 E’ così stata inaugurata la  prima piattaforma di trasparenza italiana, basata su open data (disponibili sul portale [dati.mit.gov.it](http://dati.mit.gov.it/catalog/dataset)), in cui i cittadini possono monitorare in maniera semplice, mediante cruscotti e informazioni localizzate su mappa, lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane, accedendo a diversi indicatori e parametri economici
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/interventi2.jpg?raw=true)
@@ -41,13 +38,7 @@ Cosa sono gli Open Data a km0? Semplice, il dato reso aperto dalle fonti (in que
 
 Gli stessi **dati sono la fonte primaria della conoscenza** e sono condivisi per la massima trasparenza.
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi.jpg?raw=true)
-*Sintesi degli interventi sulle opere principali*
-
 **I dati sono vivi** e qualsiasi aggiornamento (automatico) si riflette in real time nei cruscotti Opencantieri. Nessuna infrastruttura o elaborazione intermedia da parte di chi usa il dato.
-
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori.png?raw=true)
-*Indicatori dello stato dei lavori per ogni infrastruttura*
 
 L’errore nei dati è immediatamente visibile, e come tale deve essere immediatamente gestito. Chi produce il dato inevitabilmente è **responsabilizzato** sulla sua correttezza e incalzato alla sua correzione in caso di errori, in un circolo virtuoso che si autoalimenta.
 
@@ -57,6 +48,14 @@ Open Data a km0 è inoltre **“economico”**, si come nel caso della spesa. E�
 
 Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, gli Open Data a km0: aggiornati, di qualità, economici.
 
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi.jpg?raw=true)
+*Sintesi degli interventi sulle opere principali*
+
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori.png?raw=true)
+*Indicatori dello stato dei lavori per ogni infrastruttura*
+
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/timeline.png?raw=true)
 *Timeline degli interventi sulle ferrovie*
 
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
+*Alessio Dragoni, SciamLab CEO, all'inagurazione di Opencantieri nella Sala del Parlamentino del Ministero delle Infrastrutture e dei Trasporti.*
