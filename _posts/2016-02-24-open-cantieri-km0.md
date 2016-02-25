@@ -4,9 +4,11 @@ description: E’ stata inaugurata la prima piattaforma di trasparenza italiana 
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
 thumbimg: /img/cantieri.png
-postimage: /images/hqdefault.jpg
+postimage: /images/timeline.png
+postimage: /images/indicatori.png
 postimage: /images/opencinterventi.jpg
-postimage: http://gdeltproject.org/imgs/gdelt-events-nasa-night-lights.jpg
+postimage: /images/interventi2.jpg
+postimage: /images/hqdefault.jpg
 layout: post
 date: 2016-02-24 19:40
 author: Davide
