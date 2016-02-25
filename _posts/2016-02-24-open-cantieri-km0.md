@@ -49,13 +49,13 @@ Open Data a km0 è inoltre **“economico”**, si come nel caso della spesa. E�
 Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, gli Open Data a km0: aggiornati, di qualità, economici.
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi.jpg?raw=true)
-*Sintesi degli interventi sulle opere principali*
+*[Sintesi](http://opencantieri.mit.gov.it/interventi) degli interventi sulle opere principali*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori.png?raw=true)
-*Indicatori dello stato dei lavori per ogni infrastruttura*
+*[Indicatori](http://opencantieri.mit.gov.it/indicatori) dello stato dei lavori per ogni infrastruttura*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/timeline.png?raw=true)
-*Timeline degli interventi sulle ferrovie*
+*[Timeline](http://opencantieri.mit.gov.it/timeline5) degli interventi sulle ferrovie*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
 *Alessio Dragoni, SciamLab CEO, all'inagurazione di Opencantieri nella Sala del Parlamentino del Ministero delle Infrastrutture e dei Trasporti.*
