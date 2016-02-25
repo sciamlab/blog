@@ -14,8 +14,8 @@ tags:
 - open data
 - big data
 ---
-Workshop OPEN e BIGDATA: nuovi percorsi formativi per la trasformazione digitale delle imprese italiane
-====
+###Workshop OPEN e BIGDATA: nuovi percorsi formativi per la trasformazione digitale delle imprese italiane
+
 
 Venerdì 4 dicembre [SciamLab](http://www.sciamlab.com/) parteciperà all’evento [“Il Futuro non si aspetta +. La formazione del cambiamento”](https://www.facebook.com/events/757042797773488). L’evento ha come obbiettivo quello di potenziare le imprese e il loro futuro attraverso l’innovazione. L’evento è stato organizzato dal CNA, Camera di Commercio di Roma, dall’Ordine degli Architetti Pianificatori Paesaggisti e Conservatori e dalla Consulta Giovani Architetti.
 
