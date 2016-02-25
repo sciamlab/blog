@@ -4,10 +4,10 @@ description: E’ stata inaugurata la prima piattaforma di trasparenza italiana 
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
 thumbimg: /img/cantieri.png
-postimage: /images/timeline.png
-postimage: /images/indicatori.png
-postimage: /images/opencinterventi.jpg
-postimage: /images/interventi2.jpg
+postimage: /images/timeline2.png
+postimage: /images/indicatori2.png
+postimage: /images/opencinterventi2.jpg
+postimage: /images/interventi3.jpg
 postimage: /images/alessiodragoni.jpg 
 postimage: /images/cantieriItalia.jpg
 layout: post
@@ -24,7 +24,7 @@ Dopo 6 mesi spesi per integrare diverse fonti dati eterogenee e produrre #openda
 
 E’ così stata inaugurata la  prima piattaforma di trasparenza italiana, basata su open data (disponibili sul portale [dati.mit.gov.it](http://dati.mit.gov.it/catalog/dataset)), in cui i cittadini possono monitorare in maniera semplice, mediante cruscotti e informazioni localizzate su mappa, lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane, accedendo a diversi indicatori e parametri economici
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/interventi2.jpg?raw=true)
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/interventi3.jpg?raw=true)
 *Intervento del contratto di programma*
 
 L’iniziativa che abbiamo realizzato grazie ad una stretta collaborazione all’interno di un [team multidisciplinare](http://opencantieri.mit.gov.it/crediti) è stata notata da osservatori internazionali ed è stato mostrato interesse per replicarne l’esperienza al di fuori dai nostri confini. Solo pochi giorni fa OCSE‬ e ‪‎OECD‬ hanno portato Opencantieri come caso d’uso e best practice durante un meeting a Mexico City.
@@ -48,13 +48,13 @@ Open Data a km0 è inoltre **“economico”**, si come nel caso della spesa. E�
 
 Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, gli Open Data a km0: aggiornati, di qualità, economici.
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi.jpg?raw=true)
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi2.jpg?raw=true)
 *[Sintesi](http://opencantieri.mit.gov.it/interventi) degli interventi sulle opere principali*
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori.png?raw=true)
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori2.png?raw=true)
 *[Indicatori](http://opencantieri.mit.gov.it/indicatori) dello stato dei lavori per ogni infrastruttura*
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/timeline.png?raw=true)
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/timeline2.png?raw=true)
 *[Timeline](http://opencantieri.mit.gov.it/timeline5) degli interventi sulle ferrovie*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
