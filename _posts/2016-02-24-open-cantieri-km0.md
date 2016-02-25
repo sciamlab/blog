@@ -23,6 +23,7 @@ tags:
 Dopo 6 mesi spesi per integrare diverse fonti dati eterogenee e produrre #opendata chiave relativi alle infrastrutture dei trasporti italiani, lunedì 15 Febbraio è andata live la versione 2.0 del portale [Opencantieri](http://opencantieri.mit.gov.it/) (annunciato in conferenza stampa dal Ministro delle Infrastrutture e dei Trasporti Graziano Delrio).
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
+*Alessio Dragoni, SciamLab CEO, all'inagurazione di Opencantieri nella Sala del Parlamentino del Ministero delle Infrastrutture e dei Trasporti.*
 
 E’ così stata inaugurata la  prima piattaforma di trasparenza italiana, basata su open data (disponibili sul portale [dati.mit.gov.it](http://dati.mit.gov.it/catalog/dataset)), in cui i cittadini possono monitorare in maniera semplice, mediante cruscotti e informazioni localizzate su mappa, lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane, accedendo a diversi indicatori e parametri economici
 
