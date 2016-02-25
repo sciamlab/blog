@@ -1,5 +1,5 @@
 ---
-title: Opencantieri 2.0, #opendatakm0
+title: Opencantieri 2.0, opendatakm0
 description: E’ stata inaugurata la prima piattaforma di trasparenza italiana che permette monitorare lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
@@ -30,18 +30,17 @@ L’iniziativa che abbiamo realizzato grazie ad una stretta collaborazione all�
 <blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">A <a href="https://twitter.com/hashtag/mexicocity?src=hash">#mexicocity</a> con <a href="https://twitter.com/hashtag/OCSE?src=hash">#OCSE</a> si parla di <a href="https://twitter.com/hashtag/trasparenza?src=hash">#trasparenza</a> nelle grandi infrastrutture. Presentiamo <a href="https://twitter.com/hashtag/openexpo?src=hash">#openexpo</a> e <a href="https://twitter.com/hashtag/opencantieri?src=hash">#opencantieri</a> <a href="https://t.co/XDwfQJKgZZ">pic.twitter.com/XDwfQJKgZZ</a></p>&mdash; Giovanni Menduni (@giovannimenduni) <a href="https://twitter.com/giovannimenduni/status/693101424465432576">January 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi.jpg?raw=true)
-
-
 Ma c’è un aspetto che non viene considerato e che, nel mondo degli Open Data, rappresenta una vera e propria pietra miliare. Opencantieri è la prima applicazione, che fa uso di **Open Data a km0** [(#opendatakm0)](https://twitter.com/search?f=tweets&q=%23opendatakm0&src=typd).
 
 Cosa sono gli Open Data a km0? Semplice, il dato reso aperto dalle fonti (in questo caso ANAS, RFI, Ministero dei Trasporti, MISE, DIPE) e quello impiegato da chi lo utilizza è esattamente lo stesso. Non ci sono rielaborazioni o omissioni, i dati sono esposti in modo integrale e quindi disponibili. Inoltre è importante comprendere che, utilizzando Open Data a km0, gli enti vigilanti, le società controllate e i cittadini sono messi tutti nello stesso piano e considerati come ingranaggi dello stesso meccanismo, chiamati a verificare e partecipare attraverso il dato condiviso. Significa, per tutti, essere coinvolti nei confronti della collettività e, attraverso la collettività, ottenere un diffuso e capillare organismo di controllo
 
 Gli stessi **dati sono la fonte primaria della conoscenza** e sono condivisi per la massima trasparenza.
 
-![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori.png?raw=true)
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi.jpg?raw=true)
 
 **I dati sono vivi** e qualsiasi aggiornamento (automatico) si riflette in real time nei cruscotti Opencantieri. Nessuna infrastruttura o elaborazione intermedia da parte di chi usa il dato.
+
+![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori.png?raw=true)
 
 L’errore nei dati è immediatamente visibile, e come tale deve essere immediatamente gestito. Chi produce il dato inevitabilmente è **responsabilizzato** sulla sua correttezza e incalzato alla sua correzione in caso di errori, in un circolo virtuoso che si autoalimenta.
 
