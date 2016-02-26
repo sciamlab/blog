@@ -1,6 +1,6 @@
 ---
 title: Opencantieri&#58; &#35;opendatakm0
-description: E’ stata inaugurata la prima piattaforma di trasparenza italiana che permette monitorare lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane
+description: opencantieri la prima piattaforma open data a km0
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
 thumbimg: /img/cantieri.png
