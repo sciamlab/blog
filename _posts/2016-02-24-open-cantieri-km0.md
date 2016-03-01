@@ -88,12 +88,14 @@ After 4 months of hard work to integrate several heterogeneous data sources and 
 Through the portal all Citizens can now monitor the work progress of roads, railways and subways through dashboards and localized maps and by accessing different indicators and economic parameters. 
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/interventi3.jpg?raw=true)
-*[Intervento](http://opencantieri.mit.gov.it/contratti) del contratto di programma*
+*[Intervention](http://opencantieri.mit.gov.it/contratti) of the program contract*
 
 Thanks to a close collaboration within a [multidisciplinary team](http://opencantieri.mit.gov.it/crediti) the initiative has been noticed by international observers and an interest in replicating the experience outside our borders has been shown. Just a few days ago OCSE and OECD presented Opencantieri as use case and best practice during a meeting in Mexico City.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">A <a href="https://twitter.com/hashtag/mexicocity?src=hash">#mexicocity</a> con <a href="https://twitter.com/hashtag/OCSE?src=hash">#OCSE</a> si parla di <a href="https://twitter.com/hashtag/trasparenza?src=hash">#trasparenza</a> nelle grandi infrastrutture. Presentiamo <a href="https://twitter.com/hashtag/openexpo?src=hash">#openexpo</a> e <a href="https://twitter.com/hashtag/opencantieri?src=hash">#opencantieri</a> <a href="https://t.co/XDwfQJKgZZ">pic.twitter.com/XDwfQJKgZZ</a></p>&mdash; Giovanni Menduni (@giovannimenduni) <a href="https://twitter.com/giovannimenduni/status/693101424465432576">January 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 **Open Data from farm to fork (#opendatakm0)**
 
@@ -118,13 +120,13 @@ Data acquires an absolute importance, it becomes an **"infrastructure"** [(see h
 [#opendatakm0](https://twitter.com/search?f=tweets&q=%23opendatakm0&src=typd) can be considered a new paradigm for public administration applications: easy, economic, quality driven.
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi2.jpg?raw=true)
-*[Sintesi](http://opencantieri.mit.gov.it/interventi) degli interventi sulle opere principali*
+*[Summary](http://opencantieri.mit.gov.it/interventi) of the interventions on the main works*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori2.png?raw=true)
-*[Indicatori](http://opencantieri.mit.gov.it/indicatori) dello stato dei lavori per ogni infrastruttura*
+*[Indicators](http://opencantieri.mit.gov.it/indicatori) of the state of work for each infrastructure*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/timeline2.png?raw=true)
-*[Timeline](http://opencantieri.mit.gov.it/timeline5) degli interventi sulle ferrovie*
+*[Timeline](http://opencantieri.mit.gov.it/timeline5) of the work progress of railways*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
-*Alessio Dragoni, SciamLab CEO, all'inagurazione di Opencantieri nella Sala del Parlamentino del Ministero delle Infrastrutture e dei Trasporti.*
+*Alessio Dragoni, SciamLab CEO, at the inauguration of Opencantieri in the Parlamentin's Hall of the Ministry of Infrastructure and Transport.*
