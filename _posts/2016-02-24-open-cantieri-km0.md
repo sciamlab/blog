@@ -129,4 +129,4 @@ Data acquires an absolute importance, it becomes an **"infrastructure"** [(see h
 *[Timeline](http://opencantieri.mit.gov.it/timeline5) of the work progress of railways*
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true)
-*Alessio Dragoni, SciamLab CEO, at the inauguration of Opencantieri in the Parlamentin's Hall of the Ministry of Infrastructure and Transport.*
+*Alessio Dragoni, SciamLab CEO, at the inauguration of Opencantieri in the Parlamentino's Hall of the Ministry of Infrastructure and Transport.*
