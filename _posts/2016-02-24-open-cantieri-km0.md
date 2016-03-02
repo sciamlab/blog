@@ -20,10 +20,10 @@ tags:
 - Amaca
 ---
 
-<a name="en"></a>
+<a name="it"></a>
 
 
-[English version](#it)
+[English version](#en)
 
 Breve introduzione
 --
