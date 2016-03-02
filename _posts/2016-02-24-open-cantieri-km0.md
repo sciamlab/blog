@@ -39,7 +39,7 @@ L’iniziativa che abbiamo realizzato grazie ad una stretta collaborazione all�
 <blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">A <a href="https://twitter.com/hashtag/mexicocity?src=hash">#mexicocity</a> con <a href="https://twitter.com/hashtag/OCSE?src=hash">#OCSE</a> si parla di <a href="https://twitter.com/hashtag/trasparenza?src=hash">#trasparenza</a> nelle grandi infrastrutture. Presentiamo <a href="https://twitter.com/hashtag/openexpo?src=hash">#openexpo</a> e <a href="https://twitter.com/hashtag/opencantieri?src=hash">#opencantieri</a> <a href="https://t.co/XDwfQJKgZZ">pic.twitter.com/XDwfQJKgZZ</a></p>&mdash; Giovanni Menduni (@giovannimenduni) <a href="https://twitter.com/giovannimenduni/status/693101424465432576">January 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#opendatakm0
+&#35;opendatakm0
 --
 Ma c’è un aspetto che non viene considerato e che, nel mondo degli Open Data, rappresenta una vera e propria pietra miliare. Opencantieri è la prima applicazione, che fa uso di **Open Data a km0** [(#opendatakm0)](https://twitter.com/search?f=tweets&q=%23opendatakm0&src=typd).
 
