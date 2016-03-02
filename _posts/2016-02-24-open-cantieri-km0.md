@@ -20,13 +20,10 @@ tags:
 - Amaca
 ---
 
-<a name="abcc"></a>
+<a name="en"></a>
 
 
-[English version](#aabb)
-
-Opencantieri 2.0: Open Data dal produttore al consumatore (#opendatakm0)
-====
+[English version](#it)
 
 Breve introduzione
 --
@@ -74,9 +71,9 @@ Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, 
 
 
 
-<a name="aabb"></a>
+<a name="it"></a>
 
-[Versione italiana](#abcc)
+[Versione italiana](#en)
 
 Opencantieri 2.0: Open Data from farm to fork (#opendatakm0)
 ====
