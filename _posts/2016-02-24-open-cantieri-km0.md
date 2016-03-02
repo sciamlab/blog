@@ -28,7 +28,7 @@ tags:
 Opencantieri 2.0: Open Data dal produttore al consumatore (#opendatakm0)
 ====
 
-**Breve introduzione**
+***Breve introduzione***
 
 Dopo 4 mesi spesi per integrare diverse fonti dati eterogenee e produrre #opendata chiave relativi alle infrastrutture dei trasporti italiani, lunedì 15 Febbraio è andata live la versione 2.0 del portale [Opencantieri](http://opencantieri.mit.gov.it/) (annunciato in conferenza stampa dal Ministro delle Infrastrutture e dei Trasporti Graziano Delrio).
 
