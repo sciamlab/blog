@@ -42,8 +42,8 @@ L’iniziativa che abbiamo realizzato grazie ad una stretta collaborazione all�
 <blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">A <a href="https://twitter.com/hashtag/mexicocity?src=hash">#mexicocity</a> con <a href="https://twitter.com/hashtag/OCSE?src=hash">#OCSE</a> si parla di <a href="https://twitter.com/hashtag/trasparenza?src=hash">#trasparenza</a> nelle grandi infrastrutture. Presentiamo <a href="https://twitter.com/hashtag/openexpo?src=hash">#openexpo</a> e <a href="https://twitter.com/hashtag/opencantieri?src=hash">#opencantieri</a> <a href="https://t.co/XDwfQJKgZZ">pic.twitter.com/XDwfQJKgZZ</a></p>&mdash; Giovanni Menduni (@giovannimenduni) <a href="https://twitter.com/giovannimenduni/status/693101424465432576">January 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Open Data dal produttore al consumatore (#opendatakm0)**
-
+Open Data dal produttore al consumatore (#opendatakm0)
+--
 Ma c’è un aspetto che non viene considerato e che, nel mondo degli Open Data, rappresenta una vera e propria pietra miliare. Opencantieri è la prima applicazione, che fa uso di **Open Data a km0** [(#opendatakm0)](https://twitter.com/search?f=tweets&q=%23opendatakm0&src=typd).
 
 Cosa sono gli Open Data a km0? Semplice, il dato reso aperto dalle fonti (in questo caso ANAS, RFI, Ministero dei Trasporti, MISE, DIPE) e quello impiegato da chi lo utilizza è esattamente lo stesso. Non ci sono rielaborazioni o omissioni. Inoltre è importante comprendere che, utilizzando Open Data a km0, gli enti vigilanti, le società controllate e i cittadini sono messi tutti nello stesso piano e considerati come ingranaggi dello stesso meccanismo, chiamati a verificare e partecipare attraverso il dato condiviso. Significa, per tutti, essere coinvolti nei confronti della collettività e, attraverso la collettività, ottenere un diffuso e capillare organismo di controllo
@@ -81,8 +81,8 @@ Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, 
 Opencantieri 2.0: Open Data from farm to fork (#opendatakm0)
 ====
 
-**Short Intro**
-
+Short Intro
+--
 After 4 months of hard work to integrate several heterogeneous data sources and to produce #opendata related to the Italian transport infrastructures, finally last 15th of February the Italian portal [Opencantieri](http://opencantieri.mit.gov.it/) v2.0 has gone live (announced in a press conference by the Minister of Infrastructures and Transports Graziano Delrio).
 
 Through the portal all Citizens can now monitor the work progress of roads, railways and subways through dashboards and localized maps and by accessing different indicators and economic parameters. 
@@ -97,8 +97,8 @@ Thanks to a close collaboration within a [multidisciplinary team](http://opencan
 
 
 
-**Open Data from farm to fork (#opendatakm0)**
-
+Open Data from farm to fork (#opendatakm0)
+--
 There is a particular aspect of Opencantieri that worths a mention here. Opencantieri is one of the few government applications that uses Open Data from farm to fork! (hereafter [#opendatakm0](https://twitter.com/search?f=tweets&q=%23opendatakm0&src=typd) as we use to say in Italy).
 
 What are [#opendatakm0](https://twitter.com/search?f=tweets&q=%23opendatakm0&src=typd)? Data opened by data providers (in this case public companies and administrations like ANAS, RFI, Ministry of Transport, MISE, DIPE) and data employed by citizens are exactly the same. There are no revisions or omissions, the data is exposed in an integral way and used without filters in the portal itself.
