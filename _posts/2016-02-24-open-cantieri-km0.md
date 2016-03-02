@@ -75,7 +75,7 @@ Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, 
 
 [Versione italiana](#en)
 
-Opencantieri 2.0: Open Data from farm to fork (#opendatakm0)
+Opencantieri 2.0: Open Data from farm to fork
 ====
 
 Short Intro
