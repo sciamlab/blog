@@ -22,9 +22,7 @@ tags:
 
 <a name="abcc"></a>
 
-Versione italiana [link](#abcc)
-
-English version [link](#aabb)  
+[English version](#aabb)  
 
 
 Opencantieri 2.0: Open Data dal produttore al consumatore (#opendatakm0)
@@ -77,6 +75,8 @@ Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, 
 
 
 <a name="aabb"></a>
+
+[Versione italiana](#abcc)
 
 Opencantieri 2.0: Open Data from farm to fork (#opendatakm0)
 ====
