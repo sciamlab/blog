@@ -22,8 +22,8 @@ tags:
 
 <a name="abcc"></a>
 
-[English version](#aabb)  
 
+[English version](#aabb)
 
 Opencantieri 2.0: Open Data dal produttore al consumatore (#opendatakm0)
 ====
