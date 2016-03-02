@@ -71,9 +71,9 @@ Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, 
 
 
 
-<a name="it"></a>
+<a name="en"></a>
 
-[Versione italiana](#en)
+[Versione italiana](#it)
 
 Opencantieri 2.0: Open Data from farm to fork
 ====
