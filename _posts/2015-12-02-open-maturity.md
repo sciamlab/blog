@@ -15,7 +15,7 @@ comments: true
 tags:
 - articles
 - open data
-- maturiy
+- maturity
 ---
 
 È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa. Lo studio offre una visione chiara dell’attuale situazione dei paesi europei nel loro percorso Open Data.
@@ -50,6 +50,7 @@ Per l’uso e impatto degli Open Data il punteggio scende al 36 e 29%, rispettiv
 --
 
 ![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure1.PNG?raw=true)
+
 *Figura 1 – La media di Open Data Readiness*
 
 Per quanto riguarda le norme di licenza il punteggio sale al 72,9%. Tuttavia, il coordinamento nazionale in materia di fornire orientamenti per le specifiche aree locali o di dominio è in ritardo (media del 43,8%).
@@ -65,6 +66,7 @@ MATURITÀ DEI PORTALI OPEN DATA
 La maturità dei portali Open Data è il secondo indicatore usato nella valutazione. La maturità dei portali misura l'usabilità e la riusabilità dei dati, nonché la diffusione dei dati sui diversi domini.
 
 ![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure2.PNG?raw=true)
+
 *Figura 2 – La media della Maturità dei portali Open Data EU28+*
 
 Il punteggio in media è del 40,8%.
@@ -80,6 +82,7 @@ Sulla base di questi risultati, i paesi EU28+ sono raggruppati in tre diversi li
 **I leader - trendsetter:** sono i paesi più avanzati. Hanno portali Open Data solidi, con funzionalità elaborate e meccanismi di coordinamento tra domini.
 
 ![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure3.PNG?raw=true)
+
 *Paesi secondo il suo livello di maturità* 
 
 Rimangono ancora alcune barriere da superare per raggiungere un'ulteriore Maturità per gli Open Data. Queste barriere sono simili in tutti i paesi e possono essere distinte in barriere politiche, legali e tecniche. Inoltre, ci sono anche barriere che riguardano la comunicazione e il convolgimento degli utenti.
