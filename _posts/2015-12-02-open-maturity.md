@@ -4,8 +4,8 @@ description: È stato pubblicato l’ultimo Report sulla maturità e la qualità
 tags: [articles, open data, maturity]
 categories: [Open Data]
 thumbimg: /img/blog-widget10.jpg
-postimage: /images/figure3.png
-postimage: /images/figure2.png
+postimage: /images/figure3.PNG
+postimage: /images/figure2.PNG
 postimage: /images/figure1.PNG
 postimage: /images/openmaturity.png
 layout: post
@@ -20,6 +20,7 @@ tags:
 
 È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa. Lo studio offre una visione chiara dell’attuale situazione dei paesi europei nel loro percorso Open Data.
 Cerchiamo di riassumerne nel seguito i contenuti. Il Report originale è disponibile [qui.](http://www.europeandataportal.eu/en/content/open-data-maturity-europe)
+
 Il settore pubblico fornisce una grande quantità di Open Data gratuiti. L'uso di dati aperti è fortemente favorito dalla presenza di un portale nazionale di Open Data.
 
 L’87% dei paesi EU28+ dispone di un portale nazionale.
