@@ -1,12 +1,12 @@
 ---
 title: Open Data Maturity in Europa 2015
-description: opencantieri la prima piattaforma open data a km0
+description: È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa, una visione dell’attuale situazione dei paesi europei nel loro percorso Open Data.
 tags: [articles, open data, maturity]
 categories: [Open Data]
 thumbimg: /img/blog-widget10.jpg
 postimage: /images/figure3.png
 postimage: /images/figure2.png
-postimage: /images/figure1.png 
+postimage: /images/figure1.PNG
 postimage: /images/openmaturity.png
 layout: post
 date: 2015-12-02 19:40
@@ -18,7 +18,7 @@ tags:
 - maturiy
 ---
 
-A gennaio è stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa. Lo studio offre una visione chiara dell’attuale situazione dei paesi europei nel loro percorso Open Data.
+È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa. Lo studio offre una visione chiara dell’attuale situazione dei paesi europei nel loro percorso Open Data.
 Cerchiamo di riassumerne nel seguito i contenuti. Il Report originale è disponibile [qui.](http://www.europeandataportal.eu/en/content/open-data-maturity-europe)
 Il settore pubblico fornisce una grande quantità di Open Data gratuiti. L'uso di dati aperti è fortemente favorito dalla presenza di un portale nazionale di Open Data.
 
@@ -33,7 +33,7 @@ Per misurare la maturità degli Open Data sono stati selezionati **due indicator
 I due indicatori chiave sono la **“prontezza” (Open Data Readiness)** degli Open Data e lo **“stato di completamento” (Maturity)** del portale open data.
 --
 
-Open Data Readiness 
+OPEN DATA READINESS 
 -
 
 Esamina la presenza di politiche di Open Data, l’usabilità degli Open Data disponibili e il suo impatto politico, sociale ed economico. Si misura attraverso la funzionalità, la riusabilità e la diffusione dei dati. 
@@ -48,7 +48,7 @@ Gli indicatori mostrano che i paesi dell’Unione Europea hanno adottato buone p
 Per l’uso e impatto degli Open Data il punteggio scende al 36 e 29%, rispettivamente.
 --
 
-![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure1.png?raw=true)
+![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure1.PNG?raw=true)
 *Figura 1 – La media di Open Data Readiness*
 
 Per quanto riguarda le norme di licenza il punteggio sale al 72,9%. Tuttavia, il coordinamento nazionale in materia di fornire orientamenti per le specifiche aree locali o di dominio è in ritardo (media del 43,8%).
@@ -58,7 +58,7 @@ In merito all'uso di Open Data, i paesi hanno prodotto un punteggio decisamente 
 La differenza nella EU28 + è ampia. Diversi paesi ricevono già più di 10.000 visitatori al mese sul proprio portale nazionale. Tuttavia, in molti paesi non si ha una adeguata conoscenza dei dati disponibili e di come farne uso.
 E’ forte la percezione che nemmeno la metà dell'impatto degli Open Data è stata raggiunta. **L'impatto economico** rileva un punteggio medio del 38,3%, di poco superiore **all'impatto politico**, che è del 30,8%, e **dell'impatto sociale** percepito che rimane molto basso, intorno all 8%.
 
-Maturità dei portali Open Data
+MATURITÀ DEI PORTALI OPEN DATA
 -
 
 La maturità dei portali Open Data è il secondo indicatore usato nella valutazione. La maturità dei portali misura l'usabilità e la riusabilità dei dati, nonché la diffusione dei dati sui diversi domini.
@@ -73,7 +73,9 @@ Nel complesso, la media di usabilità è del 50%, la media di riusabilità è de
 Sulla base di questi risultati, i paesi EU28+ sono raggruppati in tre diversi livelli di maturità Open Data:
 
 **Principianti:** paesi che hanno fatto i primi passi, ma ancora lontani dal raggiungere un buon livello di disponibilità e di accessibilità dei dati. Le funzionalità del portale sono limitate e la copertura in termini di dataset aperti è limitata.
+
 **Followers:** paesi che hanno una strategia open data chiara e il cui portale presenta funzioni avanzate. Tuttavia, l'approccio al rilascio dei dati è poco chiaro e resta limitato.
+
 **I leader - trendsetter:** sono i paesi più avanzati. Hanno portali Open Data solidi, con funzionalità elaborate e meccanismi di coordinamento tra domini.
 
 ![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure3.png?raw=true)
