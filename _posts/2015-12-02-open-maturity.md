@@ -35,6 +35,7 @@ Per misurare la maturità degli Open Data sono stati selezionati **due indicator
 I due indicatori chiave sono la **“prontezza” (Open Data Readiness)** degli Open Data e lo **“stato di completamento” (Maturity)** del portale open data.
 --
 
+
 OPEN DATA READINESS 
 -
 
