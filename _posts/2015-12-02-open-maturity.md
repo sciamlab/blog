@@ -31,6 +31,7 @@ Solo quattro paesi non ne hanno ancora uno: Lettonia, Liechtenstein, Lussemburgo
 Solo il 44% dei paesi EU28+ ha raggiunto un buon livello di maturità del portale nazionale. 
 --
 Per misurare la maturità degli Open Data sono stati selezionati **due indicatori chiave**. Questi indicatori riguardano sia lo stato di completamento delle politiche nazionali che promuovono Open Data, sia una valutazione delle funzioni messe a disposizione sui portali di dati nazionali.
+
 I due indicatori chiave sono la **“prontezza” (Open Data Readiness)** degli Open Data e lo **“stato di completamento” (Maturity)** del portale open data.
 --
 
