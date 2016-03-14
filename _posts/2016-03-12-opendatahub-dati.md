@@ -20,6 +20,7 @@ Pubblichiamo di seguito una infografica che fornisce una sintesi delle informazi
 Attualmente sono disponibili **24.469 dataset pubblicati da 236 organizazzioni**. opendatahub.it ha una media di 3.200 visitatori unici al mese e tra **50 e 60 download** effettivi al giorno.
 
 I dataset si dividono nelle seguenti **categorie**: Economia e finanza; Ambiente; Popolazione e condizioni sociali; Agricoltura, pesca, silvicoltura, cibo; Scienza e tecnologia; Governo e settore pubblico; Trasporti; Giustizia, sistema giuridico, sicurezza pubblica; Regioni, città; Educazione, cultura e sport; Energia; Affari internazionali; Salute e Altri.
+
 I dati provengono dalle Regioni, Comuni, Enti, Province e Aziende pubbliche.
 
 Prova ora [OpenDataHub!](http://www.sciamlab.com/opendatahub/it) 
