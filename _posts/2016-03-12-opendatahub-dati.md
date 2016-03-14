@@ -1,7 +1,7 @@
 ---
 title: I dati di OpenDataHub
 description: una infografica che fornisce una sintesi delle informazioni attualmente disponibili su opendatahub.it
-tags: [opendatahub open data, Amaca]
+tags: [OpenDataHub, open data, Amaca]
 categories: [Open Data]
 thumbimg: /img/block_post_img1.jpg
 layout: post
@@ -9,10 +9,13 @@ date: 2016-03-12 19:40
 author: Yolanda
 comments: true
 tags:
-- opendatahub
+- OpenDataHub
 - open data
 - Amaca
 ---
+
+<a name="it"></a>
+
 [English version](#en)
 
 Pubblichiamo di seguito una infografica che fornisce una sintesi delle informazioni attualmente disponibili su [opendatahub.it](http://www.sciamlab.com/opendatahub/it)
@@ -33,8 +36,14 @@ Prova ora [OpenDataHub!](http://www.sciamlab.com/opendatahub/it)
 
 
 
+
+
+
+
+
 <a name="en"></a>
 
+[Versione italiana](#it)
 
 The data in OpendaHub
 --
