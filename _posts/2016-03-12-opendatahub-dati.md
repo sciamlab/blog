@@ -6,7 +6,7 @@ categories: [Open Data]
 thumbimg: /img/block_post_img1.jpg
 postimage: /images/italiano.jpg
 layout: post
-date: 2016-03-13 19:40
+date: 2016-03-12 19:40
 author: Yolanda
 comments: true
 tags:
