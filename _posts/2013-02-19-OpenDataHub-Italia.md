@@ -1,7 +1,7 @@
 ---
 title: SciamLab presents the OpenDataHub Italia at the International Open Data Day 2013
 description: SciamLab presented the OpenDataHub Italia, the richest Italian open data catalog. The datasets index was build by SciamLab Amaca platform. 
-tags: [open data,OpenDataHub]
+tags: [open data, OpenDataHub]
 categories: [Open Data]
 thumbimg: /img/blog-widget11.jpg.jpg
 postimage: /images/datahub.JPG
