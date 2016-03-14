@@ -13,6 +13,7 @@ tags:
 - open data
 - Amaca
 ---
+[English version](#en)
 
 Pubblichiamo di seguito una infografica che fornisce una sintesi delle informazioni attualmente disponibili su [opendatahub.it](http://www.sciamlab.com/opendatahub/it)
 
@@ -29,6 +30,8 @@ I dati provengono dalle Regioni, Comuni, Enti, Province e Aziende pubbliche.
 Prova ora [OpenDataHub!](http://www.sciamlab.com/opendatahub/it) 
 --
 
+
+<a name="en"></a>
 
 
 
