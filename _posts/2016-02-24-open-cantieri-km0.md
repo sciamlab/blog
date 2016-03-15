@@ -3,7 +3,7 @@ title: Opencantieri&#58; &#35;opendatakm0
 description: opencantieri la prima piattaforma open data a km0
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
-thumbimg: /img/cantieri.png
+thumbimg: /img/blog-widget-opencantieri.jpg
 postimage: /images/timeline2.png
 postimage: /images/indicatori2.png
 postimage: /images/opencinterventi2.jpg
