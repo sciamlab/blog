@@ -11,9 +11,9 @@ author: Yolanda
 comments: true
 ---
 Workshop OPEN e BIGDATA: nuovi percorsi formativi per la trasformazione digitale delle imprese italiane
----
+--
 
-Venerdì 4 dicembre [SciamLab](http://www.sciamlab.com/) parteciperà all’evento [“Il Futuro non si aspetta +. La formazione del cambiamento”](https://www.facebook.com/events/757042797773488). L’evento ha come obbiettivo quello di potenziare le imprese e il loro futuro attraverso l’innovazione. L’evento è stato organizzato dal CNA, Camera di Commercio di Roma, dall’Ordine degli Architetti Pianificatori Paesaggisti e Conservatori e dalla Consulta Giovani Architetti.
+Venerdì 4 dicembre [SciamLab](http://www.sciamlab.com/) parteciperà all’evento ["Il Futuro non si aspetta +. La formazione del cambiamento"](https://www.facebook.com/events/757042797773488). L’evento ha come obbiettivo quello di potenziare le imprese e il loro futuro attraverso l’innovazione. L’evento è stato organizzato dal CNA, Camera di Commercio di Roma, dall’Ordine degli Architetti Pianificatori Paesaggisti e Conservatori e dalla Consulta Giovani Architetti.
 
 Durante la mattina si terranno, nella Casa dell'Architettura di Roma (Acquario Romano), una serie di presentazioni sull’**innovazione** e le sue sfide. Nel pomeriggio si svolgeranno dei workshop per condividere esperienze e far emergere opportunità di **sviluppo e trasformazione**.
 
