@@ -8,10 +8,6 @@ layout: post
 date: 2013-03-12 19:40
 author: Yolanda
 comments: true
-tags:
-- OpenDataHub
-- open data
-- Amaca
 ---
 
 <a name="it"></a>
