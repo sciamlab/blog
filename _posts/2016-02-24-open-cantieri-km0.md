@@ -1,5 +1,5 @@
 ---
-title: Opencantieri&#58; &#35;opendatakm0
+title: Opencantieri: #opendatakm0
 description: opencantieri la prima piattaforma open data a km0
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
