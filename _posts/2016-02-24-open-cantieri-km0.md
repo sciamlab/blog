@@ -4,11 +4,6 @@ description: opencantieri la prima piattaforma open data a km0
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
 thumbimg: /img/blog-widget-opencantieri.jpg
-postimage: /images/timeline2.png
-postimage: /images/indicatori2.png
-postimage: /images/opencinterventi2.jpg
-postimage: /images/interventi3.jpg
-postimage: /images/alessiodragoni.jpg 
 postimage: /images/cantieriItalia.jpg
 layout: post
 date: 2016-02-24 19:40
