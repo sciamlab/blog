@@ -11,10 +11,6 @@ layout: post
 date: 2016-02-05 19:40
 author: Yolanda
 comments: true
-tags:
-- database
-- open data
-- interactive maps
 ---
 
 It is not always easy to find public **open data**. For this we want to talk about one of the most interesting and important projects that currently exists, [the GDELT Project.](http://analysis.gdeltproject.org/)
