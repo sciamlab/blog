@@ -12,10 +12,6 @@ layout: post
 date: 2015-12-02 19:40
 author: Yolanda
 comments: true
-tags:
-- articles
-- open data
-- maturity
 ---
 
 È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa. Lo studio offre una visione chiara dell’attuale situazione dei paesi europei nel loro percorso Open Data.
