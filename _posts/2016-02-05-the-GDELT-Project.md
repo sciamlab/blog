@@ -4,8 +4,6 @@ description: The GDELT Project is the largest real time database of human societ
 tags: [database, open data, interactive maps]
 categories: [Open Data]
 thumbimg: /img/blog-widget-gdelt.jpg
-postimage: /images/gdelt 1.PNG
-postimage: /images/candidateselections.bmp
 postimage: http://gdeltproject.org/imgs/gdelt-events-nasa-night-lights.jpg
 layout: post
 date: 2016-02-05 19:40
