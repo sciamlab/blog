@@ -4,9 +4,6 @@ description: È stato pubblicato l’ultimo Report sulla maturità e la qualità
 tags: [articles, open data, maturity]
 categories: [Open Data]
 thumbimg: /img/blog-widget10.jpg
-postimage: /images/figure3.PNG
-postimage: /images/figure2.PNG
-postimage: /images/figure1.PNG
 postimage: /images/openmaturity.PNG
 layout: post
 date: 2015-12-02 19:40
