@@ -3,11 +3,8 @@ title: SoldiPubblici is growing with new data from the Central Government
 description: SoldiPubblici is doing now one step further, adding payments made with electronic mandates by the Central Government institutions such as Ministries, Metropolitan Cities or University.
 tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
-thumbimg: /img/blog-widget08.jpg
-postimage: /images/difesa.JPG
-postimage: /images/infograficoaerei.JPG
-postimage: /images/mezziaerei.JPG
-postimage: /images/soldi.JPG
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget08.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/soldi.JPG?raw=true
 layout: post
 date: 2015-10-22 19:40
 author: Yolanda
@@ -18,7 +15,7 @@ tags:
 - open government
 ---
 
-Almost a year ago, we were the main contributor to the realization of the Italian Government Site [SoldiPubblici](http://soldipubblici.gov.it/it/home), the portal exposing government spendings to citizens. 
+Almost a year ago, we were the main contributor to the realization of the Italian Government Site [SoldiPubblici](http://soldipubblici.gov.it/it/home), the portal exposing government spendings to citizens.
 
 SoldiPubblici is doing now one step further, adding payments made with electronic mandates by the Central Government institutions such as **Ministries, Metropolitan Cities or University**! ([bellow the list](#aabb))
 
@@ -48,7 +45,7 @@ Discover more about SoldiPubblici here:
 
 
 <a name="aabb"></a>
-Below the full list of the Institutions which payment have been added and are now available for search in the portal: 
+Below the full list of the Institutions which payment have been added and are now available for search in the portal:
 
 
 - Ministries
@@ -62,7 +59,7 @@ Below the full list of the Institutions which payment have been added and are no
 - Regional health agencies
 - Local health agencies
 - Hospitals
-- Experimental Zooprophylactic Institutes 
+- Experimental Zooprophylactic Institutes
 - Institutions for hospitalization and care of a scientific
 - University hospitals
 - Associations of Bacino Imbrifero Montano
@@ -76,4 +73,3 @@ Below the full list of the Institutions which payment have been added and are no
 - Chambers of commerce
 
 We are very proud of the new milestone reached by SoldiPubblici, we worked hard to realize all this (thanks Luca)!!! This a step ahead on the road of transparency and open government!
-

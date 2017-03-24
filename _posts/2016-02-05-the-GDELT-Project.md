@@ -1,10 +1,10 @@
 ---
 title: The real time database of global society, the GDELT Project
-description: The GDELT Project is the largest real time database of human society ever created. GDELT allows you to create interactive maps or timelines exploring and contrasting events, topics and languages. 
+description: The GDELT Project is the largest real time database of human society ever created. GDELT allows you to create interactive maps or timelines exploring and contrasting events, topics and languages.
 tags: [database, open data, interactive maps]
 categories: [Open Data]
-thumbimg: /img/blog-widget-gdelt.jpg
-postimage: http://gdeltproject.org/imgs/gdelt-events-nasa-night-lights.jpg
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget-gdelt.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/gdelt-events-nasa-night-lights.jpg?raw=true
 layout: post
 date: 2016-02-05 19:40
 author: Yolanda
@@ -13,7 +13,7 @@ comments: true
 
 It is not always easy to find public **open data**. For this we want to talk about one of the most interesting and important projects that currently exists, [the GDELT Project.](http://analysis.gdeltproject.org/)
 
-It is the largest real time **database of human society** ever created. The aim is to better understand global human society and especially the connection between communicative discourse and physical societal-scale behaviour. 
+It is the largest real time **database of human society** ever created. The aim is to better understand global human society and especially the connection between communicative discourse and physical societal-scale behaviour.
 
 To do it the platform monitors **the world's news media** from nearly every country in print, broadcast, and web formats, in over 100 languages.
 
@@ -25,10 +25,8 @@ GDELT allows you to create interactive maps or timelines exploring and contrasti
 
 The entire GDELT database is **100% free and opened to be downloaded** as raw text data files to be used in your own projects.
 
-For instance, GDELT has been used by medias to explore **protest trends in Egypt since the Arab Spring**. Particularly an article on The Cairo Review's highlights the special role of "big data" in understanding protest trends. 
+For instance, GDELT has been used by medias to explore **protest trends in Egypt since the Arab Spring**. Particularly an article on The Cairo Review's highlights the special role of "big data" in understanding protest trends.
 
 ![GDELT](https://github.com/sciamlab/blog/blob/gh-pages/images/candidateselections.bmp?raw=true)
 
-GDELT has also been used by medias to explore the state of **television coverage** of the candidates for US elections. For example, The Daily Mail and the Los Angeles Times used GDELT's 2016 Candidate Television Tracker to comment on the state of television coverage of the candidates and how Trump has so successfully wielded earned media coverage compared with his competitor's. 
-
-
+GDELT has also been used by medias to explore the state of **television coverage** of the candidates for US elections. For example, The Daily Mail and the Los Angeles Times used GDELT's 2016 Candidate Television Tracker to comment on the state of television coverage of the candidates and how Trump has so successfully wielded earned media coverage compared with his competitor's.

@@ -3,8 +3,8 @@ title: Il Futuro non si aspetta +. La formazione del cambiamento
 description:  SciamLab parteciperà all’evento “Il Futuro non si aspetta +. La formazione del cambiamento”. con l'obbiettivo di potenziare le imprese e l’innovazione.
 tags: [workshop, open data, big data]
 categories: [Open Data]
-thumbimg: /img/futuro_thumb.png
-postimage: /images/eventofuturo.jpg
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/futuro_thumb.png?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/eventofuturo.jpg?raw=true
 layout: post
 date: 2015-11-26 19:40
 author: Yolanda
@@ -18,9 +18,9 @@ Venerdì 4 dicembre [SciamLab](http://www.sciamlab.com/) parteciperà all’even
 
 Durante la mattina si terranno, nella Casa dell'Architettura di Roma (Acquario Romano), una serie di presentazioni sull’**innovazione** e le sue sfide. Nel pomeriggio si svolgeranno dei workshop per condividere esperienze e far emergere opportunità di **sviluppo e trasformazione**.
 
-Parteciperanno all’evento esponenti del [Parlamento Europeo](http://www.europarl.europa.eu/portal/it), [la Regione Lazio](http://www.regione.lazio.it/), [la Camera di Commercio di Roma](http://www.rm.camcom.it/), [IRFI](http://www.irfi.it/), [la Banca di Credito Cooperativo di Roma](http://www.bccroma.it/), [Lazio Innova](http://www.lazioinnova.it/) e [CNA](http://www.cnapmi.org/). 
+Parteciperanno all’evento esponenti del [Parlamento Europeo](http://www.europarl.europa.eu/portal/it), [la Regione Lazio](http://www.regione.lazio.it/), [la Camera di Commercio di Roma](http://www.rm.camcom.it/), [IRFI](http://www.irfi.it/), [la Banca di Credito Cooperativo di Roma](http://www.bccroma.it/), [Lazio Innova](http://www.lazioinnova.it/) e [CNA](http://www.cnapmi.org/).
 
-I dati sono da sempre delle importanti risorse per le grandi aziende e adesso anche per le piccole e medie imprese, che possono usarli per avere un maggiore vantaggio nelle loro attività. 
+I dati sono da sempre delle importanti risorse per le grandi aziende e adesso anche per le piccole e medie imprese, che possono usarli per avere un maggiore vantaggio nelle loro attività.
 
 Per questo, dalle 17:30 **Alessio Dragoni** di SciamLab interverrà su argomenti inerenti gli **open data** e i dati in genere:
 

@@ -3,8 +3,8 @@ title: Opencantieri&#58; &#35;opendatakm0
 description: opencantieri la prima piattaforma open data a km0
 tags: [open cantieri, open data, Amaca]
 categories: [Open Data]
-thumbimg: /img/blog-widget-opencantieri.jpg
-postimage: /images/cantieriItalia.jpg
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget-opencantieri.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/cantieriItalia.jpg?raw=true
 layout: post
 date: 2016-02-24 19:40
 author: Davide
@@ -75,7 +75,7 @@ Short Intro
 --
 After 4 months of hard work to integrate several heterogeneous data sources and to produce #opendata related to the Italian transport infrastructures, finally last 15th of February the Italian portal [Opencantieri](http://opencantieri.mit.gov.it/) v2.0 has gone live (announced in a press conference by the Minister of Infrastructures and Transports Graziano Delrio).
 
-Through the portal all Citizens can now monitor the work progress of roads, railways and subways through dashboards and localized maps and by accessing different indicators and economic parameters. 
+Through the portal all Citizens can now monitor the work progress of roads, railways and subways through dashboards and localized maps and by accessing different indicators and economic parameters.
 
 ![Cantieri](https://github.com/sciamlab/blog/blob/gh-pages/images/interventi3.jpg?raw=true)
 *[Intervention](http://opencantieri.mit.gov.it/contratti) of the program contract*
