@@ -3,8 +3,8 @@ title: Open Data Maturity in Europa 2015
 description: È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa, una visione dell’attuale situazione dei paesi europei nel loro percorso Open Data.
 tags: [articles, open data, maturity]
 categories: [Open Data]
-thumbimg: /img/blog-widget10.jpg
-postimage: /images/openmaturity.PNG
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget10.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/openmaturity.PNG?raw=true
 layout: post
 date: 2015-12-02 19:40
 author: Yolanda
@@ -21,7 +21,7 @@ L’87% dei paesi EU28+ dispone di un portale nazionale.
 
 Solo quattro paesi non ne hanno ancora uno: Lettonia, Liechtenstein, Lussemburgo e Malta. Quasi due terzi dei paesi EU28+ sta effettivamente implementando una politica di Open Data.
 
-Solo il 44% dei paesi EU28+ ha raggiunto un buon livello di maturità del portale nazionale. 
+Solo il 44% dei paesi EU28+ ha raggiunto un buon livello di maturità del portale nazionale.
 --
 Per misurare la maturità degli Open Data sono stati selezionati **due indicatori chiave**. Questi indicatori riguardano sia lo stato di completamento delle politiche nazionali che promuovono Open Data, sia una valutazione delle funzioni messe a disposizione sui portali di dati nazionali.
 
@@ -29,11 +29,11 @@ I due indicatori chiave sono la **“prontezza” (Open Data Readiness)** degli 
 --
 
 
-OPEN DATA READINESS 
+OPEN DATA READINESS
 -
 
-Esamina la presenza di politiche di Open Data, l’usabilità degli Open Data disponibili e il suo impatto politico, sociale ed economico. Si misura attraverso la funzionalità, la riusabilità e la diffusione dei dati. 
-Tuttavia, ci sono grandi differenze tra i vari paesi. Alcuni di loro sono ancora in fase di costruzione dei loro portali nazionali, mentre altri hanno raggiunto una buona qualità del portale nazionale e avviato ulteriori iniziative open data. 
+Esamina la presenza di politiche di Open Data, l’usabilità degli Open Data disponibili e il suo impatto politico, sociale ed economico. Si misura attraverso la funzionalità, la riusabilità e la diffusione dei dati.
+Tuttavia, ci sono grandi differenze tra i vari paesi. Alcuni di loro sono ancora in fase di costruzione dei loro portali nazionali, mentre altri hanno raggiunto una buona qualità del portale nazionale e avviato ulteriori iniziative open data.
 Da notare che solo un terzo dei paesi europei (32%) sta incentivando l’uso degli open data mediante politiche opportune (regolamentazione delle licenze, iniziative ed eventi per aumentare il traffico sul portale).
 
 La media dell'indicatore di “prontezza” è del 44,7%.
@@ -78,12 +78,12 @@ Sulla base di questi risultati, i paesi EU28+ sono raggruppati in tre diversi li
 
 ![Maturity](https://github.com/sciamlab/blog/blob/gh-pages/images/figure3.PNG?raw=true)
 
-*Paesi secondo il suo livello di maturità* 
+*Paesi secondo il suo livello di maturità*
 
 Rimangono ancora alcune barriere da superare per raggiungere un'ulteriore Maturità per gli Open Data. Queste barriere sono simili in tutti i paesi e possono essere distinte in barriere politiche, legali e tecniche. Inoltre, ci sono anche barriere che riguardano la comunicazione e il convolgimento degli utenti.
-Al fine di andare progredire sul tema maturità, sono state formulate una serie di **raccomandazioni:** 
+Al fine di andare progredire sul tema maturità, sono state formulate una serie di **raccomandazioni:**
 
-- Una strategia Open Data è necessaria come base per la cooperazione tra le pubbliche amministrazioni e per coinvolgere i potenziali utilizzatori di dati; 
+- Una strategia Open Data è necessaria come base per la cooperazione tra le pubbliche amministrazioni e per coinvolgere i potenziali utilizzatori di dati;
 - Si devono aggiungere al portale funzionalità base in grado di aumentare la facilità d'uso e di stimolare il riutilizzo dei dati;
 - Si deve aumentare la consapevolezza dei cittadini e delle imprese in merito al tema degli open data e di come usarli;
 - Dovrebbero essere offerti corsi di formazione a dipendenti pubblici per aumentare la comprensione degli Open Data;
