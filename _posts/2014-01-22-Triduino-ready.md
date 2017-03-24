@@ -3,22 +3,17 @@ title: First stable version of Triduino Ready!!
 description:A big step was done for Triduino: generating automatically the code to be flashed in Arduino and finding a way up flash it via Bluetooth from Android ready.
 tags: [Triduino,prototype,sensor]
 categories: [Open Data]
-thumbimg: /img/blog-widget05.jpg
-postimage: /images/truduinoready.png
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget05.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/truduinoready.png?raw=true
 layout: post
 date: 2015-01-20 19:40
 author: Luca
 comments: true
-tags:
-- Triduino 
-- prototype
-- sensor
-
 ---
 
 After some months of pause I was able to restart the activities on **Triduino** (We had all to concentrate our forces in some big **open data projects** that are bringing us the lymph for feeding the company and our families..) and what came out went beyond our expectations.
 
-Just to make a short recap on Triduino story we first created [a simple air quality station](http://blog.sciamlab.com/open%20data/2013/12/21/air-quality-low-cost.html), then [the first Triduino prototype](http://blog.sciamlab.com/open%20data/2014/04/15/first-triduino-prototype.html).
+Just to make a short recap on Triduino story we first created [a simple air quality station](blog.post({id:'2013-12-21-air-quality-low-cost})), then [the first Triduino prototype](blog.post({id:'2014-04-15-first-triduino-prototype'})).
 
 In the first prototype I created **a java library and an android application** capable, with a simple configuration, to communicate with an Arduino device running a sketch implementing a simple ad-hoc protocol I created; however this approach revealed very soon its limitations as soon as I tried to attach to it other sensors because most of them (especially the digital ones) need the installation and the utilization of specific libraries in the sketch code making the entire system still too geek oriented needing programming skills on the Arduino side.
 So I had a choice, or giving up and remaining with the satisfaction of the prototype or deciding to make a big step: generating automatically the code to be flashed in Arduino and finding a way up flash it via Bluetooth from Android…
@@ -54,10 +49,10 @@ The next step is taking the output of the sensors (that are already post-process
 Stay tuned!!
 
 **“Long life and prosperity”**
- 
- 
- 
- 
+
+
+
+
 
 **Tech specs:**
 

@@ -3,17 +3,13 @@ title: italiasicura goes live!
 description: SciamLab releases #italiasicura, the first European platform for live monitoring on a map of public moneys spent in yards opened to fight hydro-geological instability and emergencies.
 tags: [open data, open government]
 categories: [Open Data]
-thumbimg: /img/blog-widget-is.jpg
-postimage: /images/italiasicura1.jpg
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget-is.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/italiasicura1.jpg?raw=true
 layout: post
 date: 2015-05-21 19:40
 author: Davide
 comments: true
 excerpt_separator: <!--more-->
-tags:
-- open data
-- open government
-
 ---
 Another great achievement for SciamLab! #italiasicura is live!!
 
@@ -34,9 +30,9 @@ Data (open) provided by these organizations were cleansed, organized, homogenize
 ### Some background
 
 More than six million of Italians live in areas at risk of landslides or flooding. Italy has always been forced to live huge disasters. So, reduce and manage risk is not a cost and investments are the key to restart the country.
-Environmental stress and disruption consume a growing share of the state budget. One euro spent on prevention saves up to 100 euro in damage repairs. 
+Environmental stress and disruption consume a growing share of the state budget. One euro spent on prevention saves up to 100 euro in damage repairs.
 
-The hydrogeological risk is one of the reasons for the increase of the infrastructure gap in the country. Slip down not only land or houses but also roads and highways, railways, water and electricity. 
+The hydrogeological risk is one of the reasons for the increase of the infrastructure gap in the country. Slip down not only land or houses but also roads and highways, railways, water and electricity.
 The deterioration of the territory constitutes a strongly negative voice in the economic balance of a country, which already has future debt accumulated.
 
 Under the sponsorship of the Presidency of the Council of the Ministries, SciamLab developed mappa.italiasicura.gov.it. It offers the ability to monitor and control public works spending and the progress of construction sites.

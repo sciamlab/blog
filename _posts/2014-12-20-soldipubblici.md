@@ -3,17 +3,12 @@ title: soldipubblici.gov.it
 description: SciamLab releases the Italian Government Portal SoldiPubblici, the communication of government spending to citizens http://soldipubblici.gov.it
 tags: [soldi pubblici, open data, open government]
 categories: [Open Data]
-thumbimg: /img/blog-widget13.jpg
-postimage: /images/soldipubblici.JPG
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget13.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/soldipubblici.JPG?raw=true
 layout: post
 date: 2014-12-20 19:40
 author: Yolanda
 comments: true
-tags:
-- soldi pubblici
-- open data
-- open government
-
 ---
 
 “By understanding how governments spend money in our name can we have a say in how that money will affect our own lives.” [(source)](https://openspending.org/)
@@ -22,7 +17,7 @@ To be more transparent on how public administrations spend in Italy, **SciamLab*
 
 The site is **a semantic search engine** built on Apache Solr. It integrates the data from **SIOPE** (Sistema Informativo delle Operazioni degli Enti Pubblici), the information system for the public government operations, with a semantic dictionary that enables users to search public administration expenditures using common words, other then compare them to other ones.
 
-This first release allows you to access the data of monthly payments to the regions, to the provinces, to the municipalities and to regional health agencies. 
+This first release allows you to access the data of monthly payments to the regions, to the provinces, to the municipalities and to regional health agencies.
 The next stages of the project will cover the possibility to directly download data and will be produced an extension of the search, visualization and data analysis based on other public administration categories. That will be an opportunity to broaden the spectrum to all public administrations.
 
 On the other hand, perhaps the most important challenge regards **electronic invoicing**. From 31 March 2015, all suppliers of local public administrations will have to compulsorily send electronic invoices, as already do the suppliers of central public administrations from June 6 this year.

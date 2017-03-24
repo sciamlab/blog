@@ -3,25 +3,23 @@ title: My data, my life
 description: Despite it happen constantly before our eyes we do not realize that willy-nilly we leave a trace of ourselves in any system that records.
 tags: [personal data]
 categories: [Open Data]
-thumbimg: /img/blog-widget02.jpg
-postimage: /img/blog00.jpg
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget02.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/blog00.jpg?raw=true
 layout: post
 date: 2013-12-18 15:50
 author: SciamLab Team
 comments: true
-tags:
-- personal data
 ---
 
 In everyone's life, experiences mediated by software occupy
 an increasingly large portion of our day and basically that
 is likely to increase over time. Despite it happen constantly
-before our eyes - every time we use the phone to call home, 
+before our eyes - every time we use the phone to call home,
 the office computer, reading the newspaper on the tablet or
 taking directions from the navigator in the car - we do not
 realize that willy-nilly we leave a trace of ourselves and of
 our actions in any internediate system that records.
- 
+
 The production of personal data that concern us and that we
 allow or maybe want share is 'already started' since
 several years, but the amount, the frequency and spread
@@ -39,17 +37,16 @@ only the concept of privacy connotations that are taking more
 and more' subtle but they are what we consider the basic elements
 of our conception of society'.
 
-A lucid and fascinating reflection on these issues is contained 
+A lucid and fascinating reflection on these issues is contained
 in the book [Who Owns the Future](http://www.jaronlanier.com/futurewebresources.html)
-by Jaron Lanier that's the creator of 
-concepts such as virtual-reality and' back in their footsteps and even 
-staying in the role of Silicon Boys, peers with a sharp criticism of 
-the radical changes that the technology and software in particular 
+by Jaron Lanier that's the creator of
+concepts such as virtual-reality and' back in their footsteps and even
+staying in the role of Silicon Boys, peers with a sharp criticism of
+the radical changes that the technology and software in particular
 have led to humanity.
 
-We are wondering about these issues and whetted us the idea of 
-​​talking about it here to open our blog. In these columns, we want 
+We are wondering about these issues and whetted us the idea of
+​​talking about it here to open our blog. In these columns, we want
 to share what happens behind the scenes of opendatahub.it and the
-discussions that animate our days while we reason how to make easier 
+discussions that animate our days while we reason how to make easier
 and more effective access to the open data available in Italy.
-

@@ -3,15 +3,12 @@ title: Hadoop Certified Professional (HCP)
 description: SciamLab Engineers obtained the Hadoop Certified Professional (HCP) certification from Hortonworks.
 tags: [Hadoop]
 categories: [Open Data]
-thumbimg: /img/blog-widget08.jpg
-postimage: /images/hadoop.JPG
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget08.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/hadoop.JPG?raw=true
 layout: post
 date: 2013-06-15 19:40
 author: Yolanda
 comments: true
-tags:
-- Hadoop
-
 ---
 
 Our team of **SciamLab Engineers** has obtained **the Hadoop Certified Professional (HCP) certification** from Hortonworks. This kind of certification is intended for developers who design, develop and architect Hadoop-based solutions, consultants who create Hadoop project proposals and Hadoop development instructors. Those certified are recognized as having a **high level of skill** in Apache Hadoop.

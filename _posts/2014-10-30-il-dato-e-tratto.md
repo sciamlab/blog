@@ -3,18 +3,13 @@ title: Il dato è tratto receives the 3rd place in the ISTAT Censimenti Data Cha
 description: SciamLab wins third prize with the “Il dato è tratto” application.
 tags: [app,ISTAT]
 categories: [Open Data]
-thumbimg: /img/blog-widget11.jpg
-postimage: /images/il datto e tratto.JPG
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget11.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/il datto e tratto.JPG?raw=true
 layout: post
 date: 2014-10-30 19:40
 author: Yolanda
 comments: true
-tags:
-- app
-- ISTAT
 ---
-
-
 **SciamLab** with the rest of the team of the **"Il dato è tratto" application** has been awarded for the 3rd place in the ISTAT Censimenti Data Challenge for having submitted **the best app** on the reuse of ISTAT data.
 
 The basic elements of the project are related to the data that the ISTAT produces during censuses and in particular that relating to **the industry census**.
@@ -28,8 +23,8 @@ Part of this project also aims to build a regional map and to mark on it the abi
 
 
 
-To know more: 
+To know more:
 
 [ISTAT Contest](http://istatcontest.sciamlab.com/)
 
-[Youtube video in Italian](http://youtu.be/ObgKlNIxJQk) 
+[Youtube video in Italian](http://youtu.be/ObgKlNIxJQk)

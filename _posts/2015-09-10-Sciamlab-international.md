@@ -3,16 +3,12 @@ title: We are launching our new website in Spanish and Italian!
 description: SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers.
 tags: [italiano, spanish, english]
 categories: [Open Data]
-thumbimg: /images/blog-widget-languages.jpg
-postimage: /images/italiano-inglese-spagnolo.png
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget-languages.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/italiano-inglese-spagnolo.png?raw=true
 layout: post
 date: 2015-09-09 10:40
 author: Yolanda
 comments: true
-tags:
-- italiano
-- spanish
-- english
 ---
 SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
@@ -22,15 +18,13 @@ English version [link](#aabb)
 Versión en español [link](#abcd)  
 Versione italiana [link](#abcc)  
 
-
-
 Sciamlab speaks Spanish and Italian!
 ====
 
 To increase our visibility and to make easier for more people to access [SciamLab](http://www.sciamlab.com/) and [OpenDataHub](http://www.sciamlab.com/opendatahub/) site we decided to make a big step ahead for the SciamLab portal!
 
 Our website was born in English, the language we work daily and the most international one.
-SciamLab announce today the new internationalized version of the site with two new languages available: **Italian and Spanish!!** 
+SciamLab announce today the new internationalized version of the site with two new languages available: **Italian and Spanish!!**
 
 This not only means that we have a website in three different languages, it also means that you can communicate with us **in any of these languages**.
 
@@ -56,11 +50,11 @@ Hoy SciamLab presenta su versión **más internacional** con una página web dis
 
 Y eso no solo significa que tenemos una nueva web en español, sino que entre otras cosas, también puedes comunicarte con nosotros en este idioma.
 
-Respecto a los dos nuevos idiomas hemos decidido incorporar el italiano porque es el idioma del país en el que tenemos nuestra principal sede (Roma) y el español porque es uno de los mercados con los que actualmente trabajamos. 
+Respecto a los dos nuevos idiomas hemos decidido incorporar el italiano porque es el idioma del país en el que tenemos nuestra principal sede (Roma) y el español porque es uno de los mercados con los que actualmente trabajamos.
 
 Esto no quiere decir que nos quedemos aquí, estamos abiertos a todos los lugares del mundo y sus idiomas.
 
-¡Estad atentos a nuestra web porque en las próximas semanas anunciaremos **nuevas noticias**! 
+¡Estad atentos a nuestra web porque en las próximas semanas anunciaremos **nuevas noticias**!
 
 Si tienes alguna pregunta, comentario o sugerencia no dudes en [contactarnos](http://www.sciamlab.com/company/contact_us.shtml.es). ¡Estaremos encantados de responderte!  
 

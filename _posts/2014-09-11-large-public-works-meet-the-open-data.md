@@ -3,26 +3,21 @@ title: Large public works meet the Open Data
 description: SciamLab realizes the Open Data Portal for Open Expo 2015
 tags: [transparency,open data,open contracting,expo2015]
 categories: [Open Data]
-thumbimg: /img/blog-widget-openexpo.jpg
-postimage: /img/openexpo-screens.jpg
+thumbimg: https://github.com/sciamlab/blog/blob/gh-pages/images/blog-widget-openexpo.jpg?raw=true
+postimage: https://github.com/sciamlab/blog/blob/gh-pages/images/openexpo-screens.jpg?raw=true
 layout: post
 date: 2014-09-19 19:40
 author: Alessio
 comments: true
-tags:
-- transparency
-- open data
-- open contracting
-- expo2015
 ---
 In the last few weeks the The Superintendence for Archaeological
 Heritage of Pompeii, Herculaneum and Stabia under the guidance of
-the Institute of the Ministry of Heritage and Culture released 
+the Institute of the Ministry of Heritage and Culture released
 [http://open.pompeiisites.org/](http://open.pompeiisites.org/)
 the first open datasets with the entire tenders and work status details
 of the archeological sites.
 After just few days from the Open Pompei debut we released the new
-transparency and open data portal for the Expo 2015 now available 
+transparency and open data portal for the Expo 2015 now available
 on [http://www.openexpo2015.it](http://www.openexpo2015.it). OpenExpo
 is the result of a massive effort coordinated by Giovanni Menduni from
 the Milan Polytechnic who see us involved in a heterogeneous team with
@@ -36,7 +31,7 @@ spirit that animated the entire effort that bring it live in record time.
 Meanwhile these two great italian initiaves are shedding a new lights
 into the domain of large and complex public works is happening that a
 multinational team is working to a new and dedicated standard to
-facilitate similar initiative globally. 
+facilitate similar initiative globally.
 I'm talking about [Open Contracting](http://www.open-contracting.org/)
 who have release just today a new beta versions of it's
 [Open Contracting Data Standard (OCDS)](http://ocds.open-contracting.org/standard/r/0__3__3/)
@@ -49,13 +44,13 @@ that otherways was not absolutelly immaginable.
 
 Another interesting fact, is that similar initiatives could not be possible
 without the involvment of public servants and civic hackers often grouped
-into informal groups or under an NGOs. 
+into informal groups or under an NGOs.
 For the *Great Pompei Project* for example the
 [Open Pompei accompanying project](http://www.openpompei.it)
-as been pivotal for animating the territory and 
-create the required awarness in the field personel about the the *open* approach. 
+as been pivotal for animating the territory and
+create the required awarness in the field personel about the the *open* approach.
 In the case of Open Expo, Wikitalia and his president Riccardo Luna
-have committed a plan to for openess of the Expo 2015 S.p.A. works 
+have committed a plan to for openess of the Expo 2015 S.p.A. works
 [during the Digital Venice event](http://luna.blogautore.repubblica.it/2014/07/09/open-expo-cose-cosa-comporta-e-perche-e-finalmente-ripartita-la-trasparenza-di-expo-2015/)
 and engaged with several private and public organizations to setup
 in record time the first release of the OpenExpo open data platform.
