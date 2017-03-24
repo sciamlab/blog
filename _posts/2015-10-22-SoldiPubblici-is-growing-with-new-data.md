@@ -9,10 +9,6 @@ layout: post
 date: 2015-10-22 19:40
 author: Yolanda
 comments: true
-tags:
-- soldi pubblici
-- open data
-- open government
 ---
 
 Almost a year ago, we were the main contributor to the realization of the Italian Government Site [SoldiPubblici](http://soldipubblici.gov.it/it/home), the portal exposing government spendings to citizens.
