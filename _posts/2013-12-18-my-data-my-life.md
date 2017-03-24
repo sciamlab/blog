@@ -10,7 +10,6 @@ date: 2013-12-18 15:50
 author: SciamLab Team
 comments: true
 ---
-
 In everyone's life, experiences mediated by software occupy an increasingly large portion of our day and basically that is likely to increase over time. Despite it happen constantly before our eyes - every time we use the phone to call home, the office computer, reading the newspaper on the tablet or taking directions from the navigator in the car - we do not realize that willy-nilly we leave a trace of ourselves and of our actions in any internediate system that records.
 
 The production of personal data that concern us and that we allow or maybe want share is 'already started' since several years, but the amount, the frequency and spread only recently assumed a trend that follows Moore's law so it's going to increase exponentially over time. Google Glass is slowly approaching into the lives of many of us. It's now time for a second and then a thrird wave after smartphones and smartwatches of personal tools that make our experience mediated by the software more and more "integrated with every moment of our lives".
