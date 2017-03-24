@@ -10,7 +10,6 @@ date: 2013-02-19 19:40
 author: Yolanda
 comments: true
 ---
-
 During the International Open Data Day 2013 in Rome **SciamLab** has presented **the OpenDataHub Italia**.
 
 Opendatahub.it is currently the most important and widely used platform **for indexing and searching open datasets** (Open Data) available in Italy.

@@ -10,7 +10,6 @@ date: 2015-01-20 19:40
 author: Luca
 comments: true
 ---
-
 After some months of pause I was able to restart the activities on **Triduino** (We had all to concentrate our forces in some big **open data projects** that are bringing us the lymph for feeding the company and our families..) and what came out went beyond our expectations.
 
 Just to make a short recap on Triduino story we first created [a simple air quality station](blog.post({id:'2013-12-21-air-quality-low-cost})), then [the first Triduino prototype](blog.post({id:'2014-04-15-first-triduino-prototype'})).

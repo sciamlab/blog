@@ -10,7 +10,6 @@ date: 2014-04-16 15:50
 author: Yolanda
 comments: true
 ---
-
 SciamLab has presented **Amaca Content Discovery and Enrichment Platform** during **the Apache Hadoop Summit Europe** in Amsterdam.
 Hadoop Summit is **the leading conference** dedicated to the advancement of **Apache Hadoop**.
 
