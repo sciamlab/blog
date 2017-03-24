@@ -10,7 +10,6 @@ date: 2016-02-05 19:40
 author: Yolanda
 comments: true
 ---
-
 It is not always easy to find public **open data**. For this we want to talk about one of the most interesting and important projects that currently exists, [the GDELT Project.](http://analysis.gdeltproject.org/)
 
 It is the largest real time **database of human society** ever created. The aim is to better understand global human society and especially the connection between communicative discourse and physical societal-scale behaviour.

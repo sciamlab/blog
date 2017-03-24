@@ -10,7 +10,6 @@ date: 2016-02-24 19:40
 author: Davide
 comments: true
 ---
-
 After 4 months of hard work to integrate several heterogeneous data sources and to produce #opendata related to the Italian transport infrastructures, finally last 15th of February the Italian portal [Opencantieri](http://opencantieri.mit.gov.it/) v2.0 has gone live (announced in a press conference by the Minister of Infrastructures and Transports Graziano Delrio).
 
 <a name="it"></a>
