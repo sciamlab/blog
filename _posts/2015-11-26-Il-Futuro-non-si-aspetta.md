@@ -10,6 +10,7 @@ date: 2015-11-26 19:40
 author: Yolanda
 comments: true
 ---
+
 Workshop OPEN e BIGDATA: nuovi percorsi formativi per la trasformazione digitale delle imprese italiane
 --
 
