@@ -10,7 +10,7 @@ date: 2015-09-09 10:40
 author: Yolanda
 comments: true
 redirect_to:
-  - http://www.sciamlab.com
+  - http://www.sciamlab.com/beta/blog/post/2015/09/10/Sciamlab-international
 ---
 SciamLab is growing and expanding its business in Italy and even most importantly outside the Italian frontiers!
 
