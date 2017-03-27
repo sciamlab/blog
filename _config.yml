@@ -4,3 +4,7 @@ future: false
 markdown: kramdown
 paginate: 4
 paginate_path: "/all_posts/page:num/"
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
