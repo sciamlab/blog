@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>SciamLab Blog</title>
+<link href="http://blog.sciamlab.com" />
+<link href="http://blog.sciamlab.com/feed.xml" rel="self" />
+<id>http://blog.sciamlab.com</id>
+<updated>2016-02-24T19:40:00+01:00</updated>
+<author><name></name></author>
+
+<entry>
+<title>Opencantieri&#58; &#35;opendatakm0</title>
+<link href="/open%20data/2016/02/24/open-cantieri-km0.html" />
+<id>/open%20data/2016/02/24/open-cantieri-km0.html</id>
+<published>2016-02-24T19:40:00+01:00</published>
+<updated>2016-02-24T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>After 4 months of hard work to integrate several heterogeneous data sources and to produce #opendata related to the Italian transport infrastructures, finally last 15th of February the Italian portal <a href="http://opencantieri.mit.gov.it/">Opencantieri</a> v2.0 has gone live (announced in a press conference by the Minister of Infrastructures and Transports Graziano Delrio).</p>
+
+<p><a name="it"></a></p>
+
+<p><a href="#en">English version</a></p>
+
+<h2 id="breve-introduzione">Breve introduzione</h2>
+<p>Dopo 4 mesi spesi per integrare diverse fonti dati eterogenee e produrre #opendata chiave relativi alle infrastrutture dei trasporti italiani, lunedì 15 Febbraio è andata live la versione 2.0 del portale <a href="http://opencantieri.mit.gov.it/">Opencantieri</a> (annunciato in conferenza stampa dal Ministro delle Infrastrutture e dei Trasporti Graziano Delrio).</p>
+
+<p>E’ così stata inaugurata la  prima piattaforma di trasparenza italiana, basata su open data (disponibili sul portale <a href="http://dati.mit.gov.it/catalog/dataset">dati.mit.gov.it</a>), in cui i cittadini possono monitorare in maniera semplice, mediante cruscotti e informazioni localizzate su mappa, lo stato di avanzamento dei lavori di strade, ferrovie, metropolitane, accedendo a diversi indicatori e parametri economici</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/interventi3.jpg?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/contratti">Intervento</a> del contratto di programma</em></p>
+
+<p>L’iniziativa che abbiamo realizzato grazie ad una stretta collaborazione all’interno di un <a href="http://opencantieri.mit.gov.it/crediti">team multidisciplinare</a> è stata notata da osservatori internazionali ed è stato mostrato interesse per replicarne l’esperienza al di fuori dai nostri confini. Solo pochi giorni fa OCSE‬ e ‪‎OECD‬ hanno portato Opencantieri come caso d’uso e best practice durante un meeting a Mexico City.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">A <a href="https://twitter.com/hashtag/mexicocity?src=hash">#mexicocity</a> con <a href="https://twitter.com/hashtag/OCSE?src=hash">#OCSE</a> si parla di <a href="https://twitter.com/hashtag/trasparenza?src=hash">#trasparenza</a> nelle grandi infrastrutture. Presentiamo <a href="https://twitter.com/hashtag/openexpo?src=hash">#openexpo</a> e <a href="https://twitter.com/hashtag/opencantieri?src=hash">#opencantieri</a> <a href="https://t.co/XDwfQJKgZZ">pic.twitter.com/XDwfQJKgZZ</a></p>&mdash; Giovanni Menduni (@giovannimenduni) <a href="https://twitter.com/giovannimenduni/status/693101424465432576">January 29, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="opendatakm0">#opendatakm0</h2>
+<p>Ma c’è un aspetto che non viene considerato e che, nel mondo degli Open Data, rappresenta una vera e propria pietra miliare. Opencantieri è la prima applicazione, che fa uso di <strong>Open Data a km0</strong> <a href="https://twitter.com/search?f=tweets&amp;q=%23opendatakm0&amp;src=typd">(#opendatakm0)</a>.</p>
+
+<p>Cosa sono gli Open Data a km0? Semplice, il dato reso aperto dalle fonti (in questo caso ANAS, RFI, Ministero dei Trasporti, MISE, DIPE) e quello impiegato da chi lo utilizza è esattamente lo stesso. Non ci sono rielaborazioni o omissioni. Inoltre è importante comprendere che, utilizzando Open Data a km0, gli enti vigilanti, le società controllate e i cittadini sono messi tutti nello stesso piano e considerati come ingranaggi dello stesso meccanismo, chiamati a verificare e partecipare attraverso il dato condiviso. Significa, per tutti, essere coinvolti nei confronti della collettività e, attraverso la collettività, ottenere un diffuso e capillare organismo di controllo</p>
+
+<p>Gli stessi <strong>dati sono la fonte primaria della conoscenza</strong> e sono condivisi per la massima trasparenza.</p>
+
+<p><strong>I dati sono vivi</strong> e qualsiasi aggiornamento (automatico) si riflette in real time nei cruscotti Opencantieri. Nessuna infrastruttura o elaborazione intermedia da parte di chi usa il dato.</p>
+
+<p>L’errore nei dati è immediatamente visibile, e come tale deve essere immediatamente gestito. Chi produce il dato inevitabilmente è <strong>responsabilizzato</strong> sulla sua correttezza e incalzato alla sua correzione in caso di errori, in un circolo virtuoso che si autoalimenta.</p>
+
+<p>Il dato acquisisce una importanza assoluta, diventa <strong>“infrastruttura”</strong> <a href="http://www.techeconomy.it/2016/01/27/open-data-tutta-colpa-un-not-available/">(vedi http://goo.gl/7lMtRW)</a> alla pari dei server e delle reti di comunicazione. Come tale il dato deve essere aggiornato, affidabile, verificato. Non che in altri contesti non lo sia, ma nella visione a km0 questa sua funzione appare ancora più evidente.</p>
+
+<p>Open Data a km0 è inoltre <strong>“economico”</strong>, si come nel caso della spesa. E’ economico perchè non utilizza risorse aggiuntive oltre a quelle del catalogo dati e dell’applicazione finale stessa. E’ economico perchè la filiera della responsabilità dell’applicazione è demandata solo a chi produce il dato: se l’applicazione è robusta, dopo un primo periodo di rodaggio, potrà continuare a lavorare senza particolare assistenza.</p>
+
+<p>Insomma, possiamo parlare di un nuovo paradigma della pubblica amministrazione, gli Open Data a km0: aggiornati, di qualità, economici.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi2.jpg?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/interventi">Sintesi</a> degli interventi sulle opere principali</em></p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori2.png?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/indicatori">Indicatori</a> dello stato dei lavori per ogni infrastruttura</em></p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/timeline2.png?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/timeline5">Timeline</a> degli interventi sulle ferrovie</em></p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true" alt="Cantieri" />
+<em>Alessio Dragoni, SciamLab CEO, all’inagurazione di Opencantieri nella Sala del Parlamentino del Ministero delle Infrastrutture e dei Trasporti.</em></p>
+
+<p><a name="en"></a></p>
+
+<p><a href="#it">Versione italiana</a></p>
+
+<h1 id="opencantieri-20-open-data-from-farm-to-fork">Opencantieri 2.0: Open Data from farm to fork</h1>
+
+<h2 id="short-intro">Short Intro</h2>
+<p>After 4 months of hard work to integrate several heterogeneous data sources and to produce #opendata related to the Italian transport infrastructures, finally last 15th of February the Italian portal <a href="http://opencantieri.mit.gov.it/">Opencantieri</a> v2.0 has gone live (announced in a press conference by the Minister of Infrastructures and Transports Graziano Delrio).</p>
+
+<p>Through the portal all Citizens can now monitor the work progress of roads, railways and subways through dashboards and localized maps and by accessing different indicators and economic parameters.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/interventi3.jpg?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/contratti">Intervention</a> of the program contract</em></p>
+
+<p>Thanks to a close collaboration within a <a href="http://opencantieri.mit.gov.it/crediti">multidisciplinary team</a> the initiative has been noticed by international observers and an interest in replicating the experience outside our borders has been shown. Just a few days ago OCSE and OECD presented Opencantieri as use case and best practice during a meeting in Mexico City.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="it" dir="ltr">A <a href="https://twitter.com/hashtag/mexicocity?src=hash">#mexicocity</a> con <a href="https://twitter.com/hashtag/OCSE?src=hash">#OCSE</a> si parla di <a href="https://twitter.com/hashtag/trasparenza?src=hash">#trasparenza</a> nelle grandi infrastrutture. Presentiamo <a href="https://twitter.com/hashtag/openexpo?src=hash">#openexpo</a> e <a href="https://twitter.com/hashtag/opencantieri?src=hash">#opencantieri</a> <a href="https://t.co/XDwfQJKgZZ">pic.twitter.com/XDwfQJKgZZ</a></p>&mdash; Giovanni Menduni (@giovannimenduni) <a href="https://twitter.com/giovannimenduni/status/693101424465432576">January 29, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="open-data-from-farm-to-fork-opendatakm0">Open Data from farm to fork (#opendatakm0)</h2>
+<p>There is a particular aspect of Opencantieri that worths a mention here. Opencantieri is one of the few government applications that uses Open Data from farm to fork! (hereafter <a href="https://twitter.com/search?f=tweets&amp;q=%23opendatakm0&amp;src=typd">#opendatakm0</a> as we use to say in Italy).</p>
+
+<p>What are <a href="https://twitter.com/search?f=tweets&amp;q=%23opendatakm0&amp;src=typd">#opendatakm0</a>? Data opened by data providers (in this case public companies and administrations like ANAS, RFI, Ministry of Transport, MISE, DIPE) and data employed by citizens are exactly the same. There are no revisions or omissions, the data is exposed in an integral way and used without filters in the portal itself.</p>
+
+<p>Let me explain better… using <a href="https://twitter.com/search?f=tweets&amp;q=%23opendatakm0&amp;src=typd">#opendatakm0</a>, the entities who are in charge to monitor public works, the companies and the citizens are on the same level and viewed as gears of the same mechanism, called to verify and participate through shared data. It means for everyone to be involved in the community, and through the community, get a widespread monitoring authority.</p>
+
+<p>The same <strong>data are the primary source of knowledge</strong> and are shared for maximum transparency.</p>
+
+<p>To achieve this, the Opencantieri dashboards read the data using the (CKAN) native <a href="http://docs.ckan.org/en/ckan-2.2/api.html">APIs</a> available in the MIT open data portal <a href="http://dati.mit.gov.it/catalog/dataset">(dati.mit.gov.it)</a> (such API are commonly available in OpenData portals like CKAN or Socrata), no elaboration in the middle, from farm to fork!</p>
+
+<p>The data are live and any data update is reflected in real time on Opencantieri dashboards. There are no infrastructures or intermediate processes.</p>
+
+<p>Any error in the data is immediately visible and requires an immediate reaction to be handled. Who produces the data is inevitably responsible of its correctness and pressed to solve issues, in a virtuous cycle that feeds on itself.</p>
+
+<p>Data acquires an absolute importance, it becomes an <strong>“infrastructure”</strong> <a href="http://www.techeconomy.it/2016/01/27/open-data-tutta-colpa-un-not-available/">(see http://goo.gl/7lMtRW)</a> like servers and communication networks. As such data has to be updated, reliable and verified. In the km0 vision this role is even more evident that in other contexts.</p>
+
+<p><a href="https://twitter.com/search?f=tweets&amp;q=%23opendatakm0&amp;src=typd">#opendatakm0</a> are also <strong>money saving</strong>. They are money saving because do not use additional resources besides the data catalog and the application itself. They are cheap because the chain of responsibility for the implementation is entrusted only to those who produce the data.</p>
+
+<p><a href="https://twitter.com/search?f=tweets&amp;q=%23opendatakm0&amp;src=typd">#opendatakm0</a> can be considered a new paradigm for public administration applications: easy, economic, quality driven.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/opencinterventi2.jpg?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/interventi">Summary</a> of the interventions on the main works</em></p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/indicatori2.png?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/indicatori">Indicators</a> of the state of work for each infrastructure</em></p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/timeline2.png?raw=true" alt="Cantieri" />
+<em><a href="http://opencantieri.mit.gov.it/timeline5">Timeline</a> of the work progress of railways</em></p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/alessiodragoni.jpg?raw=true" alt="Cantieri" />
+<em>Alessio Dragoni, SciamLab CEO, at the inauguration of Opencantieri in the Parlamentino’s Hall of the Ministry of Infrastructure and Transport.</em></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>The real time database of global society, the GDELT Project</title>
+<link href="/open%20data/2016/02/05/the-GDELT-Project.html" />
+<id>/open%20data/2016/02/05/the-GDELT-Project.html</id>
+<published>2016-02-05T19:40:00+01:00</published>
+<updated>2016-02-05T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>It is not always easy to find public <strong>open data</strong>. For this we want to talk about one of the most interesting and important projects that currently exists, <a href="http://analysis.gdeltproject.org/">the GDELT Project.</a></p>
+
+<p>It is the largest real time <strong>database of human society</strong> ever created. The aim is to better understand global human society and especially the connection between communicative discourse and physical societal-scale behaviour.</p>
+
+<p>To do it the platform monitors <strong>the world’s news media</strong> from nearly every country in print, broadcast, and web formats, in over 100 languages.</p>
+
+<p>The vision of the GDELT Project is to codify the entire planet into a computable format using all available open information sources that provides a new platform for understanding the global world.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/gdelt 1.PNG?raw=true" alt="GDELT" /></p>
+
+<p>GDELT allows you to create interactive maps or timelines exploring and contrasting events, topics and languages.</p>
+
+<p>The entire GDELT database is <strong>100% free and opened to be downloaded</strong> as raw text data files to be used in your own projects.</p>
+
+<p>For instance, GDELT has been used by medias to explore <strong>protest trends in Egypt since the Arab Spring</strong>. Particularly an article on The Cairo Review’s highlights the special role of “big data” in understanding protest trends.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/candidateselections.bmp?raw=true" alt="GDELT" /></p>
+
+<p>GDELT has also been used by medias to explore the state of <strong>television coverage</strong> of the candidates for US elections. For example, The Daily Mail and the Los Angeles Times used GDELT’s 2016 Candidate Television Tracker to comment on the state of television coverage of the candidates and how Trump has so successfully wielded earned media coverage compared with his competitor’s.</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Open Data Maturity in Europa 2015</title>
+<link href="/open%20data/2015/12/02/open-maturity.html" />
+<id>/open%20data/2015/12/02/open-maturity.html</id>
+<published>2015-12-02T19:40:00+01:00</published>
+<updated>2015-12-02T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>È stato pubblicato l’ultimo Report sulla maturità e la qualità degli Open Data in Europa. Lo studio offre una visione chiara dell’attuale situazione dei paesi europei nel loro percorso Open Data.
+Cerchiamo di riassumerne nel seguito i contenuti. Il Report originale è disponibile <a href="http://www.europeandataportal.eu/en/content/open-data-maturity-europe">qui.</a></p>
+
+<p>Il settore pubblico fornisce una grande quantità di Open Data gratuiti. L’uso di dati aperti è fortemente favorito dalla presenza di un portale nazionale di Open Data.</p>
+
+<h2 id="l87-dei-paesi-eu28-dispone-di-un-portale-nazionale">L’87% dei paesi EU28+ dispone di un portale nazionale.</h2>
+
+<p>Solo quattro paesi non ne hanno ancora uno: Lettonia, Liechtenstein, Lussemburgo e Malta. Quasi due terzi dei paesi EU28+ sta effettivamente implementando una politica di Open Data.</p>
+
+<h2 id="solo-il-44-dei-paesi-eu28-ha-raggiunto-un-buon-livello-di-maturità-del-portale-nazionale">Solo il 44% dei paesi EU28+ ha raggiunto un buon livello di maturità del portale nazionale.</h2>
+<p>Per misurare la maturità degli Open Data sono stati selezionati <strong>due indicatori chiave</strong>. Questi indicatori riguardano sia lo stato di completamento delle politiche nazionali che promuovono Open Data, sia una valutazione delle funzioni messe a disposizione sui portali di dati nazionali.</p>
+
+<h2 id="i-due-indicatori-chiave-sono-la-prontezza-open-data-readiness-degli-open-data-e-lo-stato-di-completamento-maturity-del-portale-open-data">I due indicatori chiave sono la <strong>“prontezza” (Open Data Readiness)</strong> degli Open Data e lo <strong>“stato di completamento” (Maturity)</strong> del portale open data.</h2>
+
+<h2 id="open-data-readiness">OPEN DATA READINESS</h2>
+
+<p>Esamina la presenza di politiche di Open Data, l’usabilità degli Open Data disponibili e il suo impatto politico, sociale ed economico. Si misura attraverso la funzionalità, la riusabilità e la diffusione dei dati.
+Tuttavia, ci sono grandi differenze tra i vari paesi. Alcuni di loro sono ancora in fase di costruzione dei loro portali nazionali, mentre altri hanno raggiunto una buona qualità del portale nazionale e avviato ulteriori iniziative open data.
+Da notare che solo un terzo dei paesi europei (32%) sta incentivando l’uso degli open data mediante politiche opportune (regolamentazione delle licenze, iniziative ed eventi per aumentare il traffico sul portale).</p>
+
+<h2 id="la-media-dellindicatore-di-prontezza-è-del-447">La media dell’indicatore di “prontezza” è del 44,7%.</h2>
+
+<p>Gli indicatori mostrano che i paesi dell’Unione Europea hanno adottato buone politiche per l’adozione degli Open Data, nel quale hanno una media del 57,4%, mentre il punteggio è notevolmente inferiore per quanto riguarda l’uso e l’impatto degli Open Data.</p>
+
+<h2 id="per-luso-e-impatto-degli-open-data-il-punteggio-scende-al-36-e-29-rispettivamente">Per l’uso e impatto degli Open Data il punteggio scende al 36 e 29%, rispettivamente.</h2>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/figure1.PNG?raw=true" alt="Maturity" /></p>
+
+<p><em>Figura 1 – La media di Open Data Readiness</em></p>
+
+<p>Per quanto riguarda le norme di licenza il punteggio sale al 72,9%. Tuttavia, il coordinamento nazionale in materia di fornire orientamenti per le specifiche aree locali o di dominio è in ritardo (media del 43,8%).</p>
+
+<h2 id="in-merito-alluso-di-open-data-i-paesi-hanno-prodotto-un-punteggio-decisamente-basso-con-una-media-del-36">In merito all’uso di Open Data, i paesi hanno prodotto un punteggio decisamente basso, con una media del 36%.</h2>
+<p>La differenza nella EU28 + è ampia. Diversi paesi ricevono già più di 10.000 visitatori al mese sul proprio portale nazionale. Tuttavia, in molti paesi non si ha una adeguata conoscenza dei dati disponibili e di come farne uso.
+E’ forte la percezione che nemmeno la metà dell’impatto degli Open Data è stata raggiunta. <strong>L’impatto economico</strong> rileva un punteggio medio del 38,3%, di poco superiore <strong>all’impatto politico</strong>, che è del 30,8%, e <strong>dell’impatto sociale</strong> percepito che rimane molto basso, intorno all 8%.</p>
+
+<h2 id="maturitÀ-dei-portali-open-data">MATURITÀ DEI PORTALI OPEN DATA</h2>
+
+<p>La maturità dei portali Open Data è il secondo indicatore usato nella valutazione. La maturità dei portali misura l’usabilità e la riusabilità dei dati, nonché la diffusione dei dati sui diversi domini.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/figure2.PNG?raw=true" alt="Maturity" /></p>
+
+<p><em>Figura 2 – La media della Maturità dei portali Open Data EU28+</em></p>
+
+<h2 id="il-punteggio-in-media-è-del-408">Il punteggio in media è del 40,8%.</h2>
+
+<p>Nel complesso, la media di usabilità è del 50%, la media di riusabilità è del 33% e la media di diffusione dei dati tra domini è del 42%.
+Sulla base di questi risultati, i paesi EU28+ sono raggruppati in tre diversi livelli di maturità Open Data:</p>
+
+<p><strong>Principianti:</strong> paesi che hanno fatto i primi passi, ma ancora lontani dal raggiungere un buon livello di disponibilità e di accessibilità dei dati. Le funzionalità del portale sono limitate e la copertura in termini di dataset aperti è limitata.</p>
+
+<p><strong>Followers:</strong> paesi che hanno una strategia open data chiara e il cui portale presenta funzioni avanzate. Tuttavia, l’approccio al rilascio dei dati è poco chiaro e resta limitato.</p>
+
+<p><strong>I leader - trendsetter:</strong> sono i paesi più avanzati. Hanno portali Open Data solidi, con funzionalità elaborate e meccanismi di coordinamento tra domini.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/figure3.PNG?raw=true" alt="Maturity" /></p>
+
+<p><em>Paesi secondo il suo livello di maturità</em></p>
+
+<p>Rimangono ancora alcune barriere da superare per raggiungere un’ulteriore Maturità per gli Open Data. Queste barriere sono simili in tutti i paesi e possono essere distinte in barriere politiche, legali e tecniche. Inoltre, ci sono anche barriere che riguardano la comunicazione e il convolgimento degli utenti.
+Al fine di andare progredire sul tema maturità, sono state formulate una serie di <strong>raccomandazioni:</strong></p>
+
+<ul>
+  <li>Una strategia Open Data è necessaria come base per la cooperazione tra le pubbliche amministrazioni e per coinvolgere i potenziali utilizzatori di dati;</li>
+  <li>Si devono aggiungere al portale funzionalità base in grado di aumentare la facilità d’uso e di stimolare il riutilizzo dei dati;</li>
+  <li>Si deve aumentare la consapevolezza dei cittadini e delle imprese in merito al tema degli open data e di come usarli;</li>
+  <li>Dovrebbero essere offerti corsi di formazione a dipendenti pubblici per aumentare la comprensione degli Open Data;</li>
+  <li>Si devono sviluppare linee guida nazionali;</li>
+  <li>E’ necessario misurare il successo di una iniziativa Open Data per aiutare a identificare i benefici e capire il margine di miglioramento.</li>
+</ul>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Il Futuro non si aspetta +. La formazione del cambiamento</title>
+<link href="/open%20data/2015/11/26/Il-Futuro-non-si-aspetta.html" />
+<id>/open%20data/2015/11/26/Il-Futuro-non-si-aspetta.html</id>
+<published>2015-11-26T19:40:00+01:00</published>
+<updated>2015-11-26T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<h2 id="workshop-open-e-bigdata-nuovi-percorsi-formativi-per-la-trasformazione-digitale-delle-imprese-italiane">Workshop OPEN e BIGDATA: nuovi percorsi formativi per la trasformazione digitale delle imprese italiane</h2>
+
+<p>Venerdì 4 dicembre <a href="http://www.sciamlab.com/">SciamLab</a> parteciperà all’evento <a href="https://www.facebook.com/events/757042797773488">“Il Futuro non si aspetta +. La formazione del cambiamento”</a>. L’evento ha come obbiettivo quello di potenziare le imprese e il loro futuro attraverso l’innovazione. L’evento è stato organizzato dal CNA, Camera di Commercio di Roma, dall’Ordine degli Architetti Pianificatori Paesaggisti e Conservatori e dalla Consulta Giovani Architetti.</p>
+
+<p>Durante la mattina si terranno, nella Casa dell’Architettura di Roma (Acquario Romano), una serie di presentazioni sull’<strong>innovazione</strong> e le sue sfide. Nel pomeriggio si svolgeranno dei workshop per condividere esperienze e far emergere opportunità di <strong>sviluppo e trasformazione</strong>.</p>
+
+<p>Parteciperanno all’evento esponenti del <a href="http://www.europarl.europa.eu/portal/it">Parlamento Europeo</a>, <a href="http://www.regione.lazio.it/">la Regione Lazio</a>, <a href="http://www.rm.camcom.it/">la Camera di Commercio di Roma</a>, <a href="http://www.irfi.it/">IRFI</a>, <a href="http://www.bccroma.it/">la Banca di Credito Cooperativo di Roma</a>, <a href="http://www.lazioinnova.it/">Lazio Innova</a> e <a href="http://www.cnapmi.org/">CNA</a>.</p>
+
+<p>I dati sono da sempre delle importanti risorse per le grandi aziende e adesso anche per le piccole e medie imprese, che possono usarli per avere un maggiore vantaggio nelle loro attività.</p>
+
+<p>Per questo, dalle 17:30 <strong>Alessio Dragoni</strong> di SciamLab interverrà su argomenti inerenti gli <strong>open data</strong> e i dati in genere:</p>
+
+<ul>
+  <li>cosa sono e come usare gli open data e i linked data</li>
+  <li>cosa sono i big data</li>
+  <li>come utilizzare la data visualization, infografiche ad applicazioni digitali per comunicare in modo intuitivo informazioni complesse estratte da open data e big data</li>
+</ul>
+
+<p>L’obiettivo del workshop sarà quello di creare una visualizzazione originale che mostri come restituire graficamente grandi quantità di dati in merito ai cambiamenti demografici sul territorio e alle variazioni delle abitudini per il trasporto individuale e delle merci in ambito metropolitano, nazionale e internazionale.</p>
+
+<p>La partecipazione di SciamLab all’evento ha l’obiettivo di stimolare la creatività e migliorare le opportunità delle imprese del paese.</p>
+
+<p><strong>Vi invitiamo tutti a partecipare e a condividere con noi questa esperienza!</strong></p>
+
+<p><a href="https://www.facebook.com/events/757042797773488">Per maggiori informazioni</a></p>
+
+<p><a href="http://www.eventbrite.it/e/biglietti-il-futuro-non-si-aspetta-la-formazione-del-cambiamento-19600725297?aff=efbevent">Per acquistare i biglietti gratis</a></p>
+
+<p><a href="/resources/Programmailfuturononsiaspetta.pdf">programma</a></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>SoldiPubblici is growing with new data from the Central Government</title>
+<link href="/open%20data/2015/10/22/SoldiPubblici-is-growing-with-new-data.html" />
+<id>/open%20data/2015/10/22/SoldiPubblici-is-growing-with-new-data.html</id>
+<published>2015-10-22T19:40:00+02:00</published>
+<updated>2015-10-22T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>Almost a year ago, we were the main contributor to the realization of the Italian Government Site <a href="http://soldipubblici.gov.it/it/home">SoldiPubblici</a>, the portal exposing government spendings to citizens.</p>
+
+<p>SoldiPubblici is doing now one step further, adding payments made with electronic mandates by the Central Government institutions such as <strong>Ministries, Metropolitan Cities or University</strong>! (<a href="#aabb">bellow the list</a>)</p>
+
+<p>You can now:</p>
+
+<p><strong>Search</strong> how much money the Italian Ministry of Defense spends on aircrafts. Or how much the Italian Ministry of Health spends on technical specialist materials!</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/ministerodifesa.JPG?raw=true" alt="soldipubblici" /></p>
+
+<p><strong>Download</strong> the SoldiPubblici <strong>Open Data</strong> to make further analysis or build your application at the following <a href="http://soldipubblici.gov.it/it/developers">url</a>. The Data are produced by <a href="https://www.siope.it/">SIOPE (Sistema informativo delle operazioni degli enti pubblici)</a>, a Banca d’Italia system to query income and payments by the Italian Public Administrations.</p>
+
+<p><strong>Look to the graph</strong> that displays when and how much spending has occurred in recent years in a particular subject.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/mezziaerei.JPG?raw=true" alt="soldipubblici" /></p>
+
+<p><strong>Look to the infographic</strong> that displays the summary of payments for an institution and the summary of total payments for institutions of the same type.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/infograficoaerei.JPG?raw=true" alt="soldipubblici" /></p>
+
+<p>Discover more about SoldiPubblici here:</p>
+
+<p><a href="http://blog.sciamlab.com/open%20data/2014/12/20/soldipubblici.html#.Vio_l9LhDIU">Blog</a></p>
+
+<p><a href="http://soldipubblici.gov.it/it/progetto">Project description</a></p>
+
+<p><a href="http://soldipubblici.gov.it/it/help">FAQ</a></p>
+
+<p><a name="aabb"></a>
+Below the full list of the Institutions which payment have been added and are now available for search in the portal:</p>
+
+<ul>
+  <li>Ministries</li>
+  <li>Metropolitan Cities</li>
+  <li>Mountain Communities</li>
+  <li>Unions of Municipalities</li>
+  <li>University</li>
+  <li>Research Institutions</li>
+  <li>National park authorities</li>
+  <li>Other government fleet managers</li>
+  <li>Regional health agencies</li>
+  <li>Local health agencies</li>
+  <li>Hospitals</li>
+  <li>Experimental Zooprophylactic Institutes</li>
+  <li>Institutions for hospitalization and care of a scientific</li>
+  <li>University hospitals</li>
+  <li>Associations of Bacino Imbrifero Montano</li>
+  <li>Associations of local authorities - municipal police</li>
+  <li>Associations of local authorities - Supervision wooded</li>
+  <li>Local authorities managers of parks and protected areas</li>
+  <li>Associations of local social assistance</li>
+  <li>University consortia between local authorities</li>
+  <li>Authorities of Optimal Areas managed through Associations of local authorities</li>
+  <li>Other consortia of local authorities</li>
+  <li>Chambers of commerce</li>
+</ul>
+
+<p>We are very proud of the new milestone reached by SoldiPubblici, we worked hard to realize all this (thanks Luca)!!! This a step ahead on the road of transparency and open government!</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Amaca, the new open data discovery bot!</title>
+<link href="/open%20data/2015/10/08/new-datasets-opendatahub.html" />
+<id>/open%20data/2015/10/08/new-datasets-opendatahub.html</id>
+<published>2015-10-08T19:40:00+02:00</published>
+<updated>2015-10-08T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p><strong>Indexed more than 18k italian dataset in the OpenDataHUB!</strong></p>
+
+<p>SciamLab is pleased to announce that we have set another record indexing and keeping regularly updated <strong>more than 18000 open data sets</strong> from <strong>over 200 organizations</strong> in our Italian Open Data HUB!</p>
+
+<p>This is a further confirmation that the Amaca content discovery platform is scaling well providing a fast and fully automated mechanism that cope with the exponential growth in number and complexity of the datasets published by the Italian public administrations and private organizations. The discovery feature has been recently extended to the geographic information available in the many geoportals across Italy. Thanks to this new feature you can now perform searches in a unique place against most of the available open data like it’s happening already in other countries like UK, Germany and many others.</p>
+
+<p>Just during the last week we have added <strong>more than 5.000 datasets.</strong></p>
+
+<p>This is a great news also for Italy since from a more accurate analysis of the available datasets, that was not possible before, we discovered that most of the reports and indicators that place Italy between the worst performers, using the Amaca Discovery Platform become quickly obsolete.  However the needs to open high quality datasets set by the G8 Open Data Charter remain far to be fully matched, and key datasets and categories <strong>like company and business registry</strong> or <strong>education and schools performances</strong> and others are still missing.</p>
+
+<p>Based on <a href="https://joinup.ec.europa.eu/asset/dcat_application_profile/asset_release/dcat-application-profile-data-portals-europe-final#download-links">DCAT-AP</a> standard and the more recent <a href="https://joinup.ec.europa.eu/node/139283">GeoDCAT-AP</a>, Amaca during the harvesting process is providing harmonization of the collected metadata, unsupervised classification using the new theme categories, metadata inter-linking with DBPedia and other Italian repositories and finally further metadata enrichment to estimate the dataset popularity and value from different indicators.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/cuadro.png?raw=true" alt="datasets" /></p>
+
+<p>You now can search over <strong>18.000 Italian datasets</strong>! Do not lose the chance to discover them <a href="http://www.sciamlab.com/opendatahub/">here!</a>
+If you are a developers you can also access the entire metadata catalog and reuse for free it under a CC-BY license using the</p>
+
+<p>SciamLab will continue working to grow and improve Amaca and the bottom API that make this possible.</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Web Summit 2015</title>
+<link href="/open%20data/2015/09/27/Web-Summit-2015.html" />
+<id>/open%20data/2015/09/27/Web-Summit-2015.html</id>
+<published>2015-09-27T19:40:00+02:00</published>
+<updated>2015-09-27T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>We are pleased to annunce that we have been selected to partecipate at the next <strong>Web Summit</strong> that will take place in Dublin (Ireland) the 3-5 of November. It is <strong>the most important tech event in Europe</strong> with more than 30.000 attendees.</p>
+
+<p>We think It is a great opportunity for <strong>startups from around the world</strong> to meet, exchange ideas and get in touch with investors and entrepreneurs.</p>
+
+<p>On stage will speak several <strong>big names</strong> in the world technology like Ed Catmull, president of Pixar Animation Studios; Mike Krieger, co-funder of Instagram; Deb Roy, chief Media Scientist for Twitter; or Scott Chacon, co-funder of GitHub. And much more! There will be more than 1.000 speakers!</p>
+
+<p>This three days will be very exciting for us to discover the latest in tech and do network with collegues form around the world.</p>
+
+<p>This will be the last year that the Web Summit will be done in Dublin. In 2016 it is to be located in Lisbon.</p>
+
+<p>Stay tuned! We will let you know more soon!</p>
+
+<p>For more info you can also visit the Web Summit website <a href="https://websummit.net/">here!</a></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>We are launching our new website in Spanish and Italian!</title>
+<link href="/open%20data/2015/09/09/Sciamlab-international.html" />
+<id>/open%20data/2015/09/09/Sciamlab-international.html</id>
+<published>2015-09-09T10:40:00+02:00</published>
+<updated>2015-09-09T10:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>italiasicura goes live!</title>
+<link href="/open%20data/2015/05/21/italiasicura.html" />
+<id>/open%20data/2015/05/21/italiasicura.html</id>
+<published>2015-05-21T19:40:00+02:00</published>
+<updated>2015-05-21T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>Another great achievement for SciamLab! #italiasicura is live!!</p>
+
+<p>Look for the place you live: <a href="http://mappa.italiasicura.gov.it">#italiasicura</a>
+<!--more-->
+This can be considered one of the most important, and in some way unique, use case in Europe for <strong>open data</strong> reuse in an application that brings <strong>transparency</strong>, <strong>social awareness</strong> and <strong>open government</strong>!</p>
+
+<p>The first European platform for live monitoring on a map of public moneys spent in yards opened by the government to fight hydro-geological instability and emergencies. Zooming in and out it is possible to check fine grained details, until the census area!!</p>
+
+<p>You can check on the map the probability that the area you live can be interested by flood hazard.</p>
+
+<p>SciamLab was present to the presentation of the #italiasicura portal that took place at Palazzo Chigi by members of Prime Minister’s Office, Ministry of Infrastructure and Transport, Ministry of Environment and the National Anti-Corruption Authority.
+We are firmly convinced that this kind of initiatives go in the right direction to make citizen properly informed and able to have a direct control about how public money are spent for their own security, bringing more transparency and more eyes over possible administrations corruption and grey zones.
+#italiasicura is the result of a team work made by Fondazione Politecnico, Dipartimento della Protezione Civile, ISPRA, Agid.</p>
+
+<p>Data (open) provided by these organizations were cleansed, organized, homogenized and georeferenced, to be represented in a graphical, user friendly portal so that anyone is able to understand his risk exposure.</p>
+
+<h3 id="some-background">Some background</h3>
+
+<p>More than six million of Italians live in areas at risk of landslides or flooding. Italy has always been forced to live huge disasters. So, reduce and manage risk is not a cost and investments are the key to restart the country.
+Environmental stress and disruption consume a growing share of the state budget. One euro spent on prevention saves up to 100 euro in damage repairs.</p>
+
+<p>The hydrogeological risk is one of the reasons for the increase of the infrastructure gap in the country. Slip down not only land or houses but also roads and highways, railways, water and electricity.
+The deterioration of the territory constitutes a strongly negative voice in the economic balance of a country, which already has future debt accumulated.</p>
+
+<p>Under the sponsorship of the Presidency of the Council of the Ministries, SciamLab developed mappa.italiasicura.gov.it. It offers the ability to monitor and control public works spending and the progress of construction sites.</p>
+
+<p>It is an interactive map where passing over with the mouse you can see land, population, schools and cultural heritages exposed to hydrogeological risks and at the same time the actions, in terms of public works to decrease these risks. In a distinct map are also detailed the emergencies states till May 2013 region by region.</p>
+
+<p>For example, you can see the total resources committed against insolvency, the resources committed on ongoing interventions or the number of operations in progress.
+The site is georeferenced and it is the result of a meticulous analysis of the budgets of the state and all the resources allocated, year after year, to regions and local authorities for works and interventions.
+The Government works against landslides and floods and SciamLab works to make the information about it more accessible to everyone.</p>
+
+<p>####Some application screenshots
+<img src="/images/italiasicura2.jpg" alt="#italiasicura2" />
+<img src="/images/italiasicura3.jpg" alt="#italiasicura3" />
+<img src="/images/italiasicura4.jpg" alt="#italiasicura4" />
+<img src="/images/italiasicura5.jpg" alt="#italiasicura5" /></p>
+
+<p>####Pictures from the presentation at Presidenza del Consiglio (Palazzo Chigi)
+<img src="/images/italiasicura_presentazione1.jpg" alt="#italiasicura_presentazione1" />
+<img src="/images/italiasicura_presentazione2.jpg" alt="#italiasicura_presentazione2" />
+<img src="/images/italiasicura_presentazione3.jpg" alt="#italiasicura_presentazione3" />
+<img src="/images/italiasicura_presentazione4.jpg" alt="#italiasicura_presentazione4" />
+<img src="/images/italiasicura_presentazione5.jpg" alt="#italiasicura_presentazione5" />
+<img src="/images/italiasicura_presentazione6.jpg" alt="#italiasicura_presentazione6" /></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>SEMIC 2015. All about convergent EU data and services</title>
+<link href="/open%20data/2015/05/06/semic2015.html" />
+<id>/open%20data/2015/05/06/semic2015.html</id>
+<published>2015-05-06T12:34:00+02:00</published>
+<updated>2015-05-06T12:34:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>it was my first time at a SEMIC conference and I found it really a good occasion filled with interesting ideas and development opportunities. The conference opening of <a href="https://mobile.twitter.com/arnis_daugulis">Arnis Daugulis</a>, the young and energetic CIO of Latvia was a great propeller for the entire day. While Latvia is already a well IT developed country the current government still consider this a top priority for a further development of the country economy. Arnis concluded looking forward not only for interoperable EU data but also cross-countries IT services that can ease and boost a more deep cultural and business integration.</p>
+
+<p>The wave for an European Digital Single Market driven by Andrus Ansip have a foam on top where is written “interoperability matter” as the conference chair Vassilios Peristeras remembered twice during his opening presentation (<a href="https://joinup.ec.europa.eu/sites/default/files/isa_field_path/presentation_by_vassilios_peristeras-_enterprise_information_management_and_service_portfolio_management_for_the_public_sector.pdf">slides</a>) and concluding remarks.  For sure the “Only Once Principle” that introduce the needs to collect citizens, business and entities data only one time and have it available whitin the entire Europe member states, is a great driver of innovative services for all the EU citizens and a great opportunity that <a href="https://www.linkedin.com/pub/gertrud-ingestad/5/816/b54">Gertrud Ingestad</a> quantify in 5bn potential cumulative costs saving for all the 28 EU member states.</p>
+
+<p>For Sciamlab it was a great pleasure to listen the keynote from <a href="https://www.linkedin.com/pub/shuichi-tashiro/3/34/8b3">Shuichi Tashiro</a> and <a href="https://www.linkedin.com/pub/takashi-wada/46/768/b70">Takashi Wada </a> the two delegates from the Japanese Ministry of finance as they admit that integration and interoperability, was a precondition to make finance and country data publicly available and easily accessible by anyone. A process this one that has been promptly activated immediately after the last devastating earthquake and Fukushima disaster when they realized that tons of useful data to deal with emergence situation was not updated or not easily accessible as mostly available into PDFized documents or paper. In few words they have the entire world “demanding for data” and they where not well prepared to give them it. (see <a href="https://joinup.ec.europa.eu/sites/default/files/isa_field_path/presentation_by_shuichi_tashiro_-_japanese_common_vocabulary_project.pdf">slide1</a>, <a href="https://joinup.ec.europa.eu/sites/default/files/isa_field_path/presentation_by_takashi_wada-_japanese_common_vocabulary_project.pdf">slide2</a>)
+It was a pleasure for me to hear that as my company is actually helping the Italian government, ISPRA and the Civil Protection Department building an innovative mapping application that will be a milestone in transparency and information system for mass consultation. It will allow anyone to understand the Italian country territory fragility and risks for hydro-geological upheaval and the actions that the government is doing to deal with emergencies and to reduces risks of flooding. This project headed by Prof. <a href="http://twitter.com/giovannimenduni">Giovanni Menduni</a> from the Politecnico di Milano University is the first attempts in Italy and Europe as well to make active prevention using already available open data. This is just an example, maybe good enough to demonstrate how public sector information (PSI) can increase transparency but also be reused in the business sector as someone can decide to spur from here  business-friendly indicators and services that can attract customers in markets like insurance or real-estate.</p>
+
+<p>We pay attention to interoperability and despite the first release will be like a public beta, further development are expected to improve the reuse of the data, and strength the model and approach so that it will become easily replicable for all the EU countries.
+A huge simplification come also from the EU law framework that are mostly the same regarding the hydrogeological upheaval. The Italian unified hydraulic hazard map, produced by ISPRA are now fully available as open data and once again it represent a great example of how the openness and interoperability can unlock new opportunities creating new and unexpected “data value chains”. I heard again about “data value and business chains” from Prof. <a href="http://eis.iai.uni-bonn.de/SoerenAuer.html">Sören Auer</a> from Bonn University here at SEMIC in his <a href="https://joinup.ec.europa.eu/sites/default/files/isa_field_path/presentation_by_soren_auer_-_creating_data_value_chains_by_linking_enterprise_data.pdf">inspiring presentation</a>. Presented as academic, believe me it was more business oriented than you can imagine. Sören give several examples on how open and interoperable data is a key enabler for any economy but also a challenge where not only IT experts are called but everyone in every country and every sector.
+Also the panel in the afternoon about Public Sector Portfolio Management was very interesting. I asked  if a so critical process like the one to prioritize and decide how to allocate public money for develop, retain or dismiss IT services for citizens and business was for some extent a participatory process where the government make an assessment also using a sort of public (online) consultation.. it was dazzling that nobody within the panelist admitted to have such participatory process in place… so maybe this could be a good starting point to consider for countries CIOs !</p>
+
+<p>Riga, Latvia
+May the 6th, 2015</p>
+
+<p>Alessio</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>First stable version of Triduino Ready!!</title>
+<link href="/open%20data/2015/01/20/Triduino-ready.html" />
+<id>/open%20data/2015/01/20/Triduino-ready.html</id>
+<published>2015-01-20T19:40:00+01:00</published>
+<updated>2015-01-20T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>After some months of pause I was able to restart the activities on <strong>Triduino</strong> (We had all to concentrate our forces in some big <strong>open data projects</strong> that are bringing us the lymph for feeding the company and our families..) and what came out went beyond our expectations.</p>
+
+<p>Just to make a short recap on Triduino story we first created <a href="blog.post({id:'2013-12-21-air-quality-low-cost})">a simple air quality station</a>, then <a href="blog.post({id:'2014-04-15-first-triduino-prototype'})">the first Triduino prototype</a>.</p>
+
+<p>In the first prototype I created <strong>a java library and an android application</strong> capable, with a simple configuration, to communicate with an Arduino device running a sketch implementing a simple ad-hoc protocol I created; however this approach revealed very soon its limitations as soon as I tried to attach to it other sensors because most of them (especially the digital ones) need the installation and the utilization of specific libraries in the sketch code making the entire system still too geek oriented needing programming skills on the Arduino side.
+So I had a choice, or giving up and remaining with the satisfaction of the prototype or deciding to make a big step: generating automatically the code to be flashed in Arduino and finding a way up flash it via Bluetooth from Android…</p>
+
+<p>…I accepted the challenge!</p>
+
+<p>I rolled up my sleeves and I decided to start by the code generation: so I created first <strong>a sensor database on MySQL and a REST service</strong> (thank you Paolo Starace for creating the skeleton for this) to be invoked from the Android application that previously read only the local XML file.</p>
+
+<p>I also created with a scaffolding method a web application that allowed me to populate “easily” the database that became quite complex</p>
+
+<p>Then I enriched the database associating to each sensor some snippets of code to be used by the code generator for creating the sketch and then, finally, <strong>the code generator and the REST service invoking it</strong>, that mashed up everything.. believe me that was tough already…</p>
+
+<p>..but then the wireless upload of the sketch via Bluetooth turn came and there I really was almost giving up because there were <strong>3 main problems</strong> I had to solve that seemed unresolvable:</p>
+
+<ol>
+  <li>
+    <p>The avrdude porting to Android was working but a very old version not supporting the latest models (like the Yun) and not maintained anymore</p>
+  </li>
+  <li>
+    <p>it seemed impossible flashing the sketch from a non rooted device given some limitations of the Android Bluetooth stack  implementation.</p>
+  </li>
+  <li>
+    <p>How to avoid the pressing of the reset button on the board exactly in time with the upload of the sketch</p>
+  </li>
+</ol>
+
+<p>I started with <strong>solving the first problem</strong> and I was able to cross-compile avrdude for having it working on Android (thanks also to forums and posts from Anton Smirnov, the author of ArduinoCommander)</p>
+
+<p>Then I solved the flashing of the sketch from a non-rooted device writing my custom Android service.</p>
+
+<p>But one of the most challenging things was the reset button: I checked many different solutions like the soft reset or the Watchdog, but none of them was satisfying for different reasons; then I bought an ADAFruit BT modem that I could connect to a simple reset circuit implemented by me…. And it worked great by laptop (that means I didn’t have to press the reset button) but not from Android because of the bloody BT stack implementation in Android that doesn’t give the possibility of sending control signals through serial…</p>
+
+<p>…then I found a trick, implementing a simple circuit for creating a “programming mode” on Triduino…. Ahhhhhhhhh what a satisfaction!!!!</p>
+
+<p>Now we have something that can really <strong>make the difference allowing everyone</strong> (not necessarily a geek!!) that wants to have some sensors to be monitored with the mobile to create their own device.</p>
+
+<p>The next step is taking the output of the sensors (that are already post-processed using the configured formula) and submitting them into open data networks.</p>
+
+<p>Stay tuned!!</p>
+
+<p><strong>“Long life and prosperity”</strong></p>
+
+<p><strong>Tech specs:</strong></p>
+
+<ol>
+  <li>Arduino UNO V3 (microcontroller)
+    <ul>
+      <li>Arduino Termistor (Temperature Sensor)</li>
+      <li>Arduino Hall effect Sensor (Magnetic field Sensor)</li>
+      <li>BlueSMIRF (Sparkfun Bluetooth modem)</li>
+      <li>1uF polarized capacitor</li>
+      <li>1NPN BjT</li>
+      <li>1 button</li>
+      <li>1 RGB LED</li>
+      <li>2 220 Ohm resistors</li>
+      <li>wires</li>
+      <li>Triduino Lib V9</li>
+      <li>Triduino Android App V9</li>
+      <li>Triduino Api V9</li>
+      <li>Triduino Code Generator V9</li>
+      <li>time and patience</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Costs:</strong> 63€</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>soldipubblici.gov.it</title>
+<link href="/open%20data/2014/12/20/soldipubblici.html" />
+<id>/open%20data/2014/12/20/soldipubblici.html</id>
+<published>2014-12-20T19:40:00+01:00</published>
+<updated>2014-12-20T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>“By understanding how governments spend money in our name can we have a say in how that money will affect our own lives.” <a href="https://openspending.org/">(source)</a></p>
+
+<p>To be more transparent on how public administrations spend in Italy, <strong>SciamLab</strong> was the main contributor in the realization of <a href="http://soldipubblici.gov.it">the Italian Government Site SoldiPubblici</a>, the communication of government spending to citizens.</p>
+
+<p>The site is <strong>a semantic search engine</strong> built on Apache Solr. It integrates the data from <strong>SIOPE</strong> (Sistema Informativo delle Operazioni degli Enti Pubblici), the information system for the public government operations, with a semantic dictionary that enables users to search public administration expenditures using common words, other then compare them to other ones.</p>
+
+<p>This first release allows you to access the data of monthly payments to the regions, to the provinces, to the municipalities and to regional health agencies.
+The next stages of the project will cover the possibility to directly download data and will be produced an extension of the search, visualization and data analysis based on other public administration categories. That will be an opportunity to broaden the spectrum to all public administrations.</p>
+
+<p>On the other hand, perhaps the most important challenge regards <strong>electronic invoicing</strong>. From 31 March 2015, all suppliers of local public administrations will have to compulsorily send electronic invoices, as already do the suppliers of central public administrations from June 6 this year.</p>
+
+<p><strong>SciamLab</strong> has worked in this project with a view to greater transparency and participation. Our objectives have been to promote and improve access to the citizens of the public administration expenditure.</p>
+
+<p>Discover <strong>how much, whom and for what</strong> the Italian government spends <a href="http://soldipubblici.gov.it">here</a>.</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Workshop Open and Big data visualization</title>
+<link href="/open%20data/2014/11/15/workshop-open-big-data.html" />
+<id>/open%20data/2014/11/15/workshop-open-big-data.html</id>
+<published>2014-11-15T15:50:00+01:00</published>
+<updated>2014-11-15T15:50:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>The visualization of data and information is the new frontier for communications design and artistic and creative activities. <strong>SciamLab</strong> has organized and held <strong>an innovative data analysis and visualization workshop</strong> with the Rome University of Fine Arts (RUFA) and <a href="http://www.millepiani.eu">Millepiani</a>.</p>
+
+<p>At the workshop <strong>artists and visual designers</strong> have faced together the issue of open data and big data and how to make them available through their display.</p>
+
+<p><strong>From infographics to digital applications</strong> that enable users explore the information flows. And for example, a creative design as representation of the invisible, not as “opaque” but as “Abstract”.</p>
+
+<p>“The aesthetics of flows: Open date and Big Data Visualization” has transferred the skills of the work in multidisciplinary team applied to <strong>the analysis and visualization of data</strong>.</p>
+
+<p>This innovative workshop was addressed to RUFA students of the second and third year and organized by Enrico Parisio and Alessio Dragoni.</p>
+
+<p>The future will be for minds that are smart creative, business expertise and technical skill. So let’s start working together!</p>
+
+<p>To learn more about the project visit the following links:</p>
+
+<p><a href="http://www.peoplemov.in">Immigrants and emigrants population flow for nations</a></p>
+
+<p><a href="http://drones.pitchinteractive.com/">Data on victims (by type) of drones in Pakistan (historical 2004-2013)</a></p>
+
+<p><a href="http://globe.chromeexperiments.com/">Viewing of the world population</a></p>
+
+<p><a href="http://maulik-kamdar.com/code/meteorViz/">Screening on the places where meteorites have fallen (by type) from 1800 to today</a></p>
+
+<p><a href="http://istatcontest.sciamlab.com/regioni.html">Interactive application based on the crossing of ISTAT data “Il dato è tratto”</a></p>
+
+<p><a href="http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?rref=upshot&amp;smid=tw-upshotnyt&amp;abt=0002&amp;abg=1&amp;_r=0">A 3-D view of a chart that predicts the economic future: the yield curve</a></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Il dato è tratto receives the 3rd place in the ISTAT Censimenti Data Challenge</title>
+<link href="/open%20data/2014/10/30/il-dato-e-tratto.html" />
+<id>/open%20data/2014/10/30/il-dato-e-tratto.html</id>
+<published>2014-10-30T19:40:00+01:00</published>
+<updated>2014-10-30T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p><strong>SciamLab</strong> with the rest of the team of the <strong>“Il dato è tratto” application</strong> has been awarded for the 3rd place in the ISTAT Censimenti Data Challenge for having submitted <strong>the best app</strong> on the reuse of ISTAT data.</p>
+
+<p>The basic elements of the project are related to the data that the ISTAT produces during censuses and in particular that relating to <strong>the industry census</strong>.</p>
+
+<p>“Il dato è tratto” application aims <strong>to democratize the data</strong> and make it easily usable for anyone. In fact, we are all used with official and unofficial data to be exposed on the web at the best as tables on which you can apply filters and export data in various format. These data are of difficult comprehension at a first glance and requires further, sometime cumbersome analysis that only some people can do. The goal of the project is to present the data to the next door user in an easy consumable way with the help of graphics. In particular this project uses the elevation of the three dimensional graph as a metric and the region colour as a second metric, making comparison between regions and correlation between metrics easy just looking to the graph.</p>
+
+<p>For these reasons, “Il dato è tratto” started on a trial because it is a project that <strong>tries to combine expertise</strong> in areas completely different as engineering, data analysis or Statistic. But above all it tries to bring this experience in the most artistic, design and communicative way.</p>
+
+<p>Part of this project also aims to build a regional map and to mark on it the ability of the territory itself to react against <strong>unemployment (regional resilience)</strong> through the graphical comparison of the available metrics.</p>
+
+<p>To know more:</p>
+
+<p><a href="http://istatcontest.sciamlab.com/">ISTAT Contest</a></p>
+
+<p><a href="http://youtu.be/ObgKlNIxJQk">Youtube video in Italian</a></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Large public works meet the Open Data</title>
+<link href="/open%20data/2014/09/19/large-public-works-meet-the-open-data.html" />
+<id>/open%20data/2014/09/19/large-public-works-meet-the-open-data.html</id>
+<published>2014-09-19T19:40:00+02:00</published>
+<updated>2014-09-19T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>In the last few weeks the The Superintendence for Archaeological Heritage of Pompeii, Herculaneum and Stabia under the guidance of the Institute of the Ministry of Heritage and Culture released <a href="http://open.pompeiisites.org/">http://open.pompeiisites.org/</a> the first open datasets with the entire tenders and work status details of the archeological sites.</p>
+
+<p>After just few days from the Open Pompei debut we released the new transparency and open data portal for the Expo 2015 now available on <a href="http://www.openexpo2015.it">http://www.openexpo2015.it</a>. OpenExpo is the result of a massive effort coordinated by Giovanni Menduni from the Milan Polytechnic who see us involved in a heterogeneous team with members from Expo 2015 s.p.a., The Department of Statistic, Information and Application (DiSIA) of the University of Florence, Formez PA and Wikitalia who’s responsible and leading the entire initiative. Giovanni in <a href="http://www.chefuturo.it/2014/09/il-primo-selfie-bob-dylan-e-il-senso-di-openexpo-per-unitalia-migliore/">his post</a> already made a great summary of the OpenExpo backgrounds and the spirit that animated the entire effort that bring it live in record time.</p>
+
+<p>Meanwhile these two great italian initiaves are shedding a new lights into the domain of large and complex public works is happening that a multinational team is working to a new and dedicated standard to facilitate similar initiative globally.
+I’m talking about <a href="http://www.open-contracting.org/">Open Contracting</a> who have release just today a new beta versions of it’s <a href="http://ocds.open-contracting.org/standard/r/0__3__3/">Open Contracting Data Standard (OCDS)</a></p>
+
+<p>So as it’s happening in many other public sectors where opendata is becoming a default it seems that also for organization involved in large public works, exposing <em>The Good, the Bad and the Ugly</em> is becoming a mandatory step, a unique opportunity to engage with media and the public and estabilish a comunication channel that otherways was not absolutelly immaginable.</p>
+
+<p>Another interesting fact, is that similar initiatives could not be possible without the involvment of public servants and civic hackers often grouped into informal groups or under an NGOs.
+For the <em>Great Pompei Project</em> for example the <a href="http://www.openpompei.it">Open Pompei accompanying project</a> as been pivotal for animating the territory and create the required awarness in the field personel about the the <em>open</em> approach.
+In the case of Open Expo, Wikitalia and his president Riccardo Luna have committed a plan to for openess of the Expo 2015 S.p.A. works <a href="http://luna.blogautore.repubblica.it/2014/07/09/open-expo-cose-cosa-comporta-e-perche-e-finalmente-ripartita-la-trasparenza-di-expo-2015/">during the Digital Venice event</a> and engaged with several private and public organizations to setup in record time the first release of the OpenExpo open data platform.</p>
+
+<p>OK.. if you have not yet stopped reading this post, it means that you are hungry so let me serve you few additional details about what’s behind the scenes of Open Expo in the hope that it will be usefull also for other dealing with similar challenges.</p>
+
+<p>The aim of our team was to deliver a complete set of datasets related to the Expo 2015 works and to make it available reusing as much as possible the approach and infrastructure based on Drupal and CKAN we already setup for the <a href="http://www.dati.gov.it">dati.gov.it</a> portal. The objective so was 1st to make it in time before September the 11th, date set for the <a href="http://www.expo2015.org/it/eventi/tutti-gli-eventi/la-conferenza-stampa-di-presentazione-openexpo">press conference</a> that for te sake was just 12 days after our engagement and 2nd to create from scratch a relational database schema to validate, consolidate and then expose the Expo 2015 works data.
+The data indeed originally come from a shared spreadsheet feeded collaborativelly by Expo’s personnel, periodically dumped into a MS Access and finally consolidated by us into a relational PostgreSQL schema. It was a continuos iterative process that went far beyond the most extreme programming practices. For the layout customization we created a CKAN plugin that has been released as open source and <a href="https://github.com/sciamlab/ckanext-expo2015">made available on GitHub</a>.
+It was challenging but fun, like a mission impossibile, a sleepless experience where no failures can be tolerated!</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Towards liberation and enhancement of regional public data</title>
+<link href="/open%20data/2014/05/15/Lazio-Region-open-data.html" />
+<id>/open%20data/2014/05/15/Lazio-Region-open-data.html</id>
+<published>2014-05-15T19:40:00+02:00</published>
+<updated>2014-05-15T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p><strong>SciamLab</strong> is responsible of the entire CKAN-based Open Data catalog and interoperability platform of <strong>the Open Data Portal of the Lazio Region</strong> (Italy).</p>
+
+<p><a href="https://dati.lazio.it/">dati.lazio.it</a> is the website of the Lazio Region dedicated to Open Data and the regional administration of all government departments of the territory. The site has <strong>four objectives</strong>: to increase the value of public information; raise awareness of all citizens on issues related to Open Data and Open Government; stimulate the involvement and <strong>active participation of citizens</strong> and stakeholders in the project for region opening data; and create opportunities for growth and territorial development by directing the information public to commercial purposes.</p>
+
+<p>For this, the portal is addressed to citizens, public operators, businesses, researchers and journalists on the regional and national level.</p>
+
+<p>It is based on <strong>CKAN open data portal</strong>, heavily customized to meet customer requirements: social login has been added, together with dataset community rating and category based search. The social login part includes a SSO custom integration with Liferay CMS.</p>
+
+<p>Other than the basic portal implementation and the developed customizations, CKAN has been added with the spatial extension, that enables users to search for dataset using spatial queries, and the datastore to automatically expose tabular resources as JSON data API.</p>
+
+<p><strong>dati.lazio.it</strong> is a <strong>big step</strong> to improve the accessibility to public information in this territory. As far, It represents the biggest and ambitious open data initiative by local administration in Italy.</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Amaca Platform presented at Hadoop Summit Europe</title>
+<link href="/open%20data/2014/04/16/Hadoop-Summit-Europe.html" />
+<id>/open%20data/2014/04/16/Hadoop-Summit-Europe.html</id>
+<published>2014-04-16T15:50:00+02:00</published>
+<updated>2014-04-16T15:50:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>SciamLab has presented <strong>Amaca Content Discovery and Enrichment Platform</strong> during <strong>the Apache Hadoop Summit Europe</strong> in Amsterdam.
+Hadoop Summit is <strong>the leading conference</strong> dedicated to the advancement of <strong>Apache Hadoop</strong>.</p>
+
+<p>Amaca is one of our top products. It is a <strong>search engine and data enrichment</strong> that uses Apache Hadoop distribution to process and to keep the update cycle of the catalog within the limits of a few hours.</p>
+
+<p>This <strong>innovative platform</strong> employs algorithms for text analysis and learning techniques to produce and enrich in an automatic way the metadata that describes the data set, making it easier and more effective their search and access.</p>
+
+<p>At the conference <strong>SciamLab</strong> showed how Amaca also provides part of <strong>the extraction of metadata</strong> from sources on the web of the Public Administrations and private companies that have advertised the release of open data where possible through the API or extracting information directly from the HTML.</p>
+
+<p>Another new feature presented was <strong>the easily interoperability</strong>. The internal model of the dataset is now easily interoperable with any platform and allows Amaca to pour and publish information in the main catalogs as CKAN, Socrata, DataPublic, etc.</p>
+
+<p>In Amsterdam Amaca has attracted <strong>the interest of many attendees</strong> and companies. With companies interested in the product SciamLab has had several face to face sessions and has performed a live product demo.</p>
+
+<p>If you want to know more about <strong>our products</strong> do not hesitate to contact us!</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Sciamlab first Triduino prototype ready!</title>
+<link href="/open%20data/2014/04/15/first-triduino-prototype.html" />
+<id>/open%20data/2014/04/15/first-triduino-prototype.html</id>
+<published>2014-04-15T15:50:00+02:00</published>
+<updated>2014-04-15T15:50:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>How many geeks like me grew up with <strong>Star Trek</strong>, its travels across the universe and its technology; how many of you dreamed at least once in their lives <strong>to own one Tricorder</strong>, that magic device used for <strong>sensor-scanning and data analysis</strong> that was able to find life forms, analyzing chemicals, liquids etc. in any possible environment.</p>
+
+<p>One day of December 2013 in a cold Berlin winter and after a couple of beers I started looking in internet for <strong>anyone who actually tried creating one</strong> and I ended up <a href="http://www.tricorderproject.org">here</a> … OMG!!! Someone took the mission very seriously!</p>
+
+<p>Then I had a thought that was: why building the entire hardware while most of us already have all the computational power in their mobiles?</p>
+
+<p>Why instead not trying <strong>to use the mobile</strong> as main elaboration <strong>central of data coming from sensors</strong>?</p>
+
+<p>That was when <strong>Triduino</strong> was born.</p>
+
+<p>I took my <a href="blog.post({id:'2013-12-21-air-quality-low-cost'})">small air quality station</a> I attached it one temperature sensor and one <strong>temperature/humidity sensor</strong>, I updated the Arduino sketch in order to implement a trivial communication protocol XML-based (yeah I know I know why not JSON?) and I started coding a java library that could be used in both, desktop and Android in order to allow the creation of desktop and mobile applications for:</p>
+
+<p>1)	communicating with Arduino using my trivial protocol</p>
+
+<p>2)	configuring sensors (through one XML file)</p>
+
+<p>all in few minutes.</p>
+
+<p>Not only: what I wanted to achieve was also the possibility of <strong>defining a formula</strong> to be applied to the raw signal coming from sensors and being elaborated on the mobile in real-time.</p>
+
+<p>After few iterations I wrote a simple Android application using the Triduino library (below a collage of the screenshots of the app) where sensors configuration can be done on the application (formula included) and real-time values coming via Bluetooth are displayed in real-time graphs (applying in real-time the formula!)…cool isn’t it?</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/triduino.jpg?raw=true" alt="triduino" /></p>
+
+<p>The concept has been proved! We still have to decide what we’ll do next because the potential seems very high and we want to take the right direction.</p>
+
+<p>Remain tuned for the next updates on that!</p>
+
+<p><strong>“Long life and prosperity”</strong></p>
+
+<p><strong>Tech specs:</strong></p>
+
+<p>1)	Arduino UNO V3 (microcontroller)</p>
+
+<p>2)	GP2Y1010AU0F (Sharp optical air quality sensor)</p>
+
+<p>3)	Arduino T000200 (Temperature Sensor)</p>
+
+<p>4)	DHT11 (Temperature and Humidity Sensor)</p>
+
+<p>5)	BlueSMIRF (Sparkfun Bluetooth modem)</p>
+
+<p>6)	220uF polarized capacitor</p>
+
+<p>7)	150 OHM resistor</p>
+
+<p>8)	9V battery</p>
+
+<p>9)	wires</p>
+
+<p>10)	 Triduino Lib V7</p>
+
+<p>11)	 Triduino Android App V7</p>
+
+<p>12)	time and patience</p>
+
+<p><strong>Costs:</strong> 60€</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Sciamlab first air quality low cost station</title>
+<link href="/open%20data/2013/12/21/air-quality-low-cost.html" />
+<id>/open%20data/2013/12/21/air-quality-low-cost.html</id>
+<published>2013-12-21T15:50:00+01:00</published>
+<updated>2013-12-21T15:50:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>We finally implemented our first <strong>air quality low cost station</strong>!
+Few days ago we found on internet <a href="http://airqualityegg.com">the airqualityegg</a> and inspired from that project we told ourselves: why don’t we try approaching the problem checking out if we can do something similar with a <strong>lower cost</strong>? Well we took our <strong>Arduino</strong>, an air quality sensor, <strong>a Bluetooth modem</strong>, some spare time and….voilà!
+Here our small station sends via Bluetooth the values of <strong>the concentration of air particles</strong> in mg/m3 to <strong>an android device</strong> every second.</p>
+
+<p><strong>Tech specs:</strong></p>
+
+<p>1)	Arduino UNO V3 (microcontroller)</p>
+
+<p>2)	GP2Y1010AU0F (Sharp optical air quality sensor)</p>
+
+<p>3)	BlueSMIRF (Sparkfun Bluetooth modem)</p>
+
+<p>4)	220uF polarized capacitor</p>
+
+<p>5)	150 OHM resistor</p>
+
+<p>6)	9V battery</p>
+
+<p>7)	wires</p>
+
+<p>8)	time and patience</p>
+
+<p><strong>Implementation time:</strong> 2hours (crimping connectors for the sensor without a proper crimper has been the longest activity)</p>
+
+<p><strong>Costs:</strong> 57€</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Smart Waste Management Solution</title>
+<link href="/open%20data/2013/12/20/smart-waste-management-solution.html" />
+<id>/open%20data/2013/12/20/smart-waste-management-solution.html</id>
+<published>2013-12-20T19:40:00+01:00</published>
+<updated>2013-12-20T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>We live in the smart era. Technology has changed our everyday lives up to the level which facilitates the management of our waste.</p>
+
+<p>Thinking on this, <strong>SciamLab has created the Smart Waste Management Solution</strong> using a GPRS that enables low cost volume sensors coupled with a Routing Optimization Web Application.</p>
+
+<p>This Smart Waste Management System is used to control the filling level of the containers. <strong>The benefits are enormous</strong>. Routes and pick-up times are optimized and it saves energy and CO2 emissions. Also it avoids having fully loaded containers where garbage is overflowing or, on the contrary, make unnecessary collections where there are half empty containers.</p>
+
+<p>The Smart Waste Management Solution provides to waste management companies and organizations a service that enables <strong>cost savings</strong> between 20% and 40% by monitoring and analyzing the levels of filling of containers in real-time and by optimizing intervals and paths for the waste collection.</p>
+
+<p>In a system, for an example, where there are 5 containers in 37.5 km you will make 60% fewer collections and 52% less km driven.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/benefits.JPG" alt="benefits" /></p>
+
+<p>How is it possible? The Smart System could be installed in the roof of all types of containers. The device owner fills level measurement. It is based on an ultrasonic sensor and <strong>the events are sent by wireless RF or GPRS</strong>. It also has a temperature detection integrated and a battery life +10 years. It is weatherproof housing IP67* and the electronic equipment is suitable to withstand extreme conditions (temperature, shock, pressure).
+How do we work? We do a real-time monitoring. The signals with filling level and temperature are sent to SciamLab.</p>
+
+<p><strong>The SciamLab sites</strong> provides the % current and planned,  24h/7d Web interface, real-time status, alerts and tools for planning and management of the fleet of vehicles, dynamic calculation of optimal paths subdivided according to the resources and daily drivers available, supported API for customization and integration with other SmartLab systems.</p>
+
+<p>The service subscription could be monthly, annual or multi-annual. If you want to know more about it please do not hesitate <a href="http://www.sciamlab.com/company/contact_us">to contact us!</a></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>My data, my life</title>
+<link href="/open%20data/2013/12/18/my-data-my-life.html" />
+<id>/open%20data/2013/12/18/my-data-my-life.html</id>
+<published>2013-12-18T15:50:00+01:00</published>
+<updated>2013-12-18T15:50:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>In everyone’s life, experiences mediated by software occupy an increasingly large portion of our day and basically that is likely to increase over time. Despite it happen constantly before our eyes - every time we use the phone to call home, the office computer, reading the newspaper on the tablet or taking directions from the navigator in the car - we do not realize that willy-nilly we leave a trace of ourselves and of our actions in any internediate system that records.</p>
+
+<p>The production of personal data that concern us and that we allow or maybe want share is ‘already started’ since several years, but the amount, the frequency and spread only recently assumed a trend that follows Moore’s law so it’s going to increase exponentially over time. Google Glass is slowly approaching into the lives of many of us. It’s now time for a second and then a thrird wave after smartphones and smartwatches of personal tools that make our experience mediated by the software more and more “integrated with every moment of our lives”.</p>
+
+<p>Far from being a criticism, this is to be a realization that our habits, our interests, and much more of the personal sphere is ‘destined to become heritage of many other entities’ wholly alien to us. It ‘s not only the concept of privacy connotations that are taking more and more’ subtle but they are what we consider the basic elements of our conception of society’.</p>
+
+<p>A lucid and fascinating reflection on these issues is contained in the book <a href="http://www.jaronlanier.com/futurewebresources.html">Who Owns the Future</a> by Jaron Lanier that’s the creator of concepts such as virtual-reality and’ back in their footsteps and even staying in the role of Silicon Boys, peers with a sharp criticism of the radical changes that the technology and software in particular have led to humanity.</p>
+
+<p>We are wondering about these issues and whetted us the idea of ​​talking about it here to open our blog. In these columns, we want to share what happens behind the scenes of opendatahub.it and the discussions that animate our days while we reason how to make easier and more effective access to the open data available in Italy.</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>Hadoop Certified Professional (HCP)</title>
+<link href="/open%20data/2013/06/15/Hadoop-Certified-Professional.html" />
+<id>/open%20data/2013/06/15/Hadoop-Certified-Professional.html</id>
+<published>2013-06-15T19:40:00+02:00</published>
+<updated>2013-06-15T19:40:00+02:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>Our team of <strong>SciamLab Engineers</strong> has obtained <strong>the Hadoop Certified Professional (HCP) certification</strong> from Hortonworks. This kind of certification is intended for developers who design, develop and architect Hadoop-based solutions, consultants who create Hadoop project proposals and Hadoop development instructors. Those certified are recognized as having a <strong>high level of skill</strong> in Apache Hadoop.</p>
+
+<p>Things keep changing, and when in IT, you should know that the rule of the game is to understand the new wave and ride it. For this, we are pleased to have achieved it. Improve our skills is <strong>the SciamLab way</strong> to provide the best solutions.</p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>dati.gov.it</title>
+<link href="/open%20data/2013/03/20/datigov.html" />
+<id>/open%20data/2013/03/20/datigov.html</id>
+<published>2013-03-20T19:40:00+01:00</published>
+<updated>2013-03-20T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p><strong>SciamLab</strong> has been engaged for the implementation of the Italian National Open Data Catalog, dati.gov.it.</p>
+
+<p>Using the SciamLab <strong>Amaca Platform</strong>, the current catalog of 600 datasets will immediately grow up to 7000 datasets. Amaca automatically collects data from 80% of all the available datasets opened by Public Administrations, as it is currently doing for the SciamLab OpenDataHub.it, today the largest italian open data catalog.</p>
+
+<p>Amaca uses <strong>Apache Hadoop</strong> to distribute data sources processing and to maintain the catalog update cycle within the limits of a few hours. Amaca uses MapReduce algorithms for text analysis, and learning techniques to produce and enrich automatically the metadata describing the dataset, making it easier and more effective their research and access by users.</p>
+
+<p><img src="https://github.com/sciamlab/blog/blob/gh-pages/images/infografica%20gov.it.JPG?raw=true" alt="infografica" /></p>
+
+<p>Amaca also provides <strong>the extraction of metadata</strong> from Web Public Administration sources and from public and private companies when API have been made available or, where possible, scraping information directly from web sites.</p>
+
+<p>The internal data model used by Amaca conforms to and supports the format DCAT and DCAT-AP Application Profile for interoperability between European portals.  DCAT and DCAT-AP define precisely sets of minimum information that must be present in the descriptive metadata of in the open dataset.</p>
+
+<p>The internal model and the dataset are indeed easily interoperable with any platform, allowing to publish the information through Amaca in the most importants catalogs like CKAN, Socrata, DataPublic, etc.</p>
+
+<p>Stay tuned for <strong>the next 10000 datasets milestone!!</strong></p>
+
+</div>
+</content>
+</entry>
+
+<entry>
+<title>SciamLab presents the OpenDataHub Italia at the International Open Data Day 2013</title>
+<link href="/open%20data/2013/02/19/OpenDataHub-Italia.html" />
+<id>/open%20data/2013/02/19/OpenDataHub-Italia.html</id>
+<published>2013-02-19T19:40:00+01:00</published>
+<updated>2013-02-19T19:40:00+01:00</updated>
+<content type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>During the International Open Data Day 2013 in Rome <strong>SciamLab</strong> has presented <strong>the OpenDataHub Italia</strong>.</p>
+
+<p>Opendatahub.it is currently the most important and widely used platform <strong>for indexing and searching open datasets</strong> (Open Data) available in Italy.</p>
+
+<p>The index and the information about the dataset are drawn up by a search engine and data enrichment called <strong>Amaca</strong>, implemented by <strong>SciamLab</strong>.</p>
+
+<p>Amaca uses <strong>Apache Hadoop</strong> for the process and to keep the update cycle of the catalog within the limits of a few hours.</p>
+
+<p>The elaboration is done through <strong>MapReduce</strong>. The algorithms are employed for the analysis of texts in Italian and learning techniques to produce and enrich automatically metadata that describes the dataset, making it easier and more effective their research and access.</p>
+
+<p>Amaca also provides the extraction of metadata from sources on the web of the Public Administrations and private companies that have advertised the release of open data were possible through the <strong>API</strong> or extracting information directly from the <strong>HTML</strong>.</p>
+
+</div>
+</content>
+</entry>
+
+</feed>
