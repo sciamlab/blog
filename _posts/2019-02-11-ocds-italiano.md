@@ -17,12 +17,6 @@ Presto pubblicheremo qui i dettagli dell'incontro di presentazione dello Standar
 
 L'incontro si terrà presso [SciamLab](https://www.google.com/maps/place/SciamLab+AI+Fab/@41.8836141,12.4852279,17z/data=!4m12!1m6!3m5!1s0x13258a7db2113171:0x55d63887a3da35c9!2sSciamLab+AI+Fab!8m2!3d41.8836101!4d12.4874219!3m4!1s0x13258a7db2113171:0x55d63887a3da35c9!8m2!3d41.8836101!4d12.4874219)
 
-<pre>
-Via del Circo Massimo, 7
-00193, Roma, Italy
-</pre>
-
-
 
 
 
